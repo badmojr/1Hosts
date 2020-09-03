@@ -1,4 +1,7 @@
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70e5aaec0f0142099c1f833beb5ca2fd)](https://app.codacy.com/manual/badmojr/1Hosts?utm_source=github.com&utm_medium=referral&utm_content=badmojr/1Hosts&utm_campaign=Badge_Grade_Dashboard)
+
 *Grab an updated copy of the file(s) today!*<br>
 
 **AdAway, Pi-hole**:-<br>
