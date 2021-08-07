@@ -1,7 +1,7 @@
 
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 <p align="right">Powered by:
-<a href="https://adguard.com/?aid=31921" target="_blank"><img alt="AdGuard" src="./statics/img/adguard.png"></a>
+<a href="https://adguard.com/?aid=31921" target="_blank"><img alt="AdGuard" src="./.data/static/img/adguard.png"></a>
 </p>
 
 *Grab an updated copy of the file(s) today!*<br>
@@ -268,7 +268,7 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <br>
 <p align="center">
   <strong>users. clients. projects. services. fans. mentions.</strong> <br>
-  <a href="./statics/assets.txt">Dear list maintainers, thank you! Couldn't have done it without you.</a> <br>
+  <a href="./.data/lists/assets.txt">Dear list maintainers, thank you! Couldn't have done it without you.</a> <br>
    <br>
   <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
   <a href="https://malwaretips.com/search/230934/?q=1Hosts&amp;o=date">malwaretips.com/search/230934/?q=1Hosts&amp;o=date</a> <br>
