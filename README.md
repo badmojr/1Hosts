@@ -1,8 +1,5 @@
 
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
-<p align="right">Powered by:
-<a href="https://adguard.com/?aid=31921" target="_blank"><img alt="AdGuard" src="./-data/static/img/adguard.png"></a>
-</p>
 
 *Grab an updated copy of the file(s) today!*<br>
 
