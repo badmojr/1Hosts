@@ -22,6 +22,7 @@
 <th>mirror 5</th>
 <th>mirror 6</th>
 <th>mirror 7</th>
+<th>mirror 8</th>
 </tr>
 </thead>
 <tbody>
@@ -34,6 +35,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_hosts.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole</td>
@@ -44,6 +46,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_domains.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
@@ -54,6 +57,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.wildcards">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_domains.wildcards">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin . AdGuardHome</td>
@@ -64,6 +68,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_adblock.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_adblock.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
@@ -74,6 +79,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/wildcards.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_wildcards.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_wildcards.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
@@ -84,6 +90,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/dnsmasq.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_dnsmasq.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_dnsmasq.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot . Bind9 . PowerDNS</td>
@@ -94,6 +101,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/rpz.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_rpz.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_rpz.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
@@ -104,6 +112,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/unbound.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_unbound.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_unbound.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
@@ -114,6 +123,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.win">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_hosts.win">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
@@ -124,6 +134,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/snitch.rules">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_snitch.rules">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/mini_snitch.rules">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
@@ -143,6 +154,7 @@
 <th>mirror 5</th>
 <th>mirror 6</th>
 <th>mirror 7</th>
+<th>mirror 8</th>
 </tr>
 </thead>
 <tbody>
@@ -155,6 +167,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_hosts.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole</td>
@@ -165,6 +178,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_domains.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
@@ -175,6 +189,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.wildcards">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_domains.wildcards">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin . AdGuardHome</td>
@@ -185,6 +200,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_adblock.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_adblock.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
@@ -195,6 +211,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/wildcards.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_wildcards.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_wildcards.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
@@ -205,6 +222,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/dnsmasq.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_dnsmasq.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_dnsmasq.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot . Bind9 . PowerDNS</td>
@@ -215,6 +233,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/rpz.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_rpz.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_rpz.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
@@ -225,6 +244,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/unbound.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_unbound.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_unbound.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
@@ -235,6 +255,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.win">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_hosts.win">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
@@ -245,6 +266,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/snitch.rules">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_snitch.rules">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Lite_snitch.rules">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
@@ -264,6 +286,7 @@
 <th>mirror 5</th>
 <th>mirror 6</th>
 <th>mirror 7</th>
+<th>mirror 8</th>
 </tr>
 </thead>
 <tbody>
@@ -276,6 +299,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_hosts.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole</td>
@@ -286,6 +310,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_domains.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
@@ -296,6 +321,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.wildcards">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_domains.wildcards">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin . AdGuardHome</td>
@@ -306,6 +332,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_adblock.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_adblock.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
@@ -316,6 +343,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/wildcards.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_wildcards.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_wildcards.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
@@ -326,6 +354,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/dnsmasq.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_dnsmasq.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_dnsmasq.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot . Bind9 . PowerDNS</td>
@@ -336,6 +365,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/rpz.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_rpz.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_rpz.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
@@ -346,6 +376,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/unbound.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_unbound.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_unbound.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
@@ -356,6 +387,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.win">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_hosts.win">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
@@ -366,6 +398,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/snitch.rules">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_snitch.rules">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Pro_snitch.rules">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
@@ -385,6 +418,7 @@
 <th>mirror 5</th>
 <th>mirror 6</th>
 <th>mirror 7</th>
+<th>mirror 8</th>
 </tr>
 </thead>
 <tbody>
@@ -397,6 +431,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_hosts.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole</td>
@@ -407,6 +442,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_domains.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
@@ -417,6 +453,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.wildcards">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_domains.wildcards">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin . AdGuardHome</td>
@@ -427,6 +464,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_adblock.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
@@ -437,6 +475,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/wildcards.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_wildcards.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_wildcards.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
@@ -447,6 +486,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/dnsmasq.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_dnsmasq.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_dnsmasq.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot . Bind9 . PowerDNS</td>
@@ -457,6 +497,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/rpz.txt">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_rpz.txt">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_rpz.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
@@ -467,6 +508,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/unbound.conf">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_unbound.conf">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_unbound.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
@@ -477,6 +519,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.win">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_hosts.win">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
@@ -487,6 +530,7 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/snitch.rules">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_snitch.rules">dl</a></td>
 <td><a href="https://archive.org/download/1Hosts/Xtra_snitch.rules">dl</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
