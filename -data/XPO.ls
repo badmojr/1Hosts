@@ -16450,6 +16450,7 @@ live.remo.co
 assets.rentable.co
 images.rentable.co
 www.rentable.co
+4356456456456--4343243434.repl.co
 abnumality.repl.co
 thething.abnumality.repl.co
 application08.repl.co
@@ -79663,7 +79664,6 @@ www.dailythanthi.com
 cdn-0.dailythemedcrosswordanswers.com
 assets.dailytimewaste.com
 cdn.dailytimewaste.com
-www.dailytribune.com
 account.dailyvoice.com
 alerts.dailyvoice.com
 email.alerts.dailyvoice.com
@@ -147640,6 +147640,7 @@ giinsurance.lv.com
 click.giinsurance.lv.com
 tmsgi.lv.com
 www.lv.com
+news.lvb.com
 www.lvb.com
 www.lvmh.com
 mx1.lw.com
@@ -157261,8 +157262,8 @@ go.moonvalleynurseries.com
 www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
+togetno992.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 www.moosejaw.com
 cdn-editor.moosend.com
 ientry.moosend.com
@@ -165215,7 +165216,6 @@ mnr.email.newsweek.com
 subscribe.newsweek.com
 videos.newsweek.com
 media.newswest9.com
-www.newswest9.com
 cdn.newswire.com
 www.newswire.com
 www.newswise.com
@@ -250155,7 +250155,6 @@ www.wishafriend.com
 embedded.wishpondpages.com
 www.wishtv.com
 sli.wisn.com
-www.wisn.com
 benchmark.wistia.com
 chicagotitle.wistia.com
 corvus.wistia.com
@@ -251293,7 +251292,6 @@ demos.wpbeaverbuilder.com
 updates.wpbeaverbuilder.com
 www.wpbeaverbuilder.com
 www.wpbeginner.com
-www.wpbf.com
 echo.wpc16.com
 kumpulansyairku.wpcomstaging.com
 sacredwordpublishing.wpcomstaging.com
@@ -252181,7 +252179,6 @@ top.wswebpic.com
 schoolbuy.top.wswebpic.com
 api.schoolbuy.top.wswebpic.com
 sli.wtae.com
-www.wtae.com
 www.wtap.com
 api.wtatennis.com
 photoresources.wtatennis.com
@@ -252414,7 +252411,6 @@ services.wwnorton.com
 static.wwnorton.com
 sw5.wwnorton.com
 util.wwnorton.com
-www.wwnytv.com
 www.wws-channel.com
 apps.wwt.com
 cdn.apps.wwt.com
@@ -255006,6 +255002,7 @@ customer.yamibuy.com
 m.yamibuy.com
 trade.yamibuy.com
 www.yamibuy.com
+yamisiones.com
 api.yammer.com
 appvercop.yammer.com
 assets.yammer.com
@@ -275162,7 +275159,6 @@ www.patrasevents.gr
 cdn.plaisio.gr
 www.plaisio.gr
 www.priveshop.gr
-www.protagon.gr
 en.protothema.gr
 abpcdn.pstatic.gr
 bbpcdn.pstatic.gr
@@ -283393,7 +283389,6 @@ us2.storj.io
 version.storj.io
 www.storj.io
 api.storyly.io
-trk.storyly.io
 web-story.storyly.io
 discuss.streamlit.io
 share.streamlit.io
@@ -321535,6 +321530,7 @@ www.driverupdate.net
 www.drogisterij.net
 www.droidforums.net
 secondary007.dtag.net
+serrvvicce01.dubya.net
 www.duping.net
 api.dvidshub.net
 cdn.dvidshub.net
@@ -358734,7 +358730,6 @@ t.tfbnw.net
 mirror.t.tfbnw.net
 storage-wp.thaipost.net
 www.thaipost.net
-www.thecomet.net
 archive.thedailystar.net
 epaper.thedailystar.net
 images.thedailystar.net
@@ -391166,6 +391161,10 @@ www.compari.ro
 m.crestinortodox.ro
 www.crestinortodox.ro
 www.cursbnr.ro
+dcnews.ro
+m.dcnews.ro
+media.dcnews.ro
+www.dcnews.ro
 www.decathlon.ro
 i.dedeman.ro
 www.dedeman.ro
@@ -393415,7 +393414,6 @@ clu-moi.com.sa
 www.clu-moi.com.sa
 enjazit.com.sa
 eserve.com.sa
-golden-scarf.com.sa
 accounts.google.com.sa
 consent.google.com.sa
 maps.google.com.sa
