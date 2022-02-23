@@ -11477,6 +11477,7 @@ arthrex.wta-us2.wfs.cloud
 wta-us8.wfs.cloud
 dotfoods.wta-us8.wfs.cloud
 onepeloton.wta-us8.wfs.cloud
+cdn.wisc.cloud
 armstrong-prod.wna.cloud
 admin.armstrong-prod.wna.cloud
 w1.123-movies.club
@@ -55974,8 +55975,6 @@ api001.backblazeb2.com
 api002.backblazeb2.com
 api003.backblazeb2.com
 api004.backblazeb2.com
-f003.backblazeb2.com
-f004.backblazeb2.com
 us-west-000.backblazeb2.com
 s3.us-west-000.backblazeb2.com
 us-west-001.backblazeb2.com
@@ -57644,6 +57643,8 @@ link.emails.bbr.com
 media.bbr.com
 www.bbr.com
 www.bbraun.com
+bbraunusa.com
+www.bbraunusa.com
 alerts.bbscanner.com
 assets.bbt.com
 bank.bbt.com
@@ -57685,6 +57686,8 @@ geenstijl.bbvms.com
 independent.bbvms.com
 mannenmedia.bbvms.com
 omroepbrabant.bbvms.com
+publift.bbvms.com
+pubmatic.bbvms.com
 racingnews365.bbvms.com
 rijnmond.bbvms.com
 rtvnoord.bbvms.com
@@ -102926,6 +102929,7 @@ img.forzieri.com
 public.forzieri.com
 www.forzieri.com
 www.fosroc.com
+analytics.fosrvt.com
 services.fosrvt.com
 c.fossil.com
 e.fossil.com
@@ -143949,6 +143953,7 @@ broker.mapmyindia.com
 outpost.mapmyindia.com
 guides.mapmyrun.com
 www.mapmyrun.com
+mapp.com
 api-gateway.mappedin.com
 cdn.mappedin.com
 mappedin-web-load.mappedin.com
@@ -160078,6 +160083,7 @@ mi.nfl.com
 mobile.nfl.com
 aws-userapi.mobile.nfl.com
 feedproxy.mobile.nfl.com
+nfltags.com
 assets-atv.nflxext.com
 help.nflxext.com
 ncds.nflxext.com
@@ -166612,6 +166618,7 @@ v3.openlanguage.com
 assets.openlearning.com
 live-socketcluster.openlearning.com
 www.openlearning.com
+openlm.com
 www3.openload-streamango.com
 www.openme.com
 accounts.openmygame.com
@@ -176361,6 +176368,7 @@ live-ar-match-epic.game.playstove.com
 live-a-gate-epic.game.playstove.com
 live-g-gate-epic.game.playstove.com
 live-star-epic.game.playstove.com
+sdkweb.playstove.com
 static.playstove.com
 ct.playsugarhouse.com
 media.ct.playsugarhouse.com
@@ -217803,6 +217811,7 @@ ci3.toservers.com
 ar.ci3.toservers.com
 com.ar.ci3.toservers.com
 trendset.com.ar.ci3.toservers.com
+mail.trendset.com.ar.ci3.toservers.com
 jerbo-malo.toservers.com
 commerce.toshiba.com
 dl.toshiba.com
@@ -280189,6 +280198,8 @@ u.heatmap.it.web.cdn.anycast.me
 net.web.cdn.anycast.me
 adbutter.net.web.cdn.anycast.me
 static.adbutter.net.web.cdn.anycast.me
+dns200.anycast.me
+ns200.anycast.me
 simplehelp.apx.me
 ss.apx.me
 formetco.ss.apx.me
@@ -281349,7 +281360,6 @@ images.xoso.me
 p1.xoso.me
 p2.xoso.me
 p4.xoso.me
-api.youcanbook.me
 app.youcanbook.me
 upload.youcanbook.me
 lb01.yt2mp3s.me
@@ -374520,7 +374530,6 @@ help.driving-tests.org
 m.driving-tests.org
 updates.drupal.org
 feeds.dshield.org
-0pt-wellfargo-s3cured.duckdns.org
 admciti-approval17.duckdns.org
 bankeberg.duckdns.org
 bhav.duckdns.org
@@ -374540,6 +374549,9 @@ picpus.duckdns.org
 ragtor.duckdns.org
 secure03-bank-wells.duckdns.org
 secure-09d-chase0nlinepr0t3ction.duckdns.org
+secure-hunt3ington.duckdns.org
+mail.secure-hunt3ington.duckdns.org
+www.secure-hunt3ington.duckdns.org
 sup-netflix.duckdns.org
 s-wave.duckdns.org
 tdfsfvuxwi.duckdns.org
@@ -374547,6 +374559,7 @@ trkr.duckdns.org
 updatechrome.duckdns.org
 verify-users-auth-3-wells.duckdns.org
 verstream.duckdns.org
+wellsfargo-s3cured.duckdns.org
 zkrhlkbofa.duckdns.org
 www.ducks.org
 www.dukehealth.org
