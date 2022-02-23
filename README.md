@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/badmojr/1Hosts"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="repo size"></a>
     <a href="https://github.com/badmojr/1Hosts/commits/master"><img src="https://img.shields.io/github/commit-activity/w/badmojr/1Hosts?logo=adblock&style=plastic" alt="commit activity"></a>
-    <a href="https://github.com/badmojr/1Hosts/commits/master"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=5&color=purple&icon=github" alt="last commit"></a>
+    <a href="https://github.com/badmojr/1Hosts/commits/master"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="last commit"></a>
     <a href="https://github.com/badmojr/1Hosts"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
 </p>
 
