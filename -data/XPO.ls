@@ -151,7 +151,6 @@ chalair.crane.aero
 cdn.ek.aero
 fly10.ek.aero
 static.pobeda.aero
-www.sita.aero
 airfrance.traveldoc.aero
 infopages.traveldoc.aero
 klm.traveldoc.aero
@@ -272,7 +271,6 @@ accounts.kaleido.ai
 deliver.kontent.ai
 bots.kore.ai
 rtm.kore.ai
-account.krisp.ai
 app.leeloo.ai
 ssp-cookie.logan.ai
 useast2.logan.ai
@@ -1832,7 +1830,6 @@ telecom.com.ar
 lemu.telecom.com.ar
 vpn-ssl.telecom.com.ar
 tiendeo.com.ar
-tntsports.com.ar
 www.tripadvisor.com.ar
 trynet.com.ar
 ns1.trynet.com.ar
@@ -1842,7 +1839,6 @@ images.tvpublica.com.ar
 live01.tvpublica.com.ar
 live02.tvpublica.com.ar
 new.tvpublica.com.ar
-www.tvpublica.com.ar
 twireless.com.ar
 110-red228.twireless.com.ar
 www.unoentrerios.com.ar
@@ -2632,7 +2628,6 @@ c2-ebgames.eb-cdn.com.au
 c3-ebgames.eb-cdn.com.au
 c4-ebgames.eb-cdn.com.au
 tracking.eb-cdn.com.au
-echt.com.au
 edel-optics.com.au
 img.edel-optics.com.au
 www.edel-optics.com.au
@@ -2882,7 +2877,6 @@ marbleceramiccorp.com.au
 www.marbleceramiccorp.com.au
 marieclaire.com.au
 www.marieclaire.com.au
-marleyspoon.com.au
 marsa.com.au
 mathandling.com.au
 mathsonline.com.au
@@ -3008,8 +3002,6 @@ nick.com.au
 events.nick.com.au
 kca.nick.com.au
 www.nick.com.au
-nickjr.com.au
-www.nickjr.com.au
 9now.nine.com.au
 ada.api.nine.com.au
 celebrity.nine.com.au
@@ -3614,7 +3606,6 @@ cdn.adf.org.au
 amsi.org.au
 atishacentre.org.au
 shop.atishacentre.org.au
-auda.org.au
 whois.auda.org.au
 birdlife.org.au
 www.birdlife.org.au
@@ -5310,7 +5301,6 @@ brazilvpnclient2.decathlon.com.br
 deliveryinbox.com.br
 deloitte.com.br
 www.deloitte.com.br
-dermaclub.com.br
 clube.dermaclub.com.br
 desbravador.com.br
 reservas.desbravador.com.br
@@ -5415,7 +5405,6 @@ emporiodacerveja.com.br
 www.emporiodacerveja.com.br
 emporionestle.com.br
 www.emporionestle.com.br
-www.encurtador.com.br
 api.enjoei.com.br
 assets.enjoei.com.br
 enjusearch.enjoei.com.br
@@ -6484,7 +6473,6 @@ portafolhetos.com.br
 www.portafolhetos.com.br
 itau-unibanco.portaldeassinaturas.com.br
 vale.portaldeassinaturas.com.br
-www.portaldeassinaturas.com.br
 portaldosanimais.com.br
 www.portaldosanimais.com.br
 portalg9.com.br
@@ -7664,7 +7652,6 @@ contas.tcu.gov.br
 portal.tcu.gov.br
 sefaz.to.gov.br
 www.sefaz.to.gov.br
-transportes.gov.br
 trtrio.gov.br
 consulta.trtrio.gov.br
 www.turismo.gov.br
@@ -8636,7 +8623,6 @@ ssan.egs-seg.gc.ca
 mx.ssan.egs-seg.gc.ca
 esdc.gc.ca
 noc.esdc.gc.ca
-fcac-acfc.gc.ca
 fintrac-canafe.gc.ca
 fjgc-gccf.gc.ca
 ams-sga-cra-arc.fjgc-gccf.gc.ca
@@ -8869,7 +8855,6 @@ www.momondo.ca
 www.moneysense.ca
 media1.moneywise.ca
 www.monster.ca
-www.mouser.ca
 acces.mozaikportail.ca
 apiaffaires.mozaikportail.ca
 www.mtdirect.ca
@@ -9410,7 +9395,6 @@ www.sdarot.casa
 pop.adnet.cash
 short.adnet.cash
 www.ara.cat
-ajuntament.barcelona.cat
 www.barcelona.cat
 dinamics.ccma.cat
 img.ccma.cat
@@ -15597,7 +15581,6 @@ www.doctoralia.co
 www.dramacool9.co
 community.duda.co
 my.duda.co
-www.duda.co
 app.earny.co
 apps.easystore.co
 a.edim.co
@@ -16326,7 +16309,6 @@ www.pathable.co
 xperience2022.pathable.co
 api.paystack.co
 js.paystack.co
-cdn.pbrd.co
 gcdnb.pbrd.co
 s11452.pcdn.co
 s14171.pcdn.co
@@ -22038,7 +22020,6 @@ insights.us1.aconex.com
 www.aconex.com
 www.aconsciousrethink.com
 capi.acorns.com
-client.acorns.com
 grow.acorns.com
 mobile-api.acorns.com
 nealos.acorns.com
@@ -22683,7 +22664,6 @@ api.sg1.documents.adobe.com
 du1.adobe.com
 ebook.adobe.com
 echosign.adobe.com
-edex.adobe.com
 elearning.adobe.com
 elearningassets.adobe.com
 elearningimages.adobe.com
@@ -23845,7 +23825,6 @@ online.agah.com
 www.agame.com
 www8.agame.com
 aaa.agcocorp.com
-blog.agcocorp.com
 careers.agcocorp.com
 dam.agcocorp.com
 eamevpn.agcocorp.com
@@ -24564,7 +24543,6 @@ links.airtable.com
 meet.airtable.com
 pages.airtable.com
 rt.airtable.com
-staging.airtable.com
 static.airtable.com
 support.airtable.com
 try.airtable.com
@@ -44420,7 +44398,6 @@ app.apmex.com
 links.apmex.com
 marketing-email.apmmusic.com
 click.marketing-email.apmmusic.com
-www.apmmusic.com
 api.apmterminals.com
 eirinquiry.apmterminals.com
 termpoint.apmterminals.com
@@ -49733,7 +49710,6 @@ st.automobilemag.com
 www.automobile-catalog.com
 forums.automobile-propre.com
 www.automobile-propre.com
-www.automobilsport.com
 www.automon.com
 www.automotiveaddicts.com
 www.automotiveforums.com
@@ -56072,6 +56048,7 @@ api000.backblazeb2.com
 api001.backblazeb2.com
 api002.backblazeb2.com
 api004.backblazeb2.com
+f003.backblazeb2.com
 us-west-000.backblazeb2.com
 s3.us-west-000.backblazeb2.com
 audiomart.s3.us-west-000.backblazeb2.com
@@ -62798,7 +62775,6 @@ www.bostonscientific.com
 www.bostonusa.com
 www.bostonwhaler.com
 www.botanical-online.com
-www.botanicchoice.com
 cdn.botb.com
 mail.botb.com
 link.mail.botb.com
@@ -62826,7 +62802,6 @@ www.boulderweekly.com
 assets.boundless.com
 assets-wp.boundless.com
 www.boundless.com
-www.bounteous.com
 www.bounty.com
 app.bountysource.com
 media.bourseon.com
@@ -65810,7 +65785,6 @@ mailing.calvinklein.com
 click.mailing.calvinklein.com
 media1.calvinklein.com
 mediaeu.calvinklein.com
-www.calvinklein.com
 www.calwater.com
 dynamicupdates.calyxsoftware.com
 tmsservice.calyxsoftware.com
@@ -68338,7 +68312,6 @@ survey.cbtnuggets.com
 videos.cbtnuggets.com
 gtfcu.cbzsecure.com
 www.ccarprice.com
-secure.ccavenue.com
 asia.ccb.com
 b2b.ccb.com
 life.ccb.com
@@ -72324,7 +72297,6 @@ ng.cengage.com
 apps.ng.cengage.com
 aplia.apps.ng.cengage.com
 cnow.apps.ng.cengage.com
-ngl.cengage.com
 nglsync.cengage.com
 nz.cengage.com
 sam.cengage.com
@@ -72653,7 +72625,6 @@ mvendor.cgieva.com
 www.cgsinc.com
 search.cgsmedicare.com
 www.cgsmedicare.com
-america.cgtn.com
 api.cgtn.com
 espanol.cgtn.com
 live.cgtn.com
@@ -83383,11 +83354,9 @@ dbc-164ff2d5-645b.cloud.databricks.com
 nvirginia.cloud.databricks.com
 oregon.cloud.databricks.com
 community.databricks.com
-corp.databricks.com
 customer-academy.databricks.com
 gcp.databricks.com
 0.gcp.databricks.com
-kb.databricks.com
 tft.databricks.com
 crosell.datacaciques.com
 app.datacamp.com
@@ -83479,7 +83448,6 @@ www.datasite.com
 f.datasrvr.com
 i.datasrvr.com
 t.datasrvr.com
-astra.datastax.com
 cloud.datastax.com
 opscenter.datastax.com
 pages.datastax.com
@@ -93507,7 +93475,6 @@ status.edgenuity.com
 student.edgenuity.com
 translatecaching.edgenuity.com
 www.edgenuity.com
-www.edgenyc.com
 email.edgepark.com
 my.edgepark.com
 www.edgepark.com
@@ -96293,7 +96260,6 @@ record.enlabspartners.com
 www.enlacejudio.com
 cdn.enlistly.com
 www.enmimaquinafunciona.com
-www.enn.com
 www.ennaharonline.com
 www.enneagraminstitute.com
 whois.enom.com
@@ -97856,7 +97822,6 @@ css.etimg.com
 cssm.etimg.com
 img.etimg.com
 js.etimg.com
-jsm.etimg.com
 prdwmq.etimspayments.com
 prodpci.etimspayments.com
 wmq.etimspayments.com
@@ -102381,7 +102346,6 @@ commands.fifthplay.com
 poll.fifthplay.com
 pstar-internal-api.fiftythree.com
 www.fightful.com
-api.figma.com
 api-cdn.figma.com
 desktop.figma.com
 font-daemon.figma.com
@@ -119204,7 +119168,6 @@ graphisoftid-api.graphisoft.com
 licensemanager.graphisoft.com
 ruleservice-api.graphisoft.com
 surveys.graphisoft.com
-www.graphisoft.com
 cdn.graphpad.com
 licenses.graphpad.com
 www.graphpad.com
@@ -119626,7 +119589,6 @@ cdn.gs.com
 devcollab.gs.com
 dsp.gs.com
 email.gs.com
-gs-mosaic.gs.com
 gw-login.gs.com
 idfs.gs.com
 lockbox.gs.com
@@ -119637,7 +119599,6 @@ zoom.nimbus.gs.com
 am-zcp-backup.zoom.nimbus.gs.com
 am-zcp-primary.zoom.nimbus.gs.com
 publishing.gs.com
-qaglobal-liquidity.gs.com
 sfx.gs.com
 tracking.gs.com
 txb.gs.com
@@ -120441,7 +120402,6 @@ wpcomms.svc.halowaypoint.com
 wpcontent.svc.halowaypoint.com
 wpassets.halowaypoint.com
 remote.halyardhealth.com
-www.halyardhealth.com
 www.hamamatsu.com
 blog.hamiltonbeach.com
 www.hamiltonbook.com
@@ -120775,7 +120735,6 @@ www.hawaiitribune-herald.com
 aws.hawaii-guide.com
 www.hawaii-guide.com
 www.hawalili.com
-www.hawesandcurtis.com
 track.hawkaffinity.com
 sp.hawkcentral.com
 user.hawkcentral.com
@@ -120932,7 +120891,6 @@ play.hbonow.com
 qa.play.hbonow.com
 assets1.hbsdealer.com
 www.hbsdealer.com
-www.hbsslaw.com
 static.hbx.com
 b2b.hc360.com
 s.hc360.com
@@ -124455,7 +124413,6 @@ www.homestyler.com
 news-en.hometalk.com
 rs-stripe.hometalk.com
 www-direct.hometalk.com
-www.hometesterclub.com
 email.hometextilestoday.com
 rs-stripe.email.hometextilestoday.com
 www.hometextilestoday.com
@@ -126701,7 +126658,6 @@ nls.huronconsultinggroup.com
 www.huronconsultinggroup.com
 www.hurriyetdailynews.com
 global.hurtigruten.com
-www.hurtigruten.com
 insights.huschblackwell.com
 api.hushed.com
 gk.hushed.com
@@ -136706,7 +136662,6 @@ g3.ideas.com
 g3rms.ideas.com
 www.ideasdonuts.com
 www.idefix.com
-www.idemia.com
 core.ident.com
 ddp.ident.com
 decentral.ident.com
@@ -139032,7 +138987,6 @@ api.insighttimer.com
 libraryitems.insighttimer.com
 workshops.insighttimer.com
 www.insigniaproducts.com
-www.insomniac.com
 api.insomniacookies.com
 cdn1.insomniacookies.com
 www.insp.com
@@ -143375,7 +143329,6 @@ skyward10.iscorp.com
 skyward-lisdprod.iscorp.com
 skyward-mansfield.iscorp.com
 webica2.iscorp.com
-www.isdin.com
 apps.isenselabs.com
 gdpr.apps.isenselabs.com
 labelmaker.apps.isenselabs.com
@@ -143437,7 +143390,6 @@ visit.isolvedhcm.com
 www.isolvedhcm.com
 admin.isolvedhire.com
 spamtitan.isomedia.com
-www.iso-group.com
 cdn2.ispringsolutions.com
 s4.ispringsolutions.com
 www.ispringsolutions.com
@@ -147639,7 +147591,6 @@ www.kenkenpuzzle.com
 apremote.kennametal.com
 www.kennametal.com
 us.kennasecurity.com
-www.kennasecurity.com
 www.kennedyblue.com
 www.kennedyspacecenter.com
 www.kennethcole.com
@@ -153790,7 +153741,6 @@ afd-microsites.linkedin.com
 al.linkedin.com
 all.linkedin.com
 api.linkedin.com
-bd.linkedin.com
 bg.linkedin.com
 bounce.linkedin.com
 carddav.linkedin.com
@@ -153804,7 +153754,6 @@ cr.linkedin.com
 cz.linkedin.com
 do.linkedin.com
 download.linkedin.com
-dz.linkedin.com
 omp.e.linkedin.com
 ec.linkedin.com
 ee.linkedin.com
@@ -155588,7 +155537,6 @@ www.livenewsnow.com
 www.liveoakbank.com
 app.liveoptics.com
 collectorapi.liveoptics.com
-www.liveplan.com
 api2.livere.com
 secure.liverhealthformula.com
 i2-prod.liverpool.com
@@ -155967,7 +155915,6 @@ api.video.logi.com
 connectivity.video.logi.com
 portal.logicbroker.com
 cdn.logicgate.com
-www.logicgate.com
 app.logicmelon.com
 www.logicmelon.com
 appproxy.logicmonitor.com
@@ -156346,7 +156293,6 @@ esports-api.lolesports.com
 euw.lolesports.com
 feed.lolesports.com
 login.lolesports.com
-na.lolesports.com
 rewards.lolesports.com
 account.rewards.lolesports.com
 entitlements.rewards.lolesports.com
@@ -156894,7 +156840,6 @@ cdn.lumapps.com
 prod.cdn.lumapps.com
 sites.lumapps.com
 sites-us.lumapps.com
-www.lumapps.com
 artnews.lumas.com
 url832.artnews.lumas.com
 www.lumas.com
@@ -160767,7 +160712,6 @@ safe.menlosecurity.com
 us-east-1-02830060-inspect.menlosecurity.com
 us-east-1-02830060-view.menlosecurity.com
 us-east-1-safeview-prod-02830060.menlosecurity.com
-www.menlosecurity.com
 xhr-us-east-1-02830060-view.menlosecurity.com
 www.menshairstylesnow.com
 www.menshairstylestoday.com
@@ -168218,7 +168162,6 @@ store-stdtga21hq.mybigcommerce.com
 wds5.mybigcommerce.com
 api.mybillie.com
 cart.mybillie.com
-www.mybillie.com
 assets.mybinding.com
 media.mybinding.com
 www.mybinding.com
@@ -170481,7 +170424,6 @@ connect.natera.com
 my.natera.com
 www.natera.com
 fonts.natgeo.com
-on.natgeo.com
 interactives.natgeofe.com
 kids-cdn.natgeofe.com
 www-cdn.natgeofe.com
@@ -175403,7 +175345,6 @@ s3-proxy.prod.nixplay.com
 update.prod.nixplay.com
 update.nixplay.com
 auth0.nj.com
-blog.nj.com
 consent.nj.com
 highschoolsports.nj.com
 image.nj.com
@@ -175560,7 +175501,6 @@ www.nonprofitpro.com
 www.nonwovens-industry.com
 assets.noodle.com
 services.noodle.com
-www.noodle.com
 e.noodles.com
 locations.noodles.com
 mi.noodles.com
@@ -176652,7 +176592,6 @@ per.api.nytimes.com
 reading-list.api.nytimes.com
 ugc-personas.api.nytimes.com
 archive.nytimes.com
-bits.blogs.nytimes.com
 csp.nytimes.com
 customerchat.nytimes.com
 dev.nytimes.com
@@ -190049,7 +189988,6 @@ www.phase-eight.com
 www.pha-web.com
 www.phb123.com
 www.phcppros.com
-www.phdmedia.com
 static.pheedloop.com
 static.phemex.com
 dl.phenixrts.com
@@ -191064,7 +191002,6 @@ checkout.placetopay.com
 static.placetopay.com
 trello.placker.com
 client-logos.plaid.com
-my.plaid.com
 sandbox.plaid.com
 www.plainchicken.com
 www.plainscapital.com
@@ -191819,7 +191756,6 @@ upgrade.plusgrade.com
 upgrade-cdn.plusgrade.com
 upgrade-cdn-prd.plusgrade.com
 metrics.plushcare.com
-www.plushcare.com
 flex.plusone.com
 gb5.plusportals.com
 url9795.plusportals.com
@@ -192212,7 +192148,6 @@ co.pointsbet.com
 api.co.pointsbet.com
 join.pointsbet.com
 nj.pointsbet.com
-www.pointstreak.com
 www.pointstreaksites.com
 gamebox.pointtown.com
 www.pointy.com
@@ -197514,7 +197449,6 @@ passport.qihucdn.com.qh-cdn.com
 js.passport.qihucdn.com.qh-cdn.com
 updateleak.qihucdn.com.qh-cdn.com
 www.qiactive.com
-digitalinsights.qiagen.com
 go.qiagen.com
 cloud.go.qiagen.com
 img.go.qiagen.com
@@ -204056,7 +203990,6 @@ small.ria.com
 billing.small.ria.com
 ui.ria.com
 webpush.ria.com
-www.riaa.com
 www.riachannel.com
 www.riadtile.com
 www.riafinancial.com
@@ -210535,7 +210468,6 @@ uploads.schoox.com
 static.uploads.schoox.com
 videos.schoox.com
 www.schoox.com
-us.schott.com
 www.schott.com
 www.schroders.com
 www.schueco.com
@@ -214786,7 +214718,6 @@ wwwd12.settrade.com
 wwwe12.settrade.com
 estimated-delivery-days.setubridgeapps.com
 www.seudinheiro.com
-www.sevenbridges.com
 jobs.sevendaysvt.com
 www.sevendaysvt.com
 buyer.sevenfifty.com
@@ -215376,7 +215307,6 @@ live-bauerkiss.sharp-stream.com
 live-bauermz.sharp-stream.com
 www.shawacademy.com
 www.shawcontract.com
-www.shawfloors.com
 img.shawinc.com
 pdmsview.shawinc.com
 auth.shawlocal.com
@@ -215398,7 +215328,6 @@ www.she.com
 msh.sheahomes.com
 sgtm.sheahomes.com
 www.sheahomes.com
-www.sheamoisture.com
 user.sheboyganpress.com
 certs.sheca.com
 uniclient.sheca.com
@@ -224512,7 +224441,6 @@ webstats.sprint.com
 zone.sprint.com
 www.sprintersports.com
 mx.sprintpcs.com
-www.sprite.com
 www.spriters-resource.com
 www.sproutmortgage.com
 airwatch.sprouts.com
@@ -231957,7 +231885,6 @@ arbetsformedlingen.ace.teliacompany.com
 chat.ace.teliacompany.com
 wds.ace.teliacompany.com
 tcase.teliacompany.com
-www.telit.com
 auth2.telkomsel.com
 ciam.telkomsel.com
 dctc.telkomsel.com
@@ -232536,7 +232463,6 @@ www.tfaw.com
 img2.tfd.com
 www.tfdap.com
 direct.tfesg.com
-www.tfhmagazine.com
 apps6.tflite.com
 soundsair.tflite.com
 www.tforcefreight.com
@@ -233435,7 +233361,6 @@ images.theoutbound.com
 www.theoutbound.com
 email.theoutnet.com
 www.theoutnet.com
-www.thepalife.com
 www.thepalmbeaches.com
 www.thepaperstore.com
 agent.theparkingspot.com
@@ -237201,7 +237126,6 @@ e.trekbikes.com
 i1.trekearth.com
 www.trekkinn.com
 www.trelegy.com
-tss.trelleborg.com
 www.tss.trelleborg.com
 www.trelleborg.com
 api-gateway.trello.com
@@ -238370,7 +238294,6 @@ lazadaph.tumblr.com
 lolentnews.tumblr.com
 loubis-and-champagne.tumblr.com
 25.media.tumblr.com
-27.media.tumblr.com
 69.media.tumblr.com
 va.media.tumblr.com
 ve.media.tumblr.com
@@ -240160,7 +240083,6 @@ community.ultimaker.com
 software.ultimaker.com
 www.ultimatecampresource.com
 custom.ultimateears.com
-www.ultimateears.com
 www2.ultimategutwellness.com
 cdn.ultimatepetnutrition.com
 www.ultimateslp.com
@@ -245090,7 +245012,6 @@ www.visitjamaica.com
 www.visitkc.com
 www.visitlasvegas.com
 img.visitmexico.com
-www.visitmexico.com
 www.visitmt.com
 cdn-prod.visitmusiccity.com
 www.visitmusiccity.com
@@ -246148,7 +246069,6 @@ upload2.vocaroo.com
 cabeceras.vocento.com
 comments.vocento.com
 nets.vocento.com
-www.vocera.com
 us.vocuspr.com
 cdnae1.vod309.com
 cdnec5.vod309.com
@@ -246424,7 +246344,6 @@ apps.voxmedia.com
 b.voxmedia.com
 fonts.voxmedia.com
 o.voxmedia.com
-status.voxmedia.com
 terms-and-policies.voxmedia.com
 audio.voxnest.com
 cdn1.vox-cdn.com
@@ -262052,7 +261971,6 @@ clientauth.prod.williamhillplc.com
 sso.prod.williamhillplc.com
 vpn.williamhillplc.com
 www.williamhillplc.com
-www.williamsf1.com
 www.williamsonhomepage.com
 adltrk.williams-sonoma.com
 blog.williams-sonoma.com
@@ -267517,7 +267435,6 @@ s3-media4.ak.yelpcdn.com
 dyn.yelpcdn.com
 smtpintl.yelpcorp.com
 api.yelpreservations.com
-www.yelp-support.com
 cdn.yemek.com
 zagorapi.yemek.com
 m.yemekev.com
@@ -271122,8 +271039,6 @@ foodparty.zoodfood.com
 newapi.zoodfood.com
 cloud3.zoolz.com
 intelli1.zoolz.com
-cision.zoom.com
-umusic.zoom.com
 static.zoomalia.com
 www.zoomalia.com
 inews.zoombangla.com
@@ -271843,8 +271758,6 @@ consent.google.com.cy
 trends.google.com.cy
 grantthornton.com.cy
 www.grantthornton.com.cy
-pwc.com.cy
-www.pwc.com.cy
 reporter.com.cy
 www.reporter.com.cy
 stoiximan.com.cy
@@ -277042,7 +276955,6 @@ unet.brandeis.edu
 vc.bridgew.edu
 connect.brookings.edu
 bconline.broward.edu
-cs.brown.edu
 library.brown.edu
 watson.brown.edu
 mybsc.bryantstratton.edu
@@ -277310,7 +277222,6 @@ ec.commnet.edu
 eis-prod.ec.commnet.edu
 lum-prod.ec.commnet.edu
 ssb-prod.ec.commnet.edu
-www.concorde.edu
 www.concordia.edu
 www.cookman.edu
 moodle.cord.edu
@@ -277916,7 +277827,6 @@ chs.harvard.edu
 college.harvard.edu
 apply.college.harvard.edu
 cs50.harvard.edu
-cyber.harvard.edu
 dash.harvard.edu
 dce.harvard.edu
 developingchild.harvard.edu
@@ -279908,7 +279818,6 @@ math.ucla.edu
 www.math.ucla.edu
 mednet.ucla.edu
 sts.mednet.ucla.edu
-medschool.ucla.edu
 my.ucla.edu
 oarc.ucla.edu
 pop.ucla.edu
@@ -280872,7 +280781,6 @@ iath.virginia.edu
 itc.virginia.edu
 its.virginia.edu
 shibidp.its.virginia.edu
-law.virginia.edu
 www.law.virginia.edu
 mc.virginia.edu
 click.mc.virginia.edu
@@ -285403,7 +285311,6 @@ historyhub.history.gov
 clinicalinfo.hiv.gov
 appropriations.house.gov
 clerk.house.gov
-degette.house.gov
 docs.house.gov
 gslb.house.gov
 history.house.gov
@@ -286380,7 +286287,6 @@ nidcr.nih.gov
 livechat.niddk.nih.gov
 www.niddk.nih.gov
 ehp.niehs.nih.gov
-ntp.niehs.nih.gov
 ntp-server.niehs.nih.gov
 www.niehs.nih.gov
 nigms.nih.gov
@@ -293354,7 +293260,6 @@ api.cobrowse.io
 eu.cobrowse.io
 js.cobrowse.io
 cdn.coda.io
-staging.coda.io
 g.codefresh.io
 api.codementor.io
 assets.codementor.io
@@ -293835,7 +293740,6 @@ geiger.frame.io
 picture.frame.io
 sockets.frame.io
 static-assets.frame.io
-stream.frame.io
 transferapp.frame.io
 www.frame.io
 app.frase.io
@@ -294505,7 +294409,6 @@ apt.k8s.io
 canary.k8s.io
 sigs.canary.k8s.io
 dl.k8s.io
-prow.k8s.io
 redirect.k8s.io
 sigs.k8s.io
 cluster-api.sigs.k8s.io
@@ -298394,7 +298297,6 @@ www.lefrecce.it
 cert.legalmail.it
 mbox.cert.legalmail.it
 mx.cert.legalmail.it
-www.leggioggi.it
 www.leggo.it
 media.leroymerlin.it
 www.leroymerlin.it
@@ -298976,8 +298878,6 @@ axa.co.jp
 rasaxa.axa.co.jp
 legal.bandainamcoent.co.jp
 www.bandainamcoent.co.jp
-bandaispirits.co.jp
-www.bandaispirits.co.jp
 beams.co.jp
 cdn.beams.co.jp
 cdn-cms.beams.co.jp
@@ -300794,7 +300694,6 @@ spc.co.kr
 spcnetworks.co.kr
 rpos.spcnetworks.co.kr
 speedhosting.co.kr
-starbucks.co.kr
 storets.co.kr
 stylearena.co.kr
 swing2app.co.kr
@@ -323678,7 +323577,6 @@ www.beachconnection.net
 wave.beaconama.net
 beams.beaconhouse.net
 hammer.behance.net
-m1.behance.net
 maillink.behance.net
 mir-cdn.behance.net
 imap.bell.net
@@ -325300,7 +325198,6 @@ znmdwtz.censor.net
 zxong0.censor.net
 zxsrxra.censor.net
 cdn.centauro.net
-www.centauro.net
 action.centerforinquiry.net
 secure.centralbank.net
 01cc.centrastage.net
@@ -385539,7 +385436,6 @@ mm.aftenposten.no
 www.akademika.no
 www.an.no
 www.ba.no
-www.bikester.no
 cdn.blivakker.no
 www.blivakker.no
 docogdask.blogg.no
@@ -390949,6 +390845,7 @@ ia801401.us.archive.org
 ia801405.us.archive.org
 ia801409.us.archive.org
 ia801503.us.archive.org
+ia801504.us.archive.org
 ia801507.us.archive.org
 ia801508.us.archive.org
 ia801509.us.archive.org
@@ -391962,7 +391859,6 @@ registry.centos.org
 vault.centos.org
 wiki.centos.org
 assets.centralparknyc.org
-www.centralparknyc.org
 securebanking.centrisfcu.org
 www.centrisfcu.org
 corp.centura.org
@@ -393506,7 +393402,6 @@ www.fideliscare.org
 www.fidelitycharitable.org
 www.fides.org
 www.fieldmuseum.org
-www.fightcancer.org
 assets.file.org
 kcdn.file.org
 dl2.cdn.filezilla-project.org
@@ -397952,7 +397847,6 @@ www.train.org
 act.traindemocrats.org
 store.transportation.org
 www.transportation.org
-www.travelbelize.org
 www.traviscad.org
 api.travis-ci.org
 lb-east1-api.travis-ci.org
@@ -398590,7 +398484,6 @@ th.m.wikipedia.org
 tr.m.wikipedia.org
 uk.m.wikipedia.org
 vi.m.wikipedia.org
-sl.wikipedia.org
 m.wikisource.org
 de.wiktionary.org
 fr.wiktionary.org
@@ -398670,7 +398563,6 @@ wbvapiron03.worldbank.org
 wbvapiron03a.worldbank.org
 wbvapiron04.worldbank.org
 wbvapiron04a.worldbank.org
-wits.worldbank.org
 account.worldcat.org
 authn.worldcat.org
 linker2.worldcat.org
@@ -398696,7 +398588,6 @@ files.worldwildlife.org
 gifts.worldwildlife.org
 support.worldwildlife.org
 wwf.worldwildlife.org
-www.world-nuclear.org
 www.world-nuclear-news.org
 support.woundedwarriorproject.org
 www.woundedwarriorproject.org
@@ -401960,7 +401851,6 @@ notifications-api.pulse.mail.ru
 static.pulse.mail.ru
 push-me.mail.ru
 resizer.mail.ru
-sf.mail.ru
 s-sputnik.mail.ru
 todo.mail.ru
 touch.mail.ru
@@ -403102,7 +402992,6 @@ www.merinfo.se
 www.mrjet.se
 www.nlt.se
 www.nwt.se
-www.parfym.se
 www.power.se
 www.pricerunner.se
 www.privataaffarer.se
@@ -403394,7 +403283,6 @@ pop.singnet.com.sg
 speedtest.singnet.com.sg
 singsaver.com.sg
 www.singsaver.com.sg
-sistic.com.sg
 sisticbuzz.com.sg
 click.sisticbuzz.com.sg
 image.sisticbuzz.com.sg
@@ -403413,7 +403301,6 @@ session.mysph.sph.com.sg
 static.mysph.sph.com.sg
 sq.com.sg
 vdi.sq.com.sg
-starbucks.com.sg
 login.starhubgee.com.sg
 straitstimes.com.sg
 static.straitstimes.com.sg
@@ -408238,7 +408125,6 @@ www.freelancer.com.ua
 fug.com.ua
 www.fug.com.ua
 cdn1.game-game.com.ua
-germanculture.com.ua
 gng.com.ua
 appdyn-eum.gng.com.ua
 go2net.com.ua
@@ -408717,7 +408603,6 @@ cityofbristol.ac.uk
 cityofglasgowcollege.ac.uk
 api.core.ac.uk
 search.core.ac.uk
-som.cranfield.ac.uk
 www.som.cranfield.ac.uk
 cumbria.ac.uk
 cwc.ac.uk
@@ -408908,7 +408793,6 @@ www.ecs.soton.ac.uk
 southampton.ac.uk
 cdn.southampton.ac.uk
 www.southampton.ac.uk
-sruc.ac.uk
 cis.strath.ac.uk
 ntp0.cis.strath.ac.uk
 cs.strath.ac.uk
@@ -409000,8 +408884,6 @@ www.6dg.co.uk
 a2dominion.co.uk
 aalco.co.uk
 www.aalco.co.uk
-abc-teachers.co.uk
-www.abc-teachers.co.uk
 8f7ea3856-frontier.abebooks.co.uk
 tp.8f7ea3856-frontier.abebooks.co.uk
 data.abebooks.co.uk
@@ -409401,7 +409283,6 @@ arsenal.co.uk
 mailing.arsenal.co.uk
 l.mailing.arsenal.co.uk
 www.artistsandillustrators.co.uk
-www.artsprofessional.co.uk
 arts-mail.co.uk
 arunestates.co.uk
 www.arunestates.co.uk
@@ -410614,7 +410495,6 @@ bonuscode.co.uk
 booker.co.uk
 www.booker.co.uk
 lightning.boomerangtv.co.uk
-www.boomerangtv.co.uk
 booth-dispensers.co.uk
 bordercountiesadvertizer.co.uk
 bosch-home.co.uk
@@ -410640,7 +410520,6 @@ cdn.content.boxcar.co.uk
 news.boxcar.co.uk
 content.news.boxcar.co.uk
 cdn.content.news.boxcar.co.uk
-boxpark.co.uk
 news.boxpark.co.uk
 content.news.boxpark.co.uk
 cdn.content.news.boxpark.co.uk
@@ -410819,7 +410698,6 @@ www.burytimes.co.uk
 businesscasestudies.co.uk
 businessleader.co.uk
 www.businessleader.co.uk
-www.businessweekly.co.uk
 business-access.co.uk
 ntp.business-access.co.uk
 ntp-01.business-access.co.uk
@@ -410989,7 +410867,6 @@ www.carpetright.co.uk
 carshop.co.uk
 aws-images.carshop.co.uk
 lightning.cartoonnetwork.co.uk
-www.cartoonnetwork.co.uk
 www.cartridgesave.co.uk
 carwow.co.uk
 car-data.carwow.co.uk
@@ -411401,8 +411278,6 @@ emails.constructionnews.co.uk
 res1.emails.constructionnews.co.uk
 t1.emails.constructionnews.co.uk
 www.constructionnews.co.uk
-constructiontesting.co.uk
-www.constructiontesting.co.uk
 consumercode.co.uk
 www.consumercode.co.uk
 consumerhelpdesk.co.uk
@@ -411704,7 +411579,6 @@ converse.dailystar.co.uk
 s2-prod.dailystar.co.uk
 webviews.dailystar.co.uk
 daisycomms.co.uk
-dalanguages.co.uk
 dancingmoose.co.uk
 the.dancingmoose.co.uk
 content.the.dancingmoose.co.uk
@@ -412018,8 +411892,6 @@ dudleynews.co.uk
 www.dudleynews.co.uk
 dukeletting.co.uk
 www.dukeletting.co.uk
-duluxtradepaintexpert.co.uk
-www.duluxtradepaintexpert.co.uk
 duncantoplis.co.uk
 dundasglobalevents.co.uk
 dunnhumby.co.uk
@@ -412044,8 +411916,6 @@ e2eg.co.uk
 e4education.co.uk
 eacommunications.co.uk
 tools.eacommunications.co.uk
-eastlondonadvertiser.co.uk
-www.eastlondonadvertiser.co.uk
 eastmidlandsrailway.co.uk
 www.eastmidlandsrailway.co.uk
 accounts.ebay.co.uk
@@ -412154,7 +412024,6 @@ www.efinancialcareers.co.uk
 comms.eg.co.uk
 app.comms.eg.co.uk
 images.comms.eg.co.uk
-www.eg.co.uk
 egi.co.uk
 www.egi.co.uk
 egmgu.co.uk
@@ -412540,8 +412409,6 @@ www.flowmodulemanager.co.uk
 flowtech.co.uk
 flow-ms.co.uk
 www.flow-ms.co.uk
-flyingflowers.co.uk
-www.flyingflowers.co.uk
 fmconway.co.uk
 fmg.co.uk
 www.fmg.co.uk
@@ -412682,7 +412549,6 @@ gak.co.uk
 www.gak.co.uk
 gallifordtry.co.uk
 www.gallifordtry.co.uk
-gambleaware.co.uk
 www.gambleaware.co.uk
 powerup.game.co.uk
 www.game.co.uk
@@ -412814,7 +412680,6 @@ gogreen.co.uk
 gohenry.co.uk
 api.gohenry.co.uk
 americangolf.goinspire.co.uk
-www.goinspire.co.uk
 gold.co.uk
 www.gold.co.uk
 www.goldsmiths.co.uk
@@ -412840,8 +412705,6 @@ trends.google.co.uk
 gooutdoors.co.uk
 reporting.gooutdoors.co.uk
 www.gooutdoors.co.uk
-gosschalks.co.uk
-www.gosschalks.co.uk
 gousto.co.uk
 api.gousto.co.uk
 production-api.gousto.co.uk
@@ -413005,7 +412868,6 @@ www.handbheart.co.uk
 handelsbanken.co.uk
 www.handelsbanken.co.uk
 handluggageonly.co.uk
-handpickedhotels.co.uk
 handset4u.co.uk
 www.handtec.co.uk
 hanover-residential.co.uk
@@ -413442,7 +413304,6 @@ login.ii.co.uk
 media-prod.ii.co.uk
 secure.ii.co.uk
 www.ii.co.uk
-www.ilfordrecorder.co.uk
 ilovewallpaper.co.uk
 www.ilovewallpaper.co.uk
 imanageshare.co.uk
@@ -413833,7 +413694,6 @@ keyline.co.uk
 www.keyline.co.uk
 keys-group.co.uk
 mydesktop.keys-group.co.uk
-www.kfc.co.uk
 kiaownersclub.co.uk
 www.kiaownersclub.co.uk
 kibou.co.uk
@@ -414186,7 +414046,6 @@ lugoit.co.uk
 nable.lugoit.co.uk
 images.lululemon.co.uk
 www.lutontoday.co.uk
-www.lutontown.co.uk
 lvbroker.co.uk
 www.lycamobile.co.uk
 lycetts.co.uk
@@ -414381,7 +414240,6 @@ www.dynamicnumbers.mediahawk.co.uk
 mediastorehouse.co.uk
 www.mediastorehouse.co.uk
 mediatel.co.uk
-mediatonic.co.uk
 mediaworks.co.uk
 www.mediaworks.co.uk
 medicalindustry.co.uk
@@ -414421,7 +414279,6 @@ personal.metrobankonline.co.uk
 tlc.metrobankonline.co.uk
 metropolis.co.uk
 www.metropolis.co.uk
-metrorod.co.uk
 metroshipping.co.uk
 www.metroshipping.co.uk
 mexicolore.co.uk
@@ -415232,9 +415089,7 @@ www.petscorner.co.uk
 petshop.co.uk
 www.petshop.co.uk
 petwell.co.uk
-pet-supermarket.co.uk
 images.pet-supermarket.co.uk
-www.pet-supermarket.co.uk
 www.peugeot.co.uk
 pfpshare.co.uk
 pg.co.uk
@@ -415282,7 +415137,6 @@ www.pixmania.co.uk
 www.pizzahut.co.uk
 pkfscs.co.uk
 www.pkfscs.co.uk
-www.pkf-francisclark.co.uk
 placenorthwest.co.uk
 www.placenorthwest.co.uk
 placesforpeople.co.uk
@@ -415353,7 +415207,6 @@ portoffelixstowe.co.uk
 www.portoffelixstowe.co.uk
 id.portsmouth.co.uk
 www.portsmouth.co.uk
-www.portsmouthfc.co.uk
 postcodelottery.co.uk
 posterlounge.co.uk
 img.posterlounge.co.uk
@@ -415745,7 +415598,6 @@ sip313.ringcentral.co.uk
 sip314.ringcentral.co.uk
 sip412.ringcentral.co.uk
 sip414.ringcentral.co.uk
-www.ringcentral.co.uk
 ringley.co.uk
 email-links.ringley.co.uk
 risetechnical.co.uk
@@ -415909,7 +415761,6 @@ media.sanareva.co.uk
 skin.sanareva.co.uk
 tag.sanareva.co.uk
 www.sanareva.co.uk
-sanctuary-housing.co.uk
 sandals.co.uk
 www.sandals.co.uk
 assets.santander.co.uk
@@ -416226,7 +416077,6 @@ www.smartcellular.co.uk
 smartsurvey.co.uk
 app.smartsurvey.co.uk
 www.smartsurvey.co.uk
-www.smartteachers.co.uk
 smartwebportal.co.uk
 prefserviceqa.smartwebportal.co.uk
 smarty.co.uk
@@ -416556,7 +416406,6 @@ s-cool.co.uk
 tabletennisengland.co.uk
 tachomaster.co.uk
 www.tachomaster.co.uk
-tacobell.co.uk
 talent-sport.co.uk
 images.talent-sport.co.uk
 talkcloud.co.uk
@@ -416581,8 +416430,6 @@ targetmailer.co.uk
 tastemade.co.uk
 www.tastemade.co.uk
 taxassist.co.uk
-taxation.co.uk
-www.taxation.co.uk
 taxfiler.co.uk
 tayloremmet.co.uk
 www.tayloremmet.co.uk
@@ -417603,7 +417450,6 @@ wdm.co.uk
 apps1.wdm.co.uk
 wdxts.co.uk
 p3.wdxts.co.uk
-www.wearejust.co.uk
 wearesantander.co.uk
 www.wearesantander.co.uk
 weatheronline.co.uk
@@ -417925,8 +417771,6 @@ www.zippy.co.uk
 ziprecruiter.co.uk
 www.ziprecruiter.co.uk
 zipwater.co.uk
-zipworld.co.uk
-www.zipworld.co.uk
 zizzi.co.uk
 www.zizzi.co.uk
 zoetis.co.uk
@@ -418837,8 +418681,6 @@ www.easyfundraising.org.uk
 echo360.org.uk
 eecfair.org.uk
 www.eecfair.org.uk
-eif.org.uk
-www.eif.org.uk
 elaweb.org.uk
 electoralcommission.org.uk
 www.electoralcommission.org.uk
@@ -419675,7 +419517,6 @@ jbits.courts.state.co.us
 www.jbits.courts.state.co.us
 www.courts.state.co.us
 cpw.state.co.us
-dora.state.co.us
 www.dora.state.co.us
 sos.state.co.us
 www.sos.state.co.us
@@ -426996,7 +426837,6 @@ www.wantitall.co.za
 wbmail.co.za
 www.webmail.co.za
 webrightagency.co.za
-webuycars.co.za
 weconnectu.co.za
 click.weconnectu.co.za
 whistleblowing.co.za
