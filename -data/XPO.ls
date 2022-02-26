@@ -1753,7 +1753,6 @@ www.bhg.com.au
 api.bigw.com.au
 www.bigw.com.au
 www.bikesales.com.au
-billyguyatts.com.au
 billyj.com.au
 dd.binglee.com.au
 bioninja.com.au
@@ -3413,7 +3412,6 @@ www.colruyt.be
 www.companyweb.be
 image.coolblue.be
 mobile-api.crelan.be
-www.crelan.be
 fedora.cu.be
 mirrors.cu.be
 remi.mirrors.cu.be
@@ -3470,8 +3468,6 @@ nl.fnac.be
 www.nl.fnac.be
 www.fnac.be
 api.gamma.be
-kassa.gamma.be
-mijn.gamma.be
 static.gamma.be
 bancontact.girogate.be
 fr.glassdoor.be
@@ -5440,7 +5436,6 @@ mapfreconnect.com.br
 www2.mapfreconnect.com.br
 marche.com.br
 www.marche.com.br
-marfrig.com.br
 capig.marisa.com.br
 images2.marisa.com.br
 www.marisa.com.br
@@ -5891,7 +5886,6 @@ www.palaciodasferramentas.com.br
 www.palcomp3.com.br
 panini.com.br
 loja.panini.com.br
-panrotas.com.br
 paqueta.com.br
 imagens.paqueta.com.br
 parceiromagalu.com.br
@@ -5975,7 +5969,6 @@ www.portaldotransito.com.br
 portalg9.com.br
 portalpopline.com.br
 portfoliocapital.com.br
-portobello.com.br
 lb.portoseguro.com.br
 www.portoseguro.com.br
 wwws.portoseguro.com.br
@@ -6158,8 +6151,6 @@ www.selbetti.com.br
 semanadescontos.com.br
 semarentrega.com.br
 www.semarentrega.com.br
-semparar.com.br
-www.semparar.com.br
 semprefamilia.com.br
 www.semprefamilia.com.br
 sempreonline.com.br
@@ -6973,7 +6964,6 @@ ibama.gov.br
 servicos.ibama.gov.br
 servicodados.ibge.gov.br
 www.in.gov.br
-inca.gov.br
 incra.gov.br
 sigef.incra.gov.br
 inpi.gov.br
@@ -8163,7 +8153,6 @@ oldnavy.gapcanada.ca
 secure-bananarepublic.gapcanada.ca
 secure-oldnavy.gapcanada.ca
 secure-www.gapcanada.ca
-asc-csa.gc.ca
 buyandsell.gc.ca
 canadagazette.gc.ca
 canadainternational.gc.ca
@@ -8516,7 +8505,6 @@ rom.on.ca
 tcc.on.ca
 tdsb.on.ca
 wsib.on.ca
-www.onepeloton.ca
 api.ontario.ca
 data.ontario.ca
 files.ontario.ca
@@ -8570,7 +8558,6 @@ www.publichealthontario.ca
 www.puzzles.ca
 customer.pwc.ca
 www.pwc.ca
-assnat.qc.ca
 banq.qc.ca
 cablevision.qc.ca
 caij.qc.ca
@@ -9397,7 +9384,6 @@ www.marionnaud.ch
 shop.mediamarkt.ch
 www.mediamarkt.ch
 www.melectronics.ch
-www.michaelpage.ch
 gcp.microspot.ch
 app.gcp.microspot.ch
 config.app.gcp.microspot.ch
@@ -16309,7 +16295,6 @@ lib.showit.co
 static.showit.co
 api.sine.co
 dashboard.sine.co
-www.sine.co
 avatars.slant.co
 cdn.slant.co
 gocc.smartbid.co
@@ -17503,7 +17488,6 @@ bandcamp.23video.com
 ecosystem.24.com
 evt.24.com
 feeds.24.com
-www.24.com
 www.247bridge.com
 www.247freepoker.com
 www.247games.com
@@ -23036,7 +23020,6 @@ www.advisorperspectives.com
 www.advisorservices.com
 ia.advisorstream.com
 my.advisorstream.com
-www.advisorstream.com
 hbretirement.advisorwebsite.com
 arxtracker.advisory.com
 ns.advisory.com
@@ -23856,7 +23839,6 @@ securemail2.aig.com
 tanzone001.aig.com
 tanzone002.aig.com
 virtualworkspace.aig.com
-www-1.aig.com
 www-630.aig.com
 cps.aigrs.com
 www.aihr.com
@@ -24435,7 +24417,6 @@ traductions3.akinator.com
 www.akingump.com
 ayb.akinoncdn.com
 api.akismet.com
-blog.akismet.com
 rest.akismet.com
 share.akqa.com
 www.akqa.com
@@ -36739,7 +36720,6 @@ ma-janssen-97db739a-55a7-474f-9178-fb2f758933b8-bucket.s3.amazonaws.com
 mcoach-videos.s3.amazonaws.com
 mdcentrx.s3.amazonaws.com
 mdsol-marketing.s3.amazonaws.com
-me.s3.amazonaws.com
 me2zen-ota.s3.amazonaws.com
 meb-readawrite-prod.s3.amazonaws.com
 medallia.s3.amazonaws.com
@@ -45248,7 +45228,6 @@ v3-170-0-dot-wixlabs-wix-faq-11.uc.r.appspot.com
 zendesk-dot-oracle-services-vzla.uc.r.appspot.com
 casper-adminv9-prod-dot-eco-cyclist-168716.ue.r.appspot.com
 content-engine-dot-rsg-sawa-prod.ue.r.appspot.com
-defacto-data-lake.ue.r.appspot.com
 facebook-conversions-api.ue.r.appspot.com
 feed-based-workflow-dot-nyt-adtech-prd.ue.r.appspot.com
 marketing-tagmanagement.ue.r.appspot.com
@@ -55482,6 +55461,8 @@ api000.backblazeb2.com
 api001.backblazeb2.com
 api002.backblazeb2.com
 api004.backblazeb2.com
+f003.backblazeb2.com
+f004.backblazeb2.com
 us-west-000.backblazeb2.com
 s3.us-west-000.backblazeb2.com
 us-west-001.backblazeb2.com
@@ -55789,7 +55770,6 @@ dmzms99901.na.baesystems.com
 dmzms99902.na.baesystems.com
 us.baesystems.com
 checkout.baggu.com
-www.baglionihotels.com
 autodiscover.bah.com
 aws.bah.com
 csn.bah.com
@@ -56194,7 +56174,6 @@ image.e.baker-taylor.com
 ts360.baker-taylor.com
 ts360localapi.baker-taylor.com
 ts360nosqlapi.baker-taylor.com
-www.baker-taylor.com
 cdn.bakihanma.com
 www.baking-sense.com
 med42hel8cgw.bakkt.com
@@ -57095,7 +57074,6 @@ follow-api.barrons.com
 optimizely.barrons.com
 store.barrons.com
 stream.barrons.com
-www.barrystickets.com
 c.barstoolsports.com
 cdn.barstoolsports.com
 chumley.barstoolsports.com
@@ -58390,7 +58368,6 @@ mta.eml.bellacor.com
 www.bellanaija.com
 api.bellator.com
 assets.bellator.com
-www.bellator.com
 www.belleayre.com
 endata.bellelily.com
 images.bellelily.com
@@ -60688,7 +60665,6 @@ socialproducer.bleacherreport.com
 socialx.bleacherreport.com
 statmilk.bleacherreport.com
 syndication.bleacherreport.com
-thelab.bleacherreport.com
 ue1-huddle.bleacherreport.com
 ue1-portmeirion.bleacherreport.com
 ue1-socialproducer.bleacherreport.com
@@ -71387,7 +71363,6 @@ api.ciceksepeti.com
 blog.ciceksepeti.com
 data.ciceksepeti.com
 api.data.ciceksepeti.com
-rvwzcf.ciceksepeti.com
 titanservice.ciceksepeti.com
 www.ciceksepeti.com
 www.cichlid-forum.com
@@ -72391,7 +72366,6 @@ america.cjlogistics.com
 www.cjme.com
 atoms.cjonline.com
 cm.cjonline.com
-eu.cjonline.com
 user.cjonline.com
 www.cjonline.com
 display.cjonstyle.com
@@ -78805,7 +78779,6 @@ www.cryptoglobe.com
 www.cryptohopper.com
 api.cryptonews.com
 www.crystalbet.com
-www.crystalclassics.com
 bluedefault.crystalcommerce.com
 cdn2.crystalcommerce.com
 cdn3.crystalcommerce.com
@@ -80454,7 +80427,6 @@ news.dailywire.com
 shop.dailywire.com
 sli.dailywire.com
 v2server.dailywire.com
-www.dailyworld.com
 www.dailywritingtips.com
 m.daily-bangladesh.com
 bundle.daily-choices.com
@@ -85897,7 +85869,6 @@ api.dolap.com
 api-gateway.dolap.com
 cdn.dolap.com
 axon.dolby.com
-customer.dolby.com
 gtm.dolcegabbana.com
 news.dolcegabbana.com
 us.dolcegabbana.com
@@ -94921,7 +94892,6 @@ redirect-cdn.espn.com
 sendtofriend.espn.com
 soccernet.espn.com
 streak.espn.com
-tv5.espn.com
 pkg.video-cdn.espn.com
 fantasy.espncdn.com
 fcast.espncdn.com
@@ -107027,7 +106997,6 @@ www.fultonbankonlinebnk.com
 images.fun.com
 api.funcaptcha.com
 cdn.funcheap.com
-sf.funcheap.com
 bugserver-exiles.funcom.com
 static.functionofbeauty.com
 trk.functionofbeauty.com
@@ -109671,7 +109640,6 @@ interativos.globoesporte.globo.com
 globoid.globo.com
 devices.globoid.globo.com
 audio.globoradio.globo.com
-cbn.globoradio.globo.com
 globo-ab.globo.com
 globo-ab-aws.globo.com
 globo-mab.globo.com
@@ -112512,6 +112480,7 @@ os-ua.storage.googleapis.com
 os-ue.storage.googleapis.com
 ownlocal-adforge-production.storage.googleapis.com
 padlet-artifacts.storage.googleapis.com
+padlet-uploads.storage.googleapis.com
 panw-xdr-evr-prod-us.storage.googleapis.com
 panw-xdr-installers-prod-us.storage.googleapis.com
 panw-xdr-payloads-prod-us.storage.googleapis.com
@@ -117979,7 +117948,6 @@ c.harvestinn.com
 careers.harveynichols.com
 mediav2.harveynichols.com
 www.harveynichols.com
-nerf.hasbro.com
 potatohead.hasbro.com
 products.hasbro.com
 scrabble.hasbro.com
@@ -122465,7 +122433,6 @@ hwsrv-944332.hostwindsdns.com
 www.hot97.com
 auth.hotair.com
 t13.hotcars.com
-www.hotcleaner.com
 www.hotcouponworld.com
 r.hotdeals.com
 www.hotdeals.com
@@ -133018,7 +132985,6 @@ info.ingramcontent.com
 click.info.ingramcontent.com
 ipage.ingramcontent.com
 marketing.ingramcontent.com
-www.ingramcontent.com
 amervpn.ingrammicro.com
 apacvpn.ingrammicro.com
 aptp.ingrammicro.com
@@ -139178,7 +139144,6 @@ www.jazzercise.com
 info.jazzhr.com
 send.jazzhr.com
 www.jazzhr.com
-www.jazzradio.com
 www.jazztel.com
 dynatrace-sg.jbhunt.com
 finalmile.jbhunt.com
@@ -141403,7 +141368,6 @@ app.kartra.com
 infobizmarketing.kartra.com
 e.kasamba.com
 link.e.kasamba.com
-www.kasamba.com
 www.kasasa.com
 bms.kaseya.com
 api.bms.kaseya.com
@@ -141538,7 +141502,6 @@ s16.upd.kaspersky.com
 s17.upd.kaspersky.com
 s18.upd.kaspersky.com
 s19.upd.kaspersky.com
-media.kasperskycontenthub.com
 content.kaspersky-labs.com
 dnl.kaspersky-labs.com
 dnl-eu37.dnl.kaspersky-labs.com
@@ -142001,7 +141964,6 @@ www.kenkenpuzzle.com
 www.kenko.com
 apremote.kennametal.com
 www.kennametal.com
-api.kennasecurity.com
 engagement.kennasecurity.com
 data.engagement.kennasecurity.com
 us.kennasecurity.com
@@ -142771,7 +142733,6 @@ www.knoxbox.com
 archive.knoxnews.com
 atoms.knoxnews.com
 cm.knoxnews.com
-eu.knoxnews.com
 user.knoxnews.com
 www.knoxnews.com
 www.koamnewsnow.com
@@ -146380,7 +146341,6 @@ www.lcw.com
 akcdn1.lcwaikiki.com
 app.lcwaikiki.com
 mobileapp.lcwaikiki.com
-sgtm.lcwaikiki.com
 streamapi.lcwaikiki.com
 www.ldc.com
 media.ldlc.com
@@ -147663,7 +147623,6 @@ yourownbackyard.libsyn.com
 insidetjs.libsynpro.com
 region-us.libwizard.com
 waldenu.libwizard.com
-www.libyaherald.com
 www.libya-news.com
 api.licard.com
 core-akam.licdn.com
@@ -147812,7 +147771,6 @@ res.mailing.lifemiles.com
 t.mailing.lifemiles.com
 www.lifemiles.com
 connect-us.lifeomic.com
-dev.lifeomic.com
 us.lifeomic.com
 api.us.lifeomic.com
 prodapp.lifepharmacy.com
@@ -154279,7 +154237,6 @@ st43p00im-zteg10073501.me.com
 st43p00im-ztfb10061701.me.com
 st43p00im-ztfb10071701.me.com
 st43p00im-ztfb10073301.me.com
-web.me.com
 www.meadvilletribune.com
 order.mealkeyway.com
 api.mealpal.com
@@ -160067,7 +160024,6 @@ mlbentitlementservices.mlb.com
 mlb-cuts-diamond.mlb.com
 offerservices.mlb.com
 profile.mlb.com
-boston.redsox.mlb.com
 search-api-mlbtv.mlb.com
 securea.mlb.com
 terra.mlb.com
@@ -160632,7 +160588,6 @@ cdata.modernpostcard.com
 rdata.modernpostcard.com
 www.modern-notoriety.com
 cdn.modesens.com
-www.modis.com
 www.modishstore.com
 investors.modivcare.com
 www.modivcare.com
@@ -161194,7 +161149,6 @@ markets.morganstanleyclientserv.com
 mobile.morganstanleyclientserv.com
 mso.morganstanleyclientserv.com
 www.morganstanleyclientserv.com
-p2s.morhipo.com
 www.morhipo.com
 api03.morioh.com
 cdn.morioh.com
@@ -163865,7 +163819,6 @@ www.myrtpos.com
 images.mysafetysign.com
 www.mysafetysign.com
 www.mysafilo.com
-cars.mysanantonio.com
 d810.mysanantonio.com
 sli.mysanantonio.com
 www.mysarkarinaukri.com
@@ -169000,7 +168953,6 @@ www.news-journalonline.com
 sp.news-leader.com
 user.news-leader.com
 data.news-press.com
-eu.news-press.com
 user.news-press.com
 www.news-star.com
 www.newtek.com
@@ -172125,7 +172077,6 @@ docs.nvidia.com.global.ogslb.com
 download.nvidia.com.global.ogslb.com
 media.ohbulan.com
 www.ohdeal.com
-www.ohio.com
 www.ohiogamefishing.com
 api.ohiohealth.com
 providerphotos.api.ohiohealth.com
@@ -174284,7 +174235,6 @@ dsotmw.onlinecu.com
 gbsapi.onlinecu.com
 www.onlinedivorce.com
 www.onlinedoctranslator.com
-ebill.onlineebillcenter.com
 www.onlineexambuilder.com
 www.onlinefabricstore.com
 www.onlinegambling.com
@@ -183628,7 +183578,6 @@ www.pdga.com
 cxp.pdhi.com
 scrcxp.pdhi.com
 pdiftp.pdisoftware.com
-www.pdisoftware.com
 www.pdpaola.com
 agentapi.pdq.com
 library.pdq.com
@@ -189951,7 +189900,6 @@ pretty.presslogic.com
 sli.pressofatlanticcity.com
 content.presspage.com
 ssl-client.presspage.com
-www.presspage.com
 ingress.pressreader.com
 ingress-cdn.pressreader.com
 services.pressreader.com
@@ -203507,7 +203455,6 @@ ui-assets-production.internal.salsify.com
 www.salsify.com
 www.saltandlavender.com
 www.saltstrong.com
-www.saltwatersportsman.com
 www.saltwire.com
 www.saltysidedish.com
 cdn2.salud180.com
@@ -208273,7 +208220,6 @@ link.selectblinds.com
 www.selectblinds.com
 mailreply.selectcomfort.com
 omp.mailreply.selectcomfort.com
-www.selected.com
 www.selecthub.com
 clas.selectiveinsurance.com
 customer1.selectiveinsurance.com
@@ -208586,7 +208532,6 @@ api.send-anywhere.com
 api-push.send-anywhere.com
 info.send-anywhere.com
 seneweb.senegence.com
-web.senegence.com
 www.senenews.com
 images.seneweb.com
 www.seneweb.com
@@ -215420,7 +215365,6 @@ mobile-api.smart-id.com
 app.smart-tribune.com
 assets.app.smart-tribune.com
 plugin.smashballoon.com
-www.smashbox.com
 api.smashburger.com
 order.smashburger.com
 cdn.smashfly.com
@@ -215487,7 +215431,6 @@ voicemailt-i2.smithmicro.com
 voicemailv-i2.smithmicro.com
 sgtm.smithoptics.com
 www.smithsfoodanddrug.com
-www.smithsonianchannel.com
 blogs.smithsonianmag.com
 th-thumbnailer.smithsonianmag.com
 ookla.smithville.com
@@ -217821,7 +217764,6 @@ spectre.spectrum.com
 spectrumbusiness.spectrum.com
 links.spectrumbusiness.spectrum.com
 investor.spectrumbrands.com
-www.spectrumbrands.com
 www.spectrumlocalnews.com
 images.spectrumnews1.com
 www.spectrumreach.com
@@ -219295,7 +219237,6 @@ www.sputnikmusic.com
 a.sputniknews.com
 af.sputniknews.com
 arabic.sputniknews.com
-br.sputniknews.com
 cm.sputniknews.com
 cz.sputniknews.com
 img.sputniknews.com
@@ -222633,7 +222574,6 @@ www.swisscom.com
 d4sd.swisslog.com
 na01.swisslog.com
 www.swisslog.com
-www.swissotel.com
 calc.swissre.com
 prod.calc.swissre.com
 identity.swissre.com
@@ -223254,7 +223194,6 @@ autocountws.t2hosted.com
 hawk.t3.com
 sli.t3.com
 vccmd01.t35.com
-www.t3micro.com
 www.ta3.com
 api.taaghche.com
 base.taaghche.com
@@ -223487,7 +223426,6 @@ assets.takeaway.com
 cw-api.takeaway.com
 cw-logs.takeaway.com
 static.takeaway.com
-update.takeaway.com
 afcsps.takecareof.com
 api.takecareof.com
 links.takecareof.com
@@ -223876,7 +223814,6 @@ assets.taobao.com
 awp.taobao.com
 b2bsync.taobao.com
 baichuan-sdk.taobao.com
-bbs.taobao.com
 browser.taobao.com
 buy.taobao.com
 buyertrade.taobao.com
@@ -224504,7 +224441,6 @@ www.tcodesearch.com
 www.tcomn.com
 amp.tcpalm.com
 cm.tcpalm.com
-eu.tcpalm.com
 user.tcpalm.com
 www.tcpalm.com
 112222.tcplusondemand.com
@@ -226711,7 +226647,6 @@ goal2.telefonica.com
 gvp.telefonica.com
 sec.telefonica.com
 cm.telegram.com
-eu.telegram.com
 user.telegram.com
 www.telegram.com
 assets.telegraphindia.com
@@ -227296,7 +227231,6 @@ cdn.texashighways.com
 www.texaslottery.com
 5103c0n1c.texasmonthly.com
 login.texasmonthly.com
-www.texasmotorspeedway.com
 www.texasrealestate.com
 nomnom-prod-api.texasroadhouse.com
 static.texassports.com
@@ -229305,7 +229239,6 @@ www.tickertech.com
 core.ticketevolution.com
 epsf.ticketexchangebyticketmaster.com
 identity.ticketexchangebyticketmaster.com
-www.ticketexchangebyticketmaster.com
 www.ticketfaster.com
 blog.ticketiq.com
 www.ticketleap.com
@@ -230670,7 +230603,6 @@ assets.tomorrowland.com
 cdn.assets.tomorrowland.com
 date.tomorrowland.com
 mailassets.tomorrowland.com
-my.tomorrowland.com
 static-feed.tomorrowland.com
 manage.tomorrowsoffice.com
 screenconnect.tomorrowsoffice.com
@@ -230933,6 +230865,7 @@ ci3.toservers.com
 ar.ci3.toservers.com
 com.ar.ci3.toservers.com
 trendset.com.ar.ci3.toservers.com
+mail.trendset.com.ar.ci3.toservers.com
 commerce.toshiba.com
 dl.toshiba.com
 assets.totaladblock.com
@@ -235955,7 +235888,6 @@ cdn3.unrealengine.com
 docs.unrealengine.com
 graphql.unrealengine.com
 tm.unrealengine.com
-twinmotion.unrealengine.com
 ue.unrealengine.com
 www.unscreen.com
 www.unspeakable.com
@@ -237493,11 +237425,9 @@ res.emac.usaa.com
 t.emac.usaa.com
 gw-mydesktop-eq1.usaa.com
 gw-mydesktop-eq2.usaa.com
-mdm1.usaa.com
 mvt.usaa.com
 myapps.usaa.com
 mydesktop-sr.usaa.com
-myvpn.usaa.com
 www.partners.usaa.com
 prodmx1l.usaa.com
 prodmx1xdfw.usaa.com
@@ -240481,7 +240411,6 @@ api.vstsusers.visualstudio.com
 vs-ssh.visualstudio.com
 wbmi.visualstudio.com
 woprogrammatic.visualstudio.com
-www.visual-click.com
 asset.visual-paradigm.com
 cdn-images.visual-paradigm.com
 cdn-v16-3.visual-paradigm.com
@@ -241231,7 +241160,6 @@ entitlement.dtc.vodafone.com
 entitlement-uk.dtc.vodafone.com
 entsrv-uk.vodafone.com
 es-de.vodafone.com
-gcpsmapi.vodafone.com
 ims.vodafone.com
 mplus.ims.vodafone.com
 mplusps.ims.vodafone.com
@@ -242746,6 +242674,7 @@ www.warzone.com
 ap-northeast-1.wasabisys.com
 s3.ap-northeast-1.wasabisys.com
 eu-central-1.wasabisys.com
+s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
@@ -242782,7 +242711,6 @@ pwapi-proxy.washingtonpost.com
 s2.washingtonpost.com
 sli.washingtonpost.com
 talk.washingtonpost.com
-amp.washingtontimes.com
 wceflex.washoecourts.com
 www.washoecourts.com
 www.washtimesherald.com
@@ -256280,7 +256208,6 @@ api-7.whoop.com
 prod.whoop.com
 api.prod.whoop.com
 www.whoop.com
-api.whooshkaa.com
 www.whosampled.com
 api.whoscall.com
 apiscdn.whoscall.com
@@ -257834,7 +257761,6 @@ sb02.workfront.com
 static.workfront.com
 mfe.static.workfront.com
 stg.workfront.com
-testdrive.workfront.com
 www.workhealthlife.com
 app.workhub.com
 assets.workhuman.com
@@ -269310,7 +269236,6 @@ www.tradegate.de
 www.traktorpool.de
 data-1c0a3d83e3.transfermarkt.de
 data-84a0f3455d.transfermarkt.de
-www.traunsteiner-tagblatt.de
 www.travelbook.de
 push.trimexa.de
 ctest.trivago.de
@@ -274791,7 +274716,6 @@ conversion-apis.uopeople.edu
 go.uopeople.edu
 my.uopeople.edu
 abyss.uoregon.edu
-around.uoregon.edu
 blogs.uoregon.edu
 canvas.uoregon.edu
 cdn.uoregon.edu
@@ -276048,7 +275972,6 @@ l.correo.leroymerlin.es
 ebisu-catalog.leroymerlin.es
 www.letraseningles.es
 estaticos-cdn.lne.es
-www.lonelyplanet.es
 www.lookfantastic.es
 www.luckia.es
 profesionalesue.maec.es
@@ -276560,7 +276483,6 @@ authenticator.pingone.eu
 idaas.pingone.eu
 authall.idaas.pingone.eu
 pidsdk.idaas.pingone.eu
-www.pokerstars.eu
 cmp.politico.eu
 pro.politico.eu
 widget.politico.eu
@@ -276836,7 +276758,6 @@ www.k-rauta.fi
 ksync.k-ruoka.fi
 gtm.ksync.k-ruoka.fi
 www.k-ruoka.fi
-www.maaseuduntulevaisuus.fi
 arkku.mediadelivery.fi
 sndp.mediadelivery.fi
 www.monster.fi
@@ -277083,7 +277004,6 @@ auth.actu.fr
 l.actu.fr
 static.actu.fr
 in.ac-versailles.fr
-www.afd.fr
 www.agefi.fr
 lacollection.airfrance.fr
 poolsite.airfrance.fr
@@ -279811,7 +279731,6 @@ nonexistingsubdomxin6a1e1a4c.storefront.anywhere.gsa.gov
 bsp.gsa.gov
 prod-iae.bsp.gsa.gov
 api-umbrella-lb.prod-iae.bsp.gsa.gov
-cap.gsa.gov
 dns.gsa.gov
 dns2.gsa.gov
 dns3.gsa.gov
@@ -279836,7 +279755,6 @@ gss.gsa.gov
 net.helix.gsa.gov
 nsp-acqit-m3.net.helix.gsa.gov
 ocfo.gsa.gov
-open.gsa.gov
 www.poportal.gsa.gov
 staging.gsa.gov
 test-eos.gsa.gov
@@ -292287,6 +292205,8 @@ mx1.1984.is
 ns0.1984.is
 ns1.1984.is
 ns2.1984.is
+cdn.bunkr.is
+stream.bunkr.is
 snowplow.canary.is
 www.dv.is
 www.freelancer.is
@@ -293981,7 +293901,6 @@ www.hellowork.mhlw.go.jp
 www.mlit.go.jp
 www.mof.go.jp
 www.anzen.mofa.go.jp
-www.moj.go.jp
 ntp-a2.nict.go.jp
 ntp-b2.nict.go.jp
 pmda.go.jp
@@ -326771,7 +326690,6 @@ buildinginspections.coj.net
 maps.coj.net
 paopropertysearch.coj.net
 www.coj.net
-www.collegechoice.net
 www.collegefashion.net
 mirrors.colocall.net
 www.coloring-page.net
@@ -360117,7 +360035,6 @@ www.pakpassion.net
 dns.paltel.net
 ns.paltel.net
 stickers.panarmenian.net
-pro-av.panasonic.net
 toughpad.panasonic.net
 www.toughpad.panasonic.net
 ca.pandora.net
@@ -361400,7 +361317,6 @@ ramsey-pros-api.ramseysolutions.net
 streaming.ramseysolutions.net
 www.rangerforums.net
 www.rangerovers.net
-www.rapyd.net
 gamma.rb.net
 idc.rb.net
 azwprdswsoms01.idc.rb.net
@@ -385743,6 +385659,7 @@ ia601401.us.archive.org
 ia601403.us.archive.org
 ia601404.us.archive.org
 ia601406.us.archive.org
+ia601407.us.archive.org
 ia601408.us.archive.org
 ia601409.us.archive.org
 ia601501.us.archive.org
@@ -385792,6 +385709,7 @@ ia801406.us.archive.org
 ia801409.us.archive.org
 ia801500.us.archive.org
 ia801503.us.archive.org
+ia801505.us.archive.org
 ia801506.us.archive.org
 ia801507.us.archive.org
 ia801508.us.archive.org
@@ -385835,6 +385753,7 @@ ia804600.us.archive.org
 ia804602.us.archive.org
 ia804603.us.archive.org
 ia804605.us.archive.org
+ia804606.us.archive.org
 ia804609.us.archive.org
 ia902600.us.archive.org
 ia902700.us.archive.org
@@ -388247,19 +388166,15 @@ powerschool.fcusd.org
 www.fcusd.org
 download.copr.fedorainfracloud.org
 repos.fedorapeople.org
-admin.fedoraproject.org
 aws.fedoraproject.org
 copr-be.aws.fedoraproject.org
 bodhi.fedoraproject.org
 copr-be.cloud.fedoraproject.org
-codecs.fedoraproject.org
 coreos.fedoraproject.org
 updates.coreos.fedoraproject.org
 download.fedoraproject.org
 koji.fedoraproject.org
-registry.fedoraproject.org
 start.fedoraproject.org
-wildcard.fedoraproject.org
 quotes.fedratewatch.org
 cdn.fedweb.org
 faimages.feedingamerica.org
@@ -388337,7 +388252,6 @@ notifications-api.finra.org
 ofac.finra.org
 profiles.finra.org
 static.profiles.finra.org
-qa.finra.org
 send.finra.org
 tools.finra.org
 workmgt.finra.org
@@ -388714,7 +388628,6 @@ www.hauntedplaces.org
 careeverywhere.hawaiipacifichealth.org
 mychart.hawaiipacifichealth.org
 www.hawaiipacifichealth.org
-www.hawaiitourismauthority.org
 audio.hbr.org
 email.hbr.org
 a.email.hbr.org
@@ -389937,7 +389850,6 @@ www.minneapolis.org
 login.miraheze.org
 matomo.miraheze.org
 meta.miraheze.org
-fedora.mirrorservice.org
 cdn.mises.org
 api.missingkids.org
 www.missouribotanicalgarden.org
@@ -390931,7 +390843,6 @@ www.openshot.org
 www.opensocietyfoundations.org
 join.opensource.org
 docs.openstack.org
-www.openstack.org
 data.openstates.org
 assets.openstax.org
 buyprint.openstax.org
@@ -394877,7 +394788,6 @@ biznes.radiozet.pl
 gfx.biznes.radiozet.pl
 gfx.radiozet.pl
 gfx-player.radiozet.pl
-player.radiozet.pl
 podroze.radiozet.pl
 sport.radiozet.pl
 gfx.sport.radiozet.pl
@@ -399126,7 +399036,6 @@ minuta.cms.markiza.sk
 quiz.cms.markiza.sk
 newtvnoviny.markiza.sk
 static.markiza.sk
-www.markiza.sk
 www.nay.sk
 www.nehnutelnosti.sk
 plus7dni.pluska.sk
@@ -400889,7 +400798,6 @@ www.cushmanwakefield.com.tr
 www.decathlon.com.tr
 defacto.com.tr
 dfcdn.defacto.com.tr
-sentinel.defacto.com.tr
 www.defacto.com.tr
 i.dha.com.tr
 www.dha.com.tr
@@ -401282,7 +401190,6 @@ piegon2.turkcell.com.tr
 piegon3.turkcell.com.tr
 s.turkcell.com.tr
 sesplus.turkcell.com.tr
-signals.turkcell.com.tr
 spta.turkcell.com.tr
 timsac.turkcell.com.tr
 tvoip.turkcell.com.tr
@@ -401350,7 +401257,6 @@ tv.vodafone.com.tr
 api.tv.vodafone.com.tr
 live01rg17.tv.vodafone.com.tr
 www.vodafone.com.tr
-vogue.com.tr
 watsons.com.tr
 www.watsons.com.tr
 wifispot.com.tr
@@ -401406,6 +401312,10 @@ cdnr.yenicaggazetesi.com.tr
 embed.yenicaggazetesi.com.tr
 player.yenicaggazetesi.com.tr
 www.yenicaggazetesi.com.tr
+yenimedya.com.tr
+foto.yenimedya.com.tr
+media.yenimedya.com.tr
+widget.yenimedya.com.tr
 www.yenimesaj.com.tr
 www.yenisafak.com.tr
 www.yurtgazetesi.com.tr
@@ -401613,7 +401523,6 @@ hub.fcm.travel
 portal.fcm.travel
 us.fcm.travel
 www.us.fcm.travel
-www.germany.travel
 www.indonesia.travel
 www.inntopia.travel
 asset.japan.travel
@@ -401729,7 +401638,6 @@ apicache.caast.tv
 cache.caast.tv
 cdn.caast.tv
 media.caast.tv
-rtcdn.caffeine.tv
 media.canalnet.tv
 www.canalnet.tv
 media.cbs19.tv
@@ -403317,7 +403225,6 @@ iek.org.tw
 ieknet.iek.org.tw
 iii.org.tw
 narl.org.tw
-news.pts.org.tw
 rmhc.org.tw
 www.rmhc.org.tw
 www.rti.org.tw
@@ -404144,7 +404051,6 @@ www.7br.co.uk
 www.80scasualclassics.co.uk
 99designs.co.uk
 a2dominion.co.uk
-www.aah.co.uk
 aalco.co.uk
 www.aalco.co.uk
 abbotslangleypreschool.co.uk
@@ -404241,7 +404147,6 @@ online.aegon.co.uk
 secure.aegon.co.uk
 extranet.secure.aegon.co.uk
 www.aegon.co.uk
-aegpresents.co.uk
 afcb.co.uk
 www.afcb.co.uk
 afd.co.uk
@@ -404541,7 +404446,6 @@ arsenal.co.uk
 www.artistsandillustrators.co.uk
 arts-mail.co.uk
 arunestates.co.uk
-ascenti.co.uk
 remote.asda.co.uk
 remote1.asda.co.uk
 asdagoodliving.co.uk
@@ -405298,7 +405202,6 @@ bacsupdates.co.uk
 mail.bacsupdates.co.uk
 bairstoweves.co.uk
 www.bakerross.co.uk
-balfourbeattyvinci.co.uk
 ballicom.co.uk
 www.ballicom.co.uk
 bam.co.uk
@@ -405314,8 +405217,6 @@ onlineservices.bandce.co.uk
 wogw.bandce.co.uk
 bandk.co.uk
 www.bandk.co.uk
-banham.co.uk
-www.banham.co.uk
 apio.bankofscotland.co.uk
 apis.bankofscotland.co.uk
 bcdn-16c9d93d.bankofscotland.co.uk
@@ -405631,7 +405532,6 @@ bestwestern.co.uk
 www.bestwestern.co.uk
 betaville.co.uk
 www.betaville.co.uk
-bglgroup.co.uk
 bglinsurance.co.uk
 mail.bglinsurance.co.uk
 bglremote.co.uk
@@ -405690,7 +405590,6 @@ bksb.co.uk
 cdn.bksb.co.uk
 bksblive2.co.uk
 myerscoughcollege.bksblive2.co.uk
-www.blablacar.co.uk
 www.blackpoolgazette.co.uk
 reporting.blacks.co.uk
 www.blacks.co.uk
@@ -405710,7 +405609,6 @@ static.blogger.co.uk
 blood.co.uk
 my.blood.co.uk
 www.blood.co.uk
-bluearrow.co.uk
 bluebaytravel.co.uk
 bluebirdcare.co.uk
 www.bluebirdcare.co.uk
@@ -405775,8 +405673,6 @@ box.co.uk
 www.box.co.uk
 boxbroadband.co.uk
 speedtest.boxbroadband.co.uk
-boyerplanning.co.uk
-www.boyerplanning.co.uk
 boysandmaughan.co.uk
 www.boysandmaughan.co.uk
 www.bracknellnews.co.uk
@@ -406195,7 +406091,6 @@ cbonline.co.uk
 secure.cbonline.co.uk
 cces-ltd.co.uk
 newsletter.ccfc.co.uk
-www.ccfc.co.uk
 cdndtl.co.uk
 dt-recommends.cdndtl.co.uk
 img.cdndtl.co.uk
@@ -406408,7 +406303,6 @@ www.classiccarsforsale.co.uk
 dating.classicfm.co.uk
 classicfootballshirts.co.uk
 www.classicfootballshirts.co.uk
-classroomsecrets.co.uk
 claybrookstudio.co.uk
 www.claybrookstudio.co.uk
 clearbusiness.co.uk
@@ -406782,7 +406676,6 @@ emails.cunard.co.uk
 cuponation.co.uk
 pouch.cuponation.co.uk
 www.cuponation.co.uk
-www.curo-group.co.uk
 api.currys.co.uk
 broadband.currys.co.uk
 business.currys.co.uk
@@ -406998,7 +406891,6 @@ www.dfscorporate.co.uk
 dhl.co.uk
 parcel.dhl.co.uk
 www.dhl.co.uk
-dhlguide.co.uk
 i.dhlparcel.co.uk
 ship.dhlparcel.co.uk
 track.dhlparcel.co.uk
@@ -407030,7 +406922,6 @@ www.digitechworld.co.uk
 digitickets.co.uk
 app.digitickets.co.uk
 digits.co.uk
-dignityfunerals.co.uk
 diktamen.co.uk
 dimensionscareers.co.uk
 www.dimensionscareers.co.uk
@@ -407760,8 +407651,6 @@ www.fraikin.co.uk
 franchisesports.co.uk
 francisandgaye.co.uk
 www.francisandgaye.co.uk
-franklintempleton.co.uk
-www.franklintempleton.co.uk
 fredholidays.co.uk
 www.fredholidays.co.uk
 my.freeads.co.uk
@@ -407922,7 +407811,6 @@ gigapromo.co.uk
 www.gigapromo.co.uk
 gilbert-ash.co.uk
 gateway.gilbert-ash.co.uk
-gillespiemacandrew.co.uk
 www.girlsgogames.co.uk
 giro.co.uk
 www.giro.co.uk
@@ -407963,7 +407851,6 @@ americangolf.goinspire.co.uk
 gold.co.uk
 www.gold.co.uk
 www.goldsmiths.co.uk
-golfnow.co.uk
 marketing.golfnow.co.uk
 click.marketing.golfnow.co.uk
 golfonline.co.uk
@@ -408107,8 +407994,6 @@ www.haart.co.uk
 www.habitat.co.uk
 hachette.co.uk
 www.hachette.co.uk
-hackneygazette.co.uk
-www.hackneygazette.co.uk
 hafele.co.uk
 www.hafele.co.uk
 hah.co.uk
@@ -408406,7 +408291,6 @@ imap.hosts.co.uk
 pop3.hosts.co.uk
 smtp.hosts.co.uk
 hotelportdinorwic.co.uk
-hotelrez.co.uk
 hotelscombined.co.uk
 www.hotelscombined.co.uk
 www.hotmail.co.uk
@@ -409211,8 +409095,6 @@ mail.lidlplus.co.uk
 click.mail.lidlplus.co.uk
 image.mail.lidlplus.co.uk
 liferesidential.co.uk
-lifeways.co.uk
-www.lifeways.co.uk
 lightfoots.co.uk
 lights.co.uk
 www.lights.co.uk
@@ -409315,7 +409197,6 @@ love2shop.co.uk
 love2shoprewards.co.uk
 www.love2shoprewards.co.uk
 fedc.lovehoney.co.uk
-lovell.co.uk
 lovereading4kids.co.uk
 www.lovereading4kids.co.uk
 www.lrb.co.uk
@@ -409713,7 +409594,6 @@ mrcentralheating.co.uk
 www.mrcentralheating.co.uk
 msccm.co.uk
 vpn.msccm.co.uk
-www.msccruises.co.uk
 mscdirect.co.uk
 www.mscdirect.co.uk
 mtrel.co.uk
@@ -409735,8 +409615,6 @@ epay.myaceni.co.uk
 myamici.co.uk
 mycelebritylife.co.uk
 www.mycelebritylife.co.uk
-mychildcarevouchers.co.uk
-www.mychildcarevouchers.co.uk
 myclarioncall.co.uk
 mycourts.co.uk
 mycubo.co.uk
@@ -409945,8 +409823,6 @@ www.nextdaycatering.co.uk
 api.nextdoor.co.uk
 rs.nextdoor.co.uk
 sockets.nextdoor.co.uk
-nexusrental.co.uk
-www.nexusrental.co.uk
 nfgltd.co.uk
 www.nfgltd.co.uk
 www.nfumutual.co.uk
@@ -410237,7 +410113,6 @@ www.ordnancesurvey.co.uk
 orelia.co.uk
 www.orelia.co.uk
 origympersonaltrainercourses.co.uk
-osborne.co.uk
 osjct.co.uk
 www.osjct.co.uk
 otsmartpad.co.uk
@@ -410285,7 +410160,6 @@ paragonbankinggroup.co.uk
 affinity.paragonbankinggroup.co.uk
 www.paragonbankinggroup.co.uk
 parandco.co.uk
-parasolgroup.co.uk
 parcelchina.co.uk
 www.parcelchina.co.uk
 parentmail.co.uk
@@ -410497,7 +410371,6 @@ www.plymouthherald.co.uk
 plymstockpetcare.co.uk
 pma.co.uk
 www.pma.co.uk
-pmpl.co.uk
 pmtonline.co.uk
 www.pmtonline.co.uk
 pobroadband.co.uk
@@ -411124,7 +410997,6 @@ admin.euro.savills.co.uk
 www.savills.co.uk
 savoysystems.co.uk
 images.savoysystems.co.uk
-sbs.co.uk
 www.scan.co.uk
 scenttrail.co.uk
 schofieldsweeney.co.uk
@@ -412428,7 +412300,6 @@ xsit1.unlimitedhorizon.co.uk
 xsit2.unlimitedhorizon.co.uk
 xsi-int.unlimitedhorizon.co.uk
 xsp.unlimitedhorizon.co.uk
-unlimitedwebhosting.co.uk
 unum.co.uk
 www.unum.co.uk
 upay.co.uk
@@ -412557,7 +412428,6 @@ group1.visioncommunications.co.uk
 visionhealth.co.uk
 vistaprint.co.uk
 www.vistaprint.co.uk
-vistrypartnerships.co.uk
 visualsoft.co.uk
 vsanalytics.visualsoft.co.uk
 visum.co.uk
@@ -413218,7 +413088,6 @@ gss.gov.uk
 www.hants.gov.uk
 haringey.gov.uk
 www.haringey.gov.uk
-www.havering.gov.uk
 herefordshire.gov.uk
 www.hertfordshire.gov.uk
 highways.gov.uk
@@ -413529,8 +413398,6 @@ zone.colinabrett.me.uk
 www.currency.me.uk
 www.dan.me.uk
 horizon.me.uk
-online-betting.me.uk
-www.online-betting.me.uk
 rilynn.me.uk
 typical.me.uk
 ntp.typical.me.uk
@@ -413997,8 +413864,6 @@ regdata.fca.org.uk
 api.regdata.fca.org.uk
 register.fca.org.uk
 www.fca.org.uk
-fdf.org.uk
-www.fdf.org.uk
 fifar.org.uk
 www.fifar.org.uk
 fifedirect.org.uk
@@ -414191,7 +414056,6 @@ bnf.nice.org.uk
 cdn.nice.org.uk
 cks.nice.org.uk
 www.nice.org.uk
-nominet.org.uk
 collectionimages.npg.org.uk
 www.npg.org.uk
 nsyf.org.uk
@@ -414278,7 +414142,6 @@ rmt.org.uk
 rnib.org.uk
 www.rnib.org.uk
 static.roh.org.uk
-www.roundhouse.org.uk
 www.royalacademy.org.uk
 rsc.org.uk
 cdn.rsc.org.uk
@@ -414334,7 +414197,6 @@ www.song-lyrics-generator.org.uk
 speedypurchases.org.uk
 ns1.speedypurchases.org.uk
 ns2.speedypurchases.org.uk
-www.spring.org.uk
 pages.sqa.org.uk
 pages2.sqa.org.uk
 sra.org.uk
@@ -414411,8 +414273,6 @@ www.understandinganimalresearch.org.uk
 unison.org.uk
 www.unison.org.uk
 unrefugees.org.uk
-veteransfoundation.org.uk
-www.veteransfoundation.org.uk
 walkingwiththewounded.org.uk
 whisker.org.uk
 rilian.whisker.org.uk
@@ -419227,7 +419087,6 @@ tradestation.fireant.vn
 www.fireant.vn
 alireviews-cdn.fireapps.vn
 imgs.fireapps.vn
-www.flashscore.vn
 api.foody.vn
 images.foody.vn
 media.foody.vn
@@ -421825,7 +421684,6 @@ www.j2.co.za
 joat.co.za
 rs.joat.co.za
 joburginstall.co.za
-journals.co.za
 www.junkmail.co.za
 k4ai.co.za
 www.k4ai.co.za
@@ -422028,7 +421886,6 @@ www.psg.co.za
 pwc.co.za
 www.pwc.co.za
 qeysecure.co.za
-quicket.co.za
 www.quicket.co.za
 raf.co.za
 remote.raf.co.za
