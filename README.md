@@ -587,5 +587,5 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://github.com/crssi/NextDNS-Config">github.com/crssi/NextDNS-Config</a> <br>
 <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
 <a href="https://socialgrep.com/search?query=1hosts%2Clite">users' comments: 1Hosts (Lite)</a> <br>
-<a href="https://socialgrep.com/search?query=1hosts%2Cpro">users' comments: 1Hosts (Pro)</a> <br>
+<a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
 </p>
