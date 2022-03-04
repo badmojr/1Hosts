@@ -3250,7 +3250,6 @@ www.onegov.nsw.gov.au
 schools.nsw.gov.au
 pm.gov.au
 www.pm.gov.au
-business.qld.gov.au
 goldcoast.qld.gov.au
 health.qld.gov.au
 www.health.qld.gov.au
@@ -4949,7 +4948,6 @@ delivery.atacadotreichel.com.br
 auaha.com.br
 audiconsearch.com.br
 fox.audiconsearch.com.br
-auinmeio.com.br
 autozone.com.br
 www.autozone.com.br
 avatohosting.com.br
@@ -8035,7 +8033,6 @@ multimedia.bbycastatic.ca
 bccancer.bc.ca
 www.bccancer.bc.ca
 bchydro.bc.ca
-bcsc.bc.ca
 apps.gov.bc.ca
 spt.apps.gov.bc.ca
 bclaws.gov.bc.ca
@@ -16945,6 +16942,7 @@ static.11880.com
 media.11alive.com
 secure.11os.com
 www.11v11.com
+electrumx-core.1209k.com
 jelectrum-core.1209k.com
 www.120ask.com
 www.123.com
@@ -17863,7 +17861,10 @@ nba2k22-ws.2ksports.com
 nba-cdn2.2ksports.com
 pc.2ksports.com
 nba2k14.pc.2ksports.com
+btg.2miners.com
 currencies.2miners.com
+hr.2miners.com
+rvn.2miners.com
 static-d.2miners.com
 refer.2ndswing.com
 www.2nunu.com
@@ -20208,7 +20209,6 @@ mapp.ababank.com
 email.abacus.com
 static.abacus.com
 ub.abacus.com
-www.abanca.com
 ace.abb.com
 americas.abb.com
 library.e.abb.com
@@ -26846,7 +26846,6 @@ spiderimg.amarujala.com
 sso.amarujala.com
 cdn.amasty.com
 shopifyapi.amasty.com
-www.amateurgolf.com
 www.amathsdictionaryforkids.com
 www.amawaterways.com
 www.amazinavenue.com
@@ -39553,7 +39552,6 @@ zoterofilestorage.s3.us-east-1.amazonaws.com
 s3-external.us-east-1.amazonaws.com
 s3-external-w.us-east-1.amazonaws.com
 s3-r-w.us-east-1.amazonaws.com
-s3-website.us-east-1.amazonaws.com
 sagemaker.us-east-1.amazonaws.com
 secretsmanager.us-east-1.amazonaws.com
 skylight-client-ds.us-east-1.amazonaws.com
@@ -40183,7 +40181,6 @@ weee-dev-img.s3.us-west-1.amazonaws.com
 wpmedia-prod-makemusic-com.s3.us-west-1.amazonaws.com
 wpmedia-prod-smartmusic-com.s3.us-west-1.amazonaws.com
 yelp-twilio-media.s3.us-west-1.amazonaws.com
-s3-r-w.us-west-1.amazonaws.com
 sns.us-west-1.amazonaws.com
 sqs.us-west-1.amazonaws.com
 ssm.us-west-1.amazonaws.com
@@ -54555,6 +54552,7 @@ api001.backblazeb2.com
 api002.backblazeb2.com
 api004.backblazeb2.com
 f003.backblazeb2.com
+f004.backblazeb2.com
 us-west-000.backblazeb2.com
 s3.us-west-000.backblazeb2.com
 us-west-001.backblazeb2.com
@@ -58442,6 +58440,25 @@ admincontent.bimobject.com
 www.bimobject.com
 analyticsapi.bimsmith.com
 market.bimsmith.com
+basic.binance.com
+bstream.binance.com
+c2c.binance.com
+c2c-admin.binance.com
+dapi.binance.com
+dstream.binance.com
+fapi.binance.com
+im.binance.com
+margin-stream.binance.com
+merchant.binance.com
+nbstream.binance.com
+otc.binance.com
+p2p.binance.com
+pay.binance.com
+sdstream.binance.com
+sfstream.binance.com
+stream3.binance.com
+us.binance.com
+vstream.binance.com
 testnet.binancefuture.com
 vs1005.binarydefense.com
 vs1037.binarydefense.com
@@ -58683,6 +58700,11 @@ zb10-7gsop1v78.bitchute.com
 zbbb278hfll091.bitchute.com
 zggg98sgwbg1gh.bitchute.com
 zn21g5kls-n995.bitchute.com
+api.bitcoin.com
+markets.api.bitcoin.com
+footer.cloud.bitcoin.com
+navbar.cloud.bitcoin.com
+newsletter.cloud.bitcoin.com
 static.news.bitcoin.com
 widgets.bitcoin.com
 bmdr.bitdefender.com
@@ -63167,7 +63189,9 @@ webex-clients-01-ipcomms.bt.com
 webex-clients-02-ipcomms.bt.com
 webex-clients-ipcomms.bt.com
 bt.btbbt.com
+ss.btc.com
 wallet-api.btc.com
+ex.btcmp.com
 ibmr.btconnect.com
 android-pro-mobile-bff.btcturk.com
 api.btcturk.com
@@ -79062,7 +79086,6 @@ ws-retailfactory-dyna.daimler.com
 xentry.daimler.com
 xentry-tips.daimler.com
 xentry-tools-monitoring.daimler.com
-www.dainese.com
 www.dainikamadershomoy.com
 www.dairyfoods.com
 agent.dairylandagent.com
@@ -81409,7 +81432,6 @@ www.designer-daily.com
 www.designevo.com
 cdn1.designhill.com
 www.designhill.com
-www.designhotels.com
 www.designlovefest.com
 admin.designmynight.com
 api.designmynight.com
@@ -85675,7 +85697,6 @@ api.drudgereport.com
 go.drugbank.com
 sso.drugdev.com
 platform.drugdevspark.com
-newsletters.drugs.com
 assets1.drugstorenews.com
 www.drugwatch.com
 www.drumeo.com
@@ -91964,7 +91985,6 @@ www.engineersupply.com
 info.enginegroup.com
 go.info.enginegroup.com
 go2.info.enginegroup.com
-www.enginegroup.com
 survey.enginesurveys.com
 www.engine-codes.com
 www.englandrugby.com
@@ -95610,6 +95630,7 @@ www.e-yearbook.com
 www.e-zpassny.com
 www.f150forum.com
 www.f150online.com
+eth.f2pool.com
 stratum.f2pool.com
 api.f45training.com
 profile.api.f45training.com
@@ -105287,7 +105308,6 @@ badges.fuelly.com
 email.fuelrewards.com
 smtp-eu11.fugro.com
 www.fugro.com
-www.fujielectric.com
 asset.fujifilm.com
 ffssvpn.fujifilm.com
 service.fujifilm.com
@@ -107549,7 +107569,6 @@ admin.github.com
 cli.github.com
 ghicons.github.com
 github.github.com
-lab.github.com
 lfs.github.com
 malsup.github.com
 opengrok.github.com
@@ -107592,7 +107611,6 @@ app.gitkraken.com
 gloapi.gitkraken.com
 release.gitkraken.com
 www.gitkraken.com
-forum.gitlab.com
 packages.gitlab.com
 page.gitlab.com
 status.gitlab.com
@@ -115229,7 +115247,6 @@ micronet.growthzoneapp.com
 purchase.growtix.com
 register.growtix.com
 rfid.growtix.com
-www.growtopiagame.com
 ssl.grsaccess.com
 learn.grsm.com
 www.grsm.com
@@ -135500,7 +135517,6 @@ www.janssen.com
 cdn.janushenderson.com
 mag.japaaan.com
 images.japancentre.com
-www.japancentre.com
 www.japancupid.com
 www.japanesepod101.com
 cdn.japantravel.com
@@ -139894,6 +139910,14 @@ www.kuaishou.com
 images.kualo.com
 apps.kubotausa.com
 fs.kubotausa.com
+api.kucoin.com
+api-futures.kucoin.com
+assets-currency.kucoin.com
+frontend-helper.kucoin.com
+futures.kucoin.com
+m.kucoin.com
+openapi-v2.kucoin.com
+ws-web.kucoin.com
 maillinks.kudoboard.com
 api.kudobuzz.com
 statics2.kudobuzz.com
@@ -155661,6 +155685,7 @@ us.mineplex.com
 b.mineraltree.com
 oak.mineraltree.com
 payments.mineraltree.com
+rest.minergate.com
 api.minerstat.com
 www.mingjingnews.com
 static1.mingle2.com
@@ -157544,6 +157569,7 @@ admin.moonvalleynurseries.com
 www.moonvalleynurseries.com
 realy.mooo.com
 u2ekcv.mooo.com
+xred.mooo.com
 hub.moorings.com
 www.moosejaw.com
 cdn-editor.moosend.com
@@ -165883,6 +165909,8 @@ go.nice.com
 info.nice.com
 trk.nice.com
 nhmp-ssl.eu.nicehash.com
+eu-west.nicehash.com
+files.nicehash.com
 api-c72.niceincontact.com
 api-e31.niceincontact.com
 api-e32.niceincontact.com
@@ -168503,6 +168531,7 @@ www.okcoin.com
 3-instant.okcupid.com
 api.okcupid.com
 www.okdo.com
+real.okex.com
 a.okezone.com
 api.okezone.com
 bola.okezone.com
@@ -179071,7 +179100,6 @@ c.glb.paypal.com
 c6.glb.paypal.com
 c-fastly.glb.paypal.com
 developer.glb.paypal.com
-pics.glb.paypal.com
 pics-fastly.glb.paypal.com
 sandbox.glb.paypal.com
 api.sandbox.glb.paypal.com
@@ -193308,7 +193336,6 @@ ua.rentmanager.com
 www.rentmanager.com
 cdn.rentokil.com
 www.rentokil.com
-www.rentokil-initial.com
 assets.rentometer.com
 www.rentometer.com
 message.rentpath.com
@@ -194858,7 +194885,6 @@ echocarriers.rmissecure.com
 freezpakcarriers.rmissecure.com
 www.rmlsweb.com
 mediaservice.rmn.com
-www.rms.com
 bookings10.rmscloud.com
 images.rmscloud.com
 signalrhub.rmscloud.com
@@ -207273,7 +207299,6 @@ chatgw.simplenexus.com
 com.simplenexus.com
 images.simplenexus.com
 www.simplenexus.com
-app.simplenote.com
 secure.simplepart.com
 api.simplepractice.com
 events-api.simplepractice.com
@@ -213143,6 +213168,7 @@ cdn2.photos.sparkplatform.com
 cdn3.photos.sparkplatform.com
 resize.sparkplatform.com
 cdn.resize.sparkplatform.com
+beam-eu.sparkpool.com
 api.sparkpost.com
 e.sparkpost.com
 et.e.sparkpost.com
@@ -215448,7 +215474,6 @@ autodiscover.retail.starbucks.com
 retail-level-3.starbucks.com
 retail-web-apps-prod.starbucks.com
 search.starbucks.com
-secureui.starbucks.com
 sso-group0-iad.starbucks.com
 sso-group-chd.starbucks.com
 sso-group-iad.starbucks.com
@@ -217241,7 +217266,6 @@ solicitudes.sucursalelectronica.com
 www1.sucursalelectronica.com
 www.sudbury.com
 www.suddath.com
-order.suddenlink.com
 pay.suddenlink.com
 stg.suddenlink.com
 www.suddenlink.com
@@ -218389,7 +218413,6 @@ assets.syndigo.com
 content.syndigo.com
 platform.syndigo.com
 selfservice.syndigo.com
-www.syndigo.com
 www.syndtrak.com
 citrix.syneoshealth.com
 investor.syneoshealth.com
@@ -224120,7 +224143,6 @@ www.thisiscolossal.com
 portal-api.thisisdistorted.com
 cdn.thisisfutbol.com
 sm-sp.thisisfutbol.com
-www.thisisguernsey.com
 api.thisissand.com
 cdn.thisissand.com
 gc.cdn.thisissand.com
@@ -227759,9 +227781,6 @@ p2.trrsf.com
 www.trsretire.com
 www.trthaber.com
 www.trtizle.com
-cdna0.trtworld.com
-cdni0.trtworld.com
-www.trtworld.com
 app.truabilities.com
 ic.truckid.com
 bccdp.truckinginfo.com
@@ -228339,7 +228358,6 @@ www.tuexperto.com
 www.tuexpertomovil.com
 api.tuffshed.com
 www.tuffshed.com
-www.tufin.com
 ipa.tuftandneedle.com
 news.tuftandneedle.com
 www.tuftandneedle.com
@@ -230548,7 +230566,6 @@ w3b-api.ultramobile.com
 www.ultramobile.com
 usun.ultrasignup.com
 m.ultrasurfing.com
-fr.ulule.com
 mailing.ulule.com
 www.ulusalpost.com
 ima.ulximg.com
@@ -237631,7 +237648,6 @@ tve-vod-ctl.warnermediacdn.com
 tve-vod-lln.warnermediacdn.com
 careers.warnermediagroup.com
 autodiscover.warnermusic.com
-store.warnermusic.com
 www.warpfootball.com
 www.warrennolan.com
 img.warriorcats.com
@@ -250077,7 +250093,6 @@ nhreading.weebly.com
 nicktursisbestbracketperiod.weebly.com
 nsms6thgradesocialstudies.weebly.com
 p.weebly.com
-pages-wildcard.weebly.com
 pkmslearningcommons.weebly.com
 sandbox.weebly.com
 servicehighlibraryak.weebly.com
@@ -250908,6 +250923,7 @@ sli.whattoexpect.com
 sp.whattoexpect.com
 www.whattoexpect.com
 zdstatic.whattoexpect.com
+images.whattomine.com
 www.whattowatch.com
 images1.whatuni.com
 www.whatuni.com
@@ -255087,6 +255103,12 @@ mx.xmission.com
 time.xmission.com
 filestore.xmr3.com
 pull.xmr3.com
+donate.xmrig.com
+fee.xmrig.com
+ssl.xmrig.com
+donate.ssl.xmrig.com
+v2.xmrig.com
+donate.v2.xmrig.com
 games-auth.xnxx.com
 www.xn--01b2b6b9c.com
 www.xn--12c4cbf7aots1ayx.com
@@ -257019,7 +257041,6 @@ login.youearnedit.com
 plus.youexec.com
 ports.yougetsignal.com
 account.yougov.com
-business.yougov.com
 cdn.yougov.com
 commercial.yougov.com
 engage.yougov.com
@@ -259876,7 +259897,6 @@ api.zerofasting.com
 email.zerohedge.com
 click1.email.zerohedge.com
 api.zeroheight.com
-www.zeromotorcycles.com
 cdn101.zeroparallel.com
 leads.zeroparallel.com
 download.zerotier.com
@@ -261686,7 +261706,6 @@ bilder.buecher.de
 www.buechertreff.de
 cdn.bueromarkt-ag.de
 wowdata.buffed.de
-bbk.bund.de
 www.bbk.bund.de
 www.bfdi.bund.de
 bsi.bund.de
@@ -267502,7 +267521,6 @@ phones.liberty.edu
 luchcsgw.phones.liberty.edu
 sso.liberty.edu
 watch.liberty.edu
-www.liu.edu
 admissions.llu.edu
 email.llu.edu
 home.llu.edu
@@ -268171,7 +268189,6 @@ liberalarts.oregonstate.edu
 library.oregonstate.edu
 login.oregonstate.edu
 science.oregonstate.edu
-today.oregonstate.edu
 volcano.oregonstate.edu
 npic.orst.edu
 buckeyelink.osu.edu
@@ -268345,7 +268362,6 @@ cla.purdue.edu
 www.cla.purdue.edu
 cs.purdue.edu
 ecn.purdue.edu
-www.extension.purdue.edu
 ics.purdue.edu
 web.ics.purdue.edu
 itap.purdue.edu
@@ -269556,7 +269572,6 @@ myportfolio.umm.edu
 portfoliomd.umm.edu
 ahc.umn.edu
 canvas.umn.edu
-cehd.umn.edu
 cidrap.umn.edu
 www.cidrap.umn.edu
 mediamill.cla.umn.edu
@@ -271743,8 +271758,17 @@ srv1116.dedicated.server-hosting.expert
 www.petfood.express
 www.justfor.fans
 ca1.hiveos.farm
+download.hiveos.farm
+download2.hiveos.farm
+helsinki.hiveos.farm
+hks.hiveos.farm
+i.hiveos.farm
+sentry.i.hiveos.farm
 msk.hiveos.farm
+naw.hiveos.farm
+paris.hiveos.farm
 shell.hiveos.farm
+the.hiveos.farm
 mirror.usenet.farm
 org.aalto.fi
 www.alfamer.fi
@@ -274542,7 +274566,6 @@ mx-east.fbi.gov
 mx-east-ic.fbi.gov
 mx-west.fbi.gov
 ucr.fbi.gov
-vault.fbi.gov
 apply.fbijobs.gov
 docs.fcc.gov
 geo.fcc.gov
@@ -274757,7 +274780,6 @@ in-session.house.gov
 iqconnect.house.gov
 january6th.house.gov
 kml.house.gov
-kuster.house.gov
 mail.house.gov
 malinowski.house.gov
 oxygen.house.gov
@@ -275738,8 +275760,6 @@ ns2.nih.gov
 ns3.nih.gov
 od.nih.gov
 ods.od.nih.gov
-pubmedcentral.nih.gov
-www.pubmedcentral.nih.gov
 reporter.nih.gov
 search.nih.gov
 bea.nist.gov
@@ -277799,7 +277819,6 @@ api.skroutz.gr
 skroutza.skroutz.gr
 bookings.skyexpress.gr
 cdn.sofokleousin.gr
-www.sofokleousin.gr
 cdn.spitogatos.gr
 en.spitogatos.gr
 m1.spitogatos.gr
@@ -278617,9 +278636,6 @@ rd.hirkereso.hu
 box.hirstart.hu
 www.howrse.hu
 www.hrportal.hu
-api.hvg.hu
-cdn.hvg.hu
-images.hvg.hu
 m.hvg.hu
 androidapi.idokep.hu
 cam.idokep.hu
@@ -280061,7 +280077,6 @@ activetrail.co.il
 www.activetrail.co.il
 agas.co.il
 aig.co.il
-airfrance.co.il
 wwws.airfrance.co.il
 alaxon.co.il
 albit.co.il
@@ -281034,7 +281049,6 @@ www.cashify.in
 www.cdac.in
 cloud.cdnland.in
 assets.cntraveller.in
-www.cntraveller.in
 adidas.co.in
 www.adidas.co.in
 airasia.co.in
@@ -283099,6 +283113,7 @@ api-push.flat.io
 api-ws.flat.io
 peoc.flat.io
 sdk.fleeq.io
+static.flexpool.io
 api.flow.io
 cdn.flow.io
 grants07-prod-rtu.fluxx.io
@@ -287817,7 +287832,6 @@ www.parmatoday.it
 imap.pec.it
 webmail.pec.it
 webmailbeta.pec.it
-www.pec.it
 www.pezzidiricambio24.it
 www.pianetadesign.it
 faidatemania.pianetadonna.it
@@ -289137,7 +289151,6 @@ www.goo.ne.jp
 api.www.goo.ne.jp
 f.hatena.ne.jp
 q.hatena.ne.jp
-jcom.home.ne.jp
 hotel-story.ne.jp
 asp.hotel-story.ne.jp
 itkeeper.ne.jp
@@ -289766,6 +289779,7 @@ hunet.co.kr
 hungryapp.co.kr
 m.hungryapp.co.kr
 www.hungryapp.co.kr
+iacstatic.co.kr
 ibk.co.kr
 icoxs.co.kr
 e.icoxs.co.kr
@@ -291260,6 +291274,7 @@ capture-pro.everhelper.me
 nimbus.everhelper.me
 sync-eh.everhelper.me
 trial-api.everhelper.me
+eu.ezil.me
 open.firstory.me
 api1.fitbod.me
 app-media.fitbod.me
@@ -313092,6 +313107,7 @@ com.gha.chartermi.net
 exchange.charter-business.net
 sipsrv02.cheapconnect.net
 sipsrv02b.cheapconnect.net
+ip.chia.net
 www.chicagoboyz.net
 265a9.chicdn.net
 wac.265a9.chicdn.net
@@ -330650,7 +330666,6 @@ mobile.fashiongo.net
 vendoradmin.fashiongo.net
 www.fashion-press.net
 images.fastcompany.net
-customer.fastly.net
 www-amazon-nl.customer.fastly.net
 annefrank.freetls.fastly.net
 appsgfscom.freetls.fastly.net
@@ -344755,6 +344770,9 @@ ord1.hivelocity.net
 speedtest.ord1.hivelocity.net
 tpa2.hivelocity.net
 speedtest.tpa2.hivelocity.net
+eu-eth.hiveon.net
+naw-eth.hiveon.net
+usw-eth.hiveon.net
 mail.hiwaay.net
 www.hkitalk.net
 sci-hub.hkvisa.net
@@ -380784,6 +380802,7 @@ secure67789-inf0.duckdns.org
 secure67789-inf05.duckdns.org
 secure677o89-inf05.duckdns.org
 secure6d-verify.duckdns.org
+secure6inetflix.duckdns.org
 secure70-support-all.duckdns.org
 secure73-agent.duckdns.org
 secure768-macuse.duckdns.org
@@ -381235,6 +381254,8 @@ www.esv.org
 matomo.ethereum.org
 remix.ethereum.org
 asia2.ethermine.org
+eu1-etc.ethermine.org
+us2.ethermine.org
 www.ethicalconsumer.org
 www.ethicaltrade.org
 en.etilaf.org
@@ -383243,6 +383264,9 @@ url3596.namic.org
 www.namic.org
 www.namm.org
 fee.nanominer.org
+etc-us-east1.nanopool.org
+eth-au1.nanopool.org
+eth-jp1.nanopool.org
 api.nanowrimo.org
 ywp.nanowrimo.org
 send.napa-net.org
@@ -389051,6 +389075,7 @@ www.ziaruldeiasi.ro
 m.ziuaconstanta.ro
 piped.kavin.rocks
 pipedapi.kavin.rocks
+haven.miner.rocks
 img.pincong.rocks
 static.pincong.rocks
 tor-exit.riverside.rocks
@@ -390447,6 +390472,7 @@ ege.sdamgia.ru
 oge.sdamgia.ru
 vpr.sdamgia.ru
 cdn.seasonvar.ru
+681200.selcdn.ru
 image.sendsay.ru
 read.sendsay.ru
 static.sephora.ru
@@ -390602,6 +390628,7 @@ bus.tutu.ru
 www.tvc.ru
 api.tvrain.ru
 mcdn.tvzvezda.ru
+ca12088-wordpress-yfi8o.tw1.ru
 assets.uchi.ru
 chat.uchi.ru
 content.uchi.ru
@@ -392246,6 +392273,8 @@ autofaucet.dutchycorp.space
 prod.iogames.space
 viral.iogames.space
 api.ocr.space
+eu1.pool.space
+na1.pool.space
 consent.google.sr
 trends.google.sr
 img.avito.st
@@ -396518,7 +396547,6 @@ www.mfa.gov.ua
 www.mil.gov.ua
 minjust.gov.ua
 mon.gov.ua
-nazk.gov.ua
 president.gov.ua
 www.president.gov.ua
 pzcu.gov.ua
@@ -397884,7 +397912,6 @@ www.alquds.co.uk
 alquimia.co.uk
 www.alquimia.co.uk
 www.alternate.co.uk
-www.altro.co.uk
 alungriffiths.co.uk
 autodiscover.alungriffiths.co.uk
 intranet.alungriffiths.co.uk
@@ -398013,7 +398040,6 @@ oidc.www.aol.co.uk
 aon.co.uk
 apcoa.co.uk
 www.apcoa.co.uk
-apetito.co.uk
 www.aplan.co.uk
 apollo.co.uk
 www.apollo.co.uk
@@ -399169,7 +399195,6 @@ s2-prod.belfastlive.co.uk
 www.belfastlive.co.uk
 gigya-cp.belfasttelegraph.co.uk
 m.belfasttelegraph.co.uk
-belhavenpubs.co.uk
 bellrockgroup.co.uk
 www.bellrockgroup.co.uk
 bellway.co.uk
@@ -400218,7 +400243,6 @@ cdn.cplonline.co.uk
 cpltraining.co.uk
 www.cpltraining.co.uk
 clickom.craftginclub.co.uk
-www.craftginclub.co.uk
 craftsonsea.co.uk
 www.craftsonsea.co.uk
 craftyblogs.co.uk
@@ -402631,8 +402655,6 @@ lancasterguardian.co.uk
 www.lancasterguardian.co.uk
 lancersquare.co.uk
 www.lancersquare.co.uk
-lancome.co.uk
-www.lancome.co.uk
 landc.co.uk
 assets.landc.co.uk
 cdn.landc.co.uk
@@ -403777,7 +403799,6 @@ ip.onthebeach.co.uk
 links.onthebeach.co.uk
 t.onthebeach.co.uk
 www.onthebeach.co.uk
-onward.co.uk
 on-trac.co.uk
 swp.on-trac.co.uk
 oosha.co.uk
@@ -403850,7 +403871,6 @@ jabra.pairx.co.uk
 palantirfoundry.co.uk
 pantools.co.uk
 track.pantools.co.uk
-papercraftermagazine.co.uk
 parago.co.uk
 app.parago.co.uk
 paragonbank.co.uk
@@ -404389,7 +404409,6 @@ realcorethoughtllc.co.uk
 click.realcorethoughtllc.co.uk
 realla.co.uk
 www.realla.co.uk
-realsmart.co.uk
 realtimecommunications.co.uk
 email.realtimecommunications.co.uk
 realtimetrains.co.uk
@@ -404791,7 +404810,6 @@ secureguru.co.uk
 securelive.co.uk
 www.securelive.co.uk
 secureorder.co.uk
-security-hardware.co.uk
 seddon.co.uk
 www.seddon.co.uk
 seddonhomes.co.uk
@@ -404877,8 +404895,6 @@ www.showcasecinemas.co.uk
 showmyhomework.co.uk
 api.showmyhomework.co.uk
 shponline.co.uk
-shredit.co.uk
-www.shredit.co.uk
 siccarpointenergy.co.uk
 www.siccarpointenergy.co.uk
 sicon.co.uk
@@ -405023,7 +405039,6 @@ a02342.southwalesargus.co.uk
 www.southwalesargus.co.uk
 southwarknews.co.uk
 www.southwarknews.co.uk
-www.spar.co.uk
 sparepartstore24.co.uk
 www.sparepartstore24.co.uk
 assets.spareroom.co.uk
@@ -406695,7 +406710,6 @@ socialhousingcomplaints.campaign.gov.uk
 stopabusetogether.campaign.gov.uk
 teach-in-further-education.campaign.gov.uk
 www.teach-in-further-education.campaign.gov.uk
-canterbury.gov.uk
 castlepoint.gov.uk
 www.centralbedfordshire.gov.uk
 charitycommission.gov.uk
@@ -406748,7 +406762,6 @@ widget.discoveruni.gov.uk
 doncaster.gov.uk
 dorsetcouncil.gov.uk
 www.dorsetcouncil.gov.uk
-dover.gov.uk
 www.dundeecity.gov.uk
 publicaccess.durham.gov.uk
 contact.dvla.gov.uk
@@ -406802,7 +406815,6 @@ www.finance-ni.gov.uk
 flintshire.gov.uk
 ratings.food.gov.uk
 www.food.gov.uk
-fylde.gov.uk
 gamblingcommission.gov.uk
 registers.gamblingcommission.gov.uk
 www.gamblingcommission.gov.uk
@@ -406823,7 +406835,6 @@ jobcentreplus.gsi.gov.uk
 gss.gov.uk
 apps.gss.gov.uk
 wildflag.apps.gss.gov.uk
-guildford.gov.uk
 planning.hambleton.gov.uk
 www.hants.gov.uk
 harborough.gov.uk
@@ -407157,7 +407168,6 @@ south-norfolk.gov.uk
 info.south-norfolk.gov.uk
 sstaffs.gov.uk
 planning.sstaffs.gov.uk
-stevenage.gov.uk
 stirling.gov.uk
 planning.stockport.gov.uk
 stockton.gov.uk
@@ -407189,7 +407199,6 @@ mobileapi.tfl.gov.uk
 mobileapim.tfl.gov.uk
 oyster.tfl.gov.uk
 push-api-nile.tfl.gov.uk
-thanet.gov.uk
 thepensionsregulator.gov.uk
 www.thepensionsregulator.gov.uk
 thurrock.gov.uk
@@ -407654,7 +407663,6 @@ www.britishlegion.org.uk
 cafod.org.uk
 cambridgeassessment.org.uk
 camra.org.uk
-careinternational.org.uk
 careplace.org.uk
 www.careplace.org.uk
 cas.org.uk
@@ -407946,8 +407954,6 @@ www.nationaltheatre.org.uk
 naturalengland.org.uk
 www.naturalengland.org.uk
 nc3rs.org.uk
-ncfe.org.uk
-www.ncfe.org.uk
 ncfemail.org.uk
 nct.org.uk
 www.nct.org.uk
@@ -410299,7 +410305,6 @@ backup.windowsazure.us
 api-backend.workstream.us
 hr.workstream.us
 www.workstream.us
-wvde.state.wv.us
 secure09d-dashboard04c.wwwhost.us
 secweb06-dashboard.wwwhost.us
 img.xiumi.us
