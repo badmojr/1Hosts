@@ -418,7 +418,6 @@ ns2.beeline.am
 mc.yandex.com.am
 www.yandex.com.am
 yabs.yandex.com.am
-www.instagr.am
 www.list.am
 platform.mediastre.am
 1wpj.mj.am
@@ -2070,7 +2069,6 @@ ampcid.google.com.au
 consent.google.com.au
 ogs.google.com.au
 trends.google.com.au
-gormanshop.com.au
 www.gourmettraveller.com.au
 gq.com.au
 www.gq.com.au
@@ -2083,7 +2081,6 @@ ns2.gslnetworks.com.au
 www.gumtree.com.au
 haesemathematics.com.au
 snowflake.haesemathematics.com.au
-hardtofind.com.au
 www.hardtofind.com.au
 waitingroom.harveynorman.com.au
 www.hays.com.au
@@ -2348,7 +2345,6 @@ transact.nab.com.au
 www.nab.com.au
 x.nab.com.au
 nabequitylending.com.au
-nabmarginlending.com.au
 nabtest.com.au
 cts.nabtest.com.au
 lb.nabtest.com.au
@@ -2758,7 +2754,6 @@ devourer.valos.com.au
 ventraip.com.au
 vfpartner.com.au
 hp-nn.vfpartner.com.au
-vidaxl.com.au
 videopro.com.au
 www.videopro.com.au
 viktoriaandwoods.com.au
@@ -2947,7 +2942,6 @@ smtp5.health.qld.gov.au
 smtp6.health.qld.gov.au
 smtp7.health.qld.gov.au
 www.health.qld.gov.au
-justice.qld.gov.au
 mail.qld.gov.au
 mailer3.mail.qld.gov.au
 qsuper.qld.gov.au
@@ -4276,7 +4270,6 @@ promovivofibra.clientes.ananke.com.br
 anbima.com.br
 statics.angeloni.com.br
 www.angeloni.com.br
-apexbrasil.com.br
 api-casasbahia.com.br
 npreco.api-casasbahia.com.br
 api-extra.com.br
@@ -4976,7 +4969,6 @@ life.enviou.com.br
 epipoca.com.br
 www.epocacosmeticos.com.br
 escolaeducacao.com.br
-escolaemmovimento.com.br
 esportenewsmundo.com.br
 espsystemsecurity.com.br
 acesso.estadao.com.br
@@ -5828,7 +5820,6 @@ netwizard.com.br
 corpmx.netwizard.com.br
 neurotech.com.br
 gateway-hml.neurotech.com.br
-www.newbalance.com.br
 newsbreak.com.br
 api.newsbreak.com.br
 log.newsbreak.com.br
@@ -7154,7 +7145,6 @@ uft.edu.br
 sistemas.uft.edu.br
 seer.uftm.edu.br
 unicesumar.edu.br
-uniftc.edu.br
 uninassau.edu.br
 www.einstein.br
 acesso.gov.br
@@ -45123,7 +45113,6 @@ www.arbys.com
 www.arcacontal.com
 www.arcadeprehacks.com
 static.arcadespot.com
-www.arcadia.com
 www.arcadis.com
 api.arcai.com
 api3.arcai.com
@@ -65151,7 +65140,6 @@ bmall.camera360.com
 pushmsg.camera360.com
 store.camera360.com
 mobile.camerounweb.com
-www.camerounweb.com
 api.cameyo.com
 online.cameyo.com
 www.camfil.com
@@ -75677,7 +75665,6 @@ ffxiv.consolegameswiki.com
 ir.consolidated.com
 manager.consoloservices.com
 my.consoloservices.com
-www.constancehotels.com
 lithium.constant.com
 centos.mirror.constant.com
 epel.mirror.constant.com
@@ -76754,7 +76741,6 @@ sx-analyze.cpi-offers.com
 www.cpjobs.com
 api.cpk.com
 www.cpk.com
-www.cpl.com
 econnect.cpllabs.com
 www.cpllabs.com
 cpoinforeporting-cdn1.cpoacc.com
@@ -79651,7 +79637,6 @@ gcp.databricks.com
 0.gcp.databricks.com
 1763186605003310.0.gcp.databricks.com
 status.gcp.databricks.com
-preferences.databricks.com
 tft.databricks.com
 crosell.datacaciques.com
 app.datacamp.com
@@ -82898,7 +82883,6 @@ img.directindustry.com
 pdf.directindustry.com
 www.directindustry.com
 app.directly.com
-app.sandbox.directly.com
 ns0.directnic.com
 ns1.directnic.com
 whois.directnic.com
@@ -93234,7 +93218,6 @@ wfbk-prod-cem.epsilon.com
 wfbk-prod-snr.epsilon.com
 dtm.epson.com
 p01.epsonconnect.com
-www.epsonconnect.com
 x01.epsonconnect.com
 x02.epsonconnect.com
 download.epson-europe.com
@@ -100995,7 +100978,6 @@ www.footasylum.com
 f365.football365.com
 livescore.football365.com
 secure.football365.com
-www.footballdiehards.com
 images.footballfanatics.com
 cdn.footballfancast.com
 sm-sp.footballfancast.com
@@ -107529,7 +107511,6 @@ admin.github.com
 cli.github.com
 ghicons.github.com
 github.github.com
-jobs.github.com
 lfs.github.com
 malsup.github.com
 opengrok.github.com
@@ -116325,7 +116306,6 @@ cdn-together.hellosehat.com
 id.hellosehat.com
 subot.hellosehat.com
 wp.hellosehat.com
-api.hellosign.com
 cdn.hellosign.com
 embedded.hellosign.com
 info.hellosign.com
@@ -122183,7 +122163,6 @@ i.waikiki.place.hyatt.com
 www.i.waikiki.place.hyatt.com
 washingtondcuscapitol.place.hyatt.com
 westpalmbeach.place.hyatt.com
-plannerrequest.hyatt.com
 pms.hyatt.com
 app.pms.hyatt.com
 ifc.pms.hyatt.com
@@ -122675,7 +122654,6 @@ forums.iboats.com
 ww2.iboats.com
 www.iboats.com
 booking.ibomair.com
-forum.ibood.com
 env.forum.ibood.com
 live.env.forum.ibood.com
 images0.ibood.com
@@ -143726,10 +143704,6 @@ mailing.lifemiles.com
 res.mailing.lifemiles.com
 www.lifemiles.com
 connect-us.lifeomic.com
-lifeology.dev.lifeomic.com
-wellness.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
-infra.lifeomic.com
 us.lifeomic.com
 api.us.lifeomic.com
 content.lifepointspanel.com
@@ -156914,6 +156888,7 @@ esopoo7e.mooo.com
 realy.mooo.com
 togetno992.mooo.com
 u2ekcv.mooo.com
+xred.mooo.com
 mail.moosejaw.com
 links.mail.moosejaw.com
 www.moosejaw.com
@@ -160702,7 +160677,6 @@ www.naiin.com
 www.naijanews.com
 www.naijapals.com
 www.naijavibes.com
-www.nailsinc.com
 files.najox.com
 www.najox.com
 apps.nakamoa.com
@@ -165617,7 +165591,6 @@ test3.ms.developer.nintendo.com
 api.ec.nintendo.com
 event-service.nintendo.com
 graph.nintendo.com
-iwataasks.nintendo.com
 kirby.nintendo.com
 kirbyandtheforgottenland.nintendo.com
 kirby-staging.nintendo.com
@@ -190550,7 +190523,6 @@ legato.radiotime.com
 images.radiotimes.com
 permutive.radiotimes.com
 s2s.radiotimes.com
-www.radiotunes.com
 www.radiozamaneh.com
 www.radio-ao-vivo.com
 www.radio-canada-online.com
@@ -191958,7 +191930,6 @@ so.redocn.com
 carequality.redoxengine.com
 www.redpocket.com
 cdn.redpointglobal.com
-www.redreporter.com
 www.redringtones.com
 cms.redriver.com
 cms2.redriver.com
@@ -193718,7 +193689,6 @@ c-ua4.riastatic.com
 images.ricardocuisine.com
 static.ricardocuisine.com
 www.ricardocuisine.com
-www.ricaud.com
 cdn.richcontext.com
 cdn.richelieu.com
 www.richelieu.com
@@ -268350,7 +268320,6 @@ mx1.hot.ee
 u.lin.ee
 www.lin.ee
 graph.linktr.ee
-ingress.linktr.ee
 links.linktr.ee
 production.linktr.ee
 assets.production.linktr.ee
@@ -270019,7 +269988,6 @@ offer.cdn.betclic.fr
 www.bibamagazine.fr
 invest.biogroup.fr
 edge.blablacar.fr
-catalogue.bnf.fr
 collect-bnppf.bnpparibas.fr
 dcrm.bnpparibas.fr
 collect.dcrm.bnpparibas.fr
@@ -271287,7 +271255,6 @@ n.yen.com.gh
 consent.google.com.gi
 maps.google.com.gi
 trends.google.com.gi
-huobi.com.gi
 www.huobi.com.gi
 gibraltar.gov.gi
 andu5.app.goo.gl
@@ -276741,6 +276708,7 @@ cl-mirror.colo.co.id
 content.co.id
 cosmopolitan.co.id
 www.cosmopolitan.co.id
+csmtravel.co.id
 daftarpaket.co.id
 www.danamon.co.id
 dominos.co.id
@@ -278988,7 +278956,6 @@ m.femina.in
 www.femina.in
 www.filmcompanion.in
 fireadvanced.firm.in
-www.flashscore.in
 content.forever21.in
 www.freelancer.in
 www.freepressjournal.in
@@ -279425,7 +279392,6 @@ trompadiom.tutotame.bigbox.info
 www.bigenter.info
 www.blackbookonline.info
 storage.bljesak.info
-europe-west1.dev.blockchain.info
 dev.europe-west1.dev.blockchain.info
 electrum.blockstream.info
 data.bopp-obec.info
@@ -286689,7 +286655,6 @@ www.y-live.co.jp
 zaikei.co.jp
 www.zaikei.co.jp
 www.zakzak.co.jp
-zkai.co.jp
 www.zkai.co.jp
 star.craftegg.jp
 api.star.craftegg.jp
@@ -293138,7 +293103,6 @@ sjf.scjn.gob.mx
 sjf2.scjn.gob.mx
 sct.gob.mx
 app.sct.gob.mx
-semar.gob.mx
 sems.gob.mx
 cedulaprofesional.sep.gob.mx
 www.sep.gob.mx
@@ -373308,7 +373272,6 @@ recruitmentbeam.com.ng
 www.recruitmentbeam.com.ng
 smile.com.ng
 pcscf.smile.com.ng
-spectranet.com.ng
 thinknews.com.ng
 u-buy.com.ng
 www.u-buy.com.ng
@@ -374620,7 +374583,6 @@ jbhifi.co.nz
 carts.jbhifi.co.nz
 products.jbhifi.co.nz
 www.jbhifi.co.nz
-jbwere.co.nz
 kitchenthings.co.nz
 www.kitchenthings.co.nz
 kmart.co.nz
@@ -382106,6 +382068,9 @@ brainshome.duckdns.org
 citizenzonline.duckdns.org
 enode.duckdns.org
 esanalytics.duckdns.org
+hunting-tons3cured.duckdns.org
+mail.hunting-tons3cured.duckdns.org
+www.hunting-tons3cured.duckdns.org
 istra001.duckdns.org
 myjhunting-ton.duckdns.org
 ragtor.duckdns.org
@@ -388082,6 +388047,7 @@ p325k7wa.twic.pics
 wdwmagic.twic.pics
 www.arabnews.pk
 www.app.com.pk
+cosmeticsurgery.com.pk
 cricketpakistan.com.pk
 en.dailypakistan.com.pk
 dakkhana.com.pk
@@ -394266,7 +394232,6 @@ www.manager.co.th
 www.matichon.co.th
 maybank-ke.co.th
 mazda.co.th
-mitsubishi-motors.co.th
 ss1.mobilelife.co.th
 muangthai.co.th
 myhr.co.th
@@ -395188,7 +395153,6 @@ www.bim.com.tr
 bimser.com.tr
 acs1.biri.com.tr
 www.bizimtoptan.com.tr
-bjk.com.tr
 goguvenliodeme.bkm.com.tr
 bkmexpress.com.tr
 js.bkmexpress.com.tr
@@ -396908,7 +396872,6 @@ static.viralize.tv
 api.viu.tv
 static.viu.tv
 www.vivi.tv
-channels.vlive.tv
 img.vlive.tv
 s.vlive.tv
 thumb.vlive.tv
@@ -398830,7 +398793,6 @@ extranet.secure.aegon.co.uk
 www.aegon.co.uk
 afcb.co.uk
 www.afcb.co.uk
-www.afcwimbledon.co.uk
 afd.co.uk
 pce.afd.co.uk
 affinity4u.co.uk
@@ -400457,7 +400419,6 @@ www.burgerking.co.uk
 e.burton.co.uk
 api.e.burton.co.uk
 www.burton.co.uk
-www.burtonalbionfc.co.uk
 burytimes.co.uk
 www.burytimes.co.uk
 businesscasestudies.co.uk
@@ -401430,7 +401391,6 @@ clicks.dnsrt.co.uk
 ldex-track-ssl.dnsrt.co.uk
 smtp.dnsrt.co.uk
 reporting.dobies.co.uk
-www.dobies.co.uk
 www.docusign.co.uk
 doddlelearn.co.uk
 dods.co.uk
@@ -402036,7 +401996,6 @@ freelancer.co.uk
 www.freelancer.co.uk
 freeprintsapp.co.uk
 fp.freeprintsapp.co.uk
-freesat.co.uk
 freeths.co.uk
 www.freeths.co.uk
 freevpnapp.co.uk
@@ -402477,7 +402436,6 @@ healthnatural.co.uk
 www.healthnatural.co.uk
 healthstaffdiscounts.co.uk
 www.healthstaffdiscounts.co.uk
-www.hearst.co.uk
 hearstmagazines.co.uk
 assets.heart.co.uk
 imgs.heart.co.uk
@@ -405717,7 +405675,6 @@ www.techdata.co.uk
 technicalreality.co.uk
 www.technicalreality.co.uk
 www.technojobs.co.uk
-tectake.co.uk
 api.telegraph.co.uk
 api-prod.telegraph.co.uk
 app.telegraph.co.uk
@@ -405731,7 +405688,6 @@ email3.telegraph.co.uk
 t.email3.telegraph.co.uk
 extra.telegraph.co.uk
 fantasyfootball.telegraph.co.uk
-fashion.telegraph.co.uk
 i.telegraph.co.uk
 markets.telegraph.co.uk
 secure.telegraph.co.uk
@@ -406180,8 +406136,6 @@ uberns.co.uk
 a1.uberns.co.uk
 ubteam.co.uk
 uk.co.uk
-ukasl.co.uk
-www.ukasl.co.uk
 ukfastexchange.co.uk
 client.ukfastexchange.co.uk
 ukofficedirect.co.uk
