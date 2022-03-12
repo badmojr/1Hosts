@@ -3461,7 +3461,6 @@ cobrowse.bnpparibasfortis.be
 easybanking.bnpparibasfortis.be
 app.easybanking.bnpparibasfortis.be
 communicationhubcontent.bpost.be
-www.brusselsairport.be
 drive.carrefour.be
 login.drive.carrefour.be
 driveapi.carrefour.be
@@ -6613,7 +6612,6 @@ upc.udr.uol.com.br
 uploaddeimagens.com.br
 usadobrasil.com.br
 www.usadobrasil.com.br
-useorganico.com.br
 usiminas.com.br
 www.vagalume.com.br
 trabalheconosco.vagas.com.br
@@ -7089,7 +7087,6 @@ dfe-portal.svrs.rs.gov.br
 nfce.svrs.rs.gov.br
 nfe.svrs.rs.gov.br
 nfe-homologacao.svrs.rs.gov.br
-bvsms.saude.gov.br
 www.saude.gov.br
 detrannet.sc.gov.br
 consultas.detrannet.sc.gov.br
@@ -7568,7 +7565,6 @@ www.ccee.org.br
 cenprotnacional.org.br
 api.cenprotnacional.org.br
 site.cenprotnacional.org.br
-cnseg.org.br
 confea.org.br
 consultaprofissional.confea.org.br
 creasp.org.br
@@ -7736,7 +7732,6 @@ browser.yandex.by
 api.browser.yandex.by
 sec.api.browser.yandex.by
 collections.yandex.by
-m.market.yandex.by
 api.passport.yandex.by
 push.yandex.by
 suggest.yandex.by
@@ -15191,7 +15186,6 @@ static.cdn.circlesix.co
 account.clario.co
 api.account.clario.co
 av-db.clario.co
-event.clario.co
 img.clasf.co
 account.clutch.co
 help.clutch.co
@@ -16541,7 +16535,6 @@ n64.endinternetcensorship.repl.co
 retro-bowl.endinternetcensorship.repl.co
 unblock.endinternetcensorship.repl.co
 hypesquad-na.repl.co
-discord.hypesquad-na.repl.co
 769432b9-3560-4f94-8f90-01c95844d994.id.repl.co
 iogames.repl.co
 googlefeud.iogames.repl.co
@@ -16555,7 +16548,6 @@ music.minekhan.repl.co
 n64-emu.repl.co
 rom-storage.n64-emu.repl.co
 registeracademy.repl.co
-partners.registeracademy.repl.co
 ruralanemone.repl.co
 saxli1980.repl.co
 cardash.saxli1980.repl.co
@@ -18524,7 +18516,6 @@ www.4wd.com
 www.4wheelparts.com
 iso.500px.com
 legacy-api.500px.com
-web.500px.com
 webapi.500px.com
 www.5068.com
 www.50gameslike.com
@@ -21739,7 +21730,6 @@ deloitte.marketing.adobe.com
 macysr53.marketing-assets.adobe.com
 blue-server.messaging.adobe.com
 green-server.messaging.adobe.com
-ns.adobe.com
 ols.adobe.com
 olscore.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
@@ -43872,7 +43862,6 @@ gspx-ssl.ls.apple.com
 gsp-ssl-commute.ls.apple.com
 gsp-ssl-kr.ls.apple.com
 sundew.ls.apple.com
-mail.apple.com
 manage.apple.com
 media.apple.com
 amp-api.media.apple.com
@@ -60428,7 +60417,6 @@ www.bluegolf.com
 www.bluegreenowner.com
 autodiscover.bluehost.com
 box5422.bluehost.com
-kb.bluehost.com
 ns1.bluehost.com
 ns2.bluehost.com
 outbound-ss-761.bluehost.com
@@ -62550,7 +62538,6 @@ www.brighthubeducation.com
 www.brighthubengineering.com
 awszerio.brightidea.com
 tools.brightlocal.com
-www.brightlocal.com
 agentnotifications.brightmetrics.com
 realtime-a.brightmetrics.com
 realtime-b.brightmetrics.com
@@ -74496,7 +74483,6 @@ app.cognism.com
 www.cognism.com
 services.cognitoforms.com
 static.cognitoforms.com
-www.cognitoforms.com
 autodiscover.cognizant.com
 be.cognizant.com
 be-cms.cognizant.com
@@ -89397,7 +89383,6 @@ riskremedyweb.ebay.com
 www.riskremedyweb.ebay.com
 ru.ebay.com
 scgi.ebay.com
-search.ebay.com
 securers.ebay.com
 sellerstandards.ebay.com
 signup.ebay.com
@@ -110103,7 +110088,6 @@ www.godominicanrepublic.com
 www.godownsize.com
 www.godsavethepoints.com
 www.godtube.com
-www.goduke.com
 www.godupdates.com
 static.goedekers.com
 www.goedekers.com
@@ -110390,7 +110374,6 @@ clicks.golftec.com
 clubhouse.golftec.com
 www.golftec.com
 www.golftown.com
-rankings.golfweek.com
 www.golfworks.com
 forums.golfwrx.com
 wrxcdn.golfwrx.com
@@ -135374,7 +135357,6 @@ v.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
-apisgame.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
 bar-i.iqiyi.com
@@ -148277,7 +148259,6 @@ bep.livongo.com
 email.livongo.com
 click.email.livongo.com
 image.email.livongo.com
-hello.livongo.com
 mobility-a.livongo.com
 usvc.livongo.com
 welcome.livongo.com
@@ -149414,6 +149395,7 @@ tlstest.app.lucidpress.com
 users.app.lucidpress.com
 assets-cdn.lucidpress.com
 cdn-cashy-static-assets.lucidpress.com
+pub.lucidpress.com
 url5993.lucidpress.com
 www.lucidpress.com
 www.lucidspark.com
@@ -151310,7 +151292,6 @@ app-sj31.marketo.com
 app-sj32.marketo.com
 app-sj38.marketo.com
 app-sj39.marketo.com
-blog.marketo.com
 data.marketo.com
 engage-ab.marketo.com
 engage-server-ab.marketo.com
@@ -159417,7 +159398,6 @@ link.moonpig.com
 www.moonvalleynurseries.com
 realy.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 mail.moosejaw.com
 www.moosejaw.com
 assettv.moosend.com
@@ -163594,7 +163574,6 @@ webapi.naturalreaders.com
 webreader.naturalreaders.com
 www.naturalreaders.com
 speedtest.naturalwireless.com
-go.nature.com
 idp.nature.com
 images.nature.com
 media.nature.com
@@ -163890,7 +163869,6 @@ ablink.email.nba.com
 global.nba.com
 ca.global.nba.com
 identity.nba.com
-jr.nba.com
 ns40.nba.com
 publish.nba.com
 sp.nba.com
@@ -193150,7 +193128,6 @@ sf-speedtest.race.com
 speedtest.race.com
 www.racebets.com
 www.raceentry.com
-www.racer.com
 cdn.raceroster.com
 marketing.racerxonline.com
 www.racetrac.com
@@ -208163,7 +208140,6 @@ eu.sezzle.com
 geoip.sezzle.com
 gitlab.sezzle.com
 link.sezzle.com
-media.sezzle.com
 payments.sezzle.com
 sezzle-cms.sezzle.com
 shopify.sezzle.com
@@ -218686,7 +218662,6 @@ mx2.startmail.com
 mx3.startmail.com
 nc-appcfg01.startmeeting.com
 cloud.startquestion.com
-intl.startrek.com
 www.startrek.com
 apps.startribune.com
 auth.startribune.com
@@ -225876,7 +225851,6 @@ wss.theaa.com
 www.theaa.com
 www.theabbeyresort.com
 static.theacc.com
-www.theacc.com
 go.theaccessgroup.com
 pages.theaccessgroup.com
 www.theaccessgroup.com
@@ -238327,7 +238301,6 @@ sc-thor.vip.com
 sc-vulcan.vip.com
 t.vip.com
 u.vip.com
-union.vip.com
 www.vipkid.com
 info.vippetcare.com
 petvet.vippetcare.com
@@ -255761,7 +255734,6 @@ growonair.withgoogle.com
 lenslayers.withgoogle.com
 qiblafinder.withgoogle.com
 quickdraw.withgoogle.com
-rework.withgoogle.com
 skillshop.withgoogle.com
 email.withings.com
 front.withings.com
@@ -274396,7 +274368,6 @@ admit.xavier.edu
 virtualpc.xavier.edu
 admissions.yale.edu
 bmsweb-h.yale.edu
-environment.yale.edu
 its.yale.edu
 law.yale.edu
 avalon.law.yale.edu
@@ -274865,7 +274836,6 @@ www.fundeu.es
 media.game.es
 www.game.es
 www.gear4music.es
-www.generaloptica.es
 www.gentedigital.es
 www.gettyimages.es
 www.getyourguide.es
@@ -276168,7 +276138,6 @@ iphone.credit-agricole.fr
 ibudget.iphone.credit-agricole.fr
 mercure.credit-agricole.fr
 spf.credit-agricole.fr
-www.croix-rouge.fr
 photo.cuisineactuelle.fr
 ntp1.curie.fr
 ntp2.curie.fr
@@ -290461,7 +290430,6 @@ eth1.trezor.io
 eth2.trezor.io
 email.triggermail.io
 img.triggermail.io
-www.triggermail.io
 python3-9-code.trinket.io
 trinket-app-assets.trinket.io
 trinket-cdn.trinket.io
@@ -292683,7 +292651,6 @@ dom.jtb.co.jp
 www.jtb.co.jp
 kambara-kisen.co.jp
 esvc.kambara-kisen.co.jp
-kao.co.jp
 kayak.co.jp
 www.kayak.co.jp
 www.kinokuniya.co.jp
@@ -306847,7 +306814,6 @@ ns1-1.akamaitech.net
 20vod-adaptive.akamaized.net
 21vod-adaptive.akamaized.net
 22vod-adaptive.akamaized.net
-23vod-adaptive.akamaized.net
 24vod-adaptive.akamaized.net
 25vod-adaptive.akamaized.net
 26vod-adaptive.akamaized.net
@@ -390948,7 +390914,6 @@ v2.wazzup.com.pe
 entel.v2.wazzup.com.pe
 yape.com.pe
 impyape.yape.com.pe
-colegiointernacionaldelima.edu.pe
 www.esan.edu.pe
 upn.edu.pe
 cdna.elbocon.pe
@@ -400935,7 +400900,6 @@ www.monitor.co.ug
 www.newvision.co.ug
 www.jumia.ug
 www.bou.or.ug
-www.activatelearning.ac.uk
 arden.ac.uk
 mytimetable.arts.ac.uk
 www.arts.ac.uk
@@ -403366,7 +403330,6 @@ b915.carbuyer.co.uk
 graphql.carbuyer.co.uk
 mediacloud.carbuyer.co.uk
 www.carbuyer.co.uk
-cardano.co.uk
 cardealermagazine.co.uk
 cardfactory.co.uk
 www.cardfactory.co.uk
@@ -404317,7 +404280,6 @@ duos.dimensionscorporatewear.co.uk
 directcommercial.co.uk
 directferries.co.uk
 static.directferries.co.uk
-directlinegroup.co.uk
 directwines.co.uk
 images.directwines.co.uk
 directwoodflooring.co.uk
@@ -407704,9 +407666,7 @@ osmaps.ordnancesurvey.co.uk
 www.ordnancesurvey.co.uk
 orelia.co.uk
 www.orelia.co.uk
-originaltravel.co.uk
 mail.originaltravel.co.uk
-www.originaltravel.co.uk
 origympersonaltrainercourses.co.uk
 osjct.co.uk
 otgroupltd.co.uk
@@ -408422,7 +408382,6 @@ www.risetechnical.co.uk
 risingsunhurley.co.uk
 rivieratravel.co.uk
 rixo.co.uk
-www.rlam.co.uk
 rlf.co.uk
 www.rlf.co.uk
 rlvs.co.uk
@@ -408484,7 +408443,6 @@ www.rousepartners.co.uk
 www.routeone.co.uk
 rowberrymorris.co.uk
 www.rowberrymorris.co.uk
-www.royston-crow.co.uk
 roythorne.co.uk
 www.roythorne.co.uk
 roythornes.co.uk
@@ -408954,8 +408912,6 @@ soresi.co.uk
 sortcodes.co.uk
 www.sortcodes.co.uk
 soul-source.co.uk
-sourceforsearches.co.uk
-www.sourceforsearches.co.uk
 www.southbankcentre.co.uk
 southeasternrailway.co.uk
 api.southeasternrailway.co.uk
@@ -409510,7 +409466,6 @@ tags.www.thesun.co.uk
 www.thesundaytimes.co.uk
 www.thetablet.co.uk
 a02342.thetelegraphandargus.co.uk
-theticketsellers.co.uk
 api.thetimes.co.uk
 appointments.thetimes.co.uk
 cmp.thetimes.co.uk
@@ -411778,7 +411733,6 @@ gtcs.org.uk
 habsgirls.org.uk
 hannahmore.org.uk
 www.hannahmore.org.uk
-www.headway.org.uk
 healthmanagement.org.uk
 portal.healthmanagement.org.uk
 helenanddouglas.org.uk
@@ -412287,7 +412241,6 @@ worcs.sch.uk
 dv1.0ps.us
 dv2.0ps.us
 e.0ps.us
-i.0ps.us
 op.0ps.us
 ar.3cx.us
 ca.3cx.us
