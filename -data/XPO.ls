@@ -1642,7 +1642,6 @@ images03.oe24.at
 images04.oe24.at
 images05.oe24.at
 live.oe24.at
-tracking.live.oe24.at
 php-infra.oe24.at
 static.oe24.at
 www.oeamtc.at
@@ -15556,6 +15555,7 @@ d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
 storageapi.fleek.co
+storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -22750,6 +22750,9 @@ virtualworkspace.aig.com
 sf.virtualworkspace.aig.com
 sf-am1.virtualworkspace.aig.com
 www-1008.aig.com
+www-107.aig.com
+app.www-107.aig.com
+images.www-107.aig.com
 www.aihr.com
 a.aiircdn.com
 c.aiircdn.com
@@ -44327,7 +44330,6 @@ cdn.arhaus.com
 email.ariat.com
 click.email.ariat.com
 image.email.ariat.com
-knymhv.ariat.com
 acig.ariba.com
 ansmtp.ariba.com
 api.ariba.com
@@ -55249,6 +55251,7 @@ chumley.barstoolsports.com
 iframely.barstoolsports.com
 landmark-dynamic.barstoolsports.com
 mcsorleys.barstoolsports.com
+nuyujp.barstoolsports.com
 pipe-stream.barstoolsports.com
 store.barstoolsports.com
 union.barstoolsports.com
@@ -64876,7 +64879,6 @@ help.carnival.com
 movableink.carnival.com
 prodadmin.carnival.com
 secure.carnival.com
-smetrics.carnival.com
 trade.carnival.com
 click.trade.carnival.com
 image.trade.carnival.com
@@ -73593,7 +73595,6 @@ www.connecticare.com
 www.connecticutmag.com
 community.connection.com
 markitplace.connection.com
-ubmdob.connection.com
 blog.connectionsacademy.com
 learn.connectionsacademy.com
 ssgtm.connectionsacademy.com
@@ -86523,6 +86524,7 @@ vacoscapp.eclinicalweb.com
 connect.eclipsecat.com
 www.ecmag.com
 img.ecmweb.com
+smetrics.ecmweb.com
 portal.ecoatm.com
 api.ecobee.com
 auth.ecobee.com
@@ -94728,6 +94730,7 @@ www.farmaciasguadalajara.com
 www.farmacity.com
 www.farmacybeauty.com
 enews.farmandfleet.com
+iepfcy.farmandfleet.com
 www.farmandhomesupply.com
 content.farmasius.com
 www.farmasius.com
@@ -101242,6 +101245,7 @@ www1.foretees.com
 email.foreupsoftware.com
 ws.foreupsoftware.com
 api.forever21.com
+awowwo.forever21.com
 i.forever21.com
 click.i.forever21.com
 image.i.forever21.com
@@ -101982,7 +101986,6 @@ atoms.freep.com
 cm.freep.com
 content-static.freep.com
 profile.freep.com
-sxjfhh.freep.com
 user.freep.com
 api.freepdfconvert.com
 dtm.freepeople.com
@@ -125710,7 +125713,6 @@ cmpv2.indy100.com
 amp.indystar.com
 atoms.indystar.com
 cm.indystar.com
-sxjfhh.indystar.com
 user.indystar.com
 www.indyturk.com
 my.ine.com
@@ -127946,7 +127948,6 @@ functions.intouchreceipting.com
 static.intouchreceipting.com
 amp.intouchweekly.com
 bc.intouchweekly.com
-hcjpbc.intouchweekly.com
 remoteoperations.intoxalock.com
 wageworksapi.intradiem.com
 ir.intrado.com
@@ -129898,6 +129899,7 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
+apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -131543,7 +131545,6 @@ click.m.jane.com
 mobile.jane.com
 native.jane.com
 orders.jane.com
-rhxkzd.jane.com
 accounts.janeapp.com
 host.janestreet.com
 americas-gw1.host.janestreet.com
@@ -132284,6 +132285,7 @@ www.jjkellertraining.com
 www.jjktrainingportal.com
 cdn-img.jjshouse.com
 frontwatch.jjshouse.com
+nbfopy.jjshouse.com
 sentry.jjshouse.com
 star.jjshouse.com
 static-star.jjshouse.com
@@ -135820,6 +135822,7 @@ www.kttc.com
 www.kttn.com
 livevideo01.ktvb.com
 media.ktvb.com
+ywrcqa.ktvb.com
 api.ktvu.com
 static.ktvu.com
 www.kuaidaili.com
@@ -142743,7 +142746,6 @@ www.loveexploring.com
 www.lovefood.com
 a.loveholidays.com
 dd.loveholidays.com
-smtccv.loveholidays.com
 www.loveholidays.com
 fedc.lovehoney.com
 media.loveitopcdn.com
@@ -152392,7 +152394,6 @@ content.money.com
 img.money.com
 money-assets.money.com
 s3.money.com
-api.moneyboxapp.com
 accounts.moneycontrol.com
 api.moneycontrol.com
 appfeeds.moneycontrol.com
@@ -157089,6 +157090,7 @@ media.nbcchicago.com
 link.nbcconnecticut.com
 media.nbcconnecticut.com
 media.nbcdfw.com
+lpbhnv.nbclosangeles.com
 media.nbclosangeles.com
 dataviz.nbcnews.com
 devices.nbcnews.com
@@ -182035,7 +182037,6 @@ leads-component.apps.qlmortgageservices.com
 pipeline-component.apps.qlmortgageservices.com
 ui-shell.apps.qlmortgageservices.com
 portal.qlmortgageservices.com
-somni.qlmortgageservices.com
 api.qmee.com
 assets.qmee.com
 cdn.assets.qmee.com
@@ -184142,6 +184143,7 @@ community.qvc.com
 corporate.qvc.com
 data.qvc.com
 qvcdynatracedem.qvc.com
+zhcxvk.qvc.com
 data.qvcuk.com
 www.qvcuk.com
 qpalogin.qvidian.com
@@ -185875,7 +185877,6 @@ photos.realtyhop.com
 www.realtyhop.com
 cdn.realtymogul.com
 www.realtymogul.com
-uzevnf.realtystore.com
 api1.realtytrac.com
 graph.realvision.com
 static.realvision.com
@@ -187065,6 +187066,7 @@ click.sg.rentalcars.com
 widget.rentalcars.com
 xml.rentalcars.com
 xsecure.rentalcars.com
+umwvvq.rentals.com
 api.rentberry.com
 cdn.rentberry.com
 gtm.rentberry.com
@@ -188479,6 +188481,7 @@ sst.rituals.com
 journey.ritzcarlton.com
 www.journey.ritzcarlton.com
 gtm-g.riu.com
+jfltzz.riu.com
 alabama.rivals.com
 arkansas.rivals.com
 basketballrecruiting.rivals.com
@@ -204510,6 +204513,7 @@ blog.society6.com
 borg.society6.com
 ovp9tu.society6.com
 share.society6.com
+syfwnf.society6.com
 api.sociolla.com
 catalog-api.sociolla.com
 catalog-api1.sociolla.com
@@ -242292,6 +242296,7 @@ www.wns.com
 app.wodify.com
 www.wodify.com
 clickom.wolfandbadger.com
+gastdn.wolfandbadger.com
 www.wolfandbadger.com
 filestore.wolferesearch.com
 www.wolferesearch.com
@@ -253024,6 +253029,7 @@ sync.kaufland.de
 mobil.ka-news.de
 www.ka-news.de
 www.keller-sports.de
+ohrdit.kfzteile24.de
 api.kicker.de
 damoh.kicker.de
 1.damoh.kicker.de
@@ -279959,7 +279965,6 @@ gmemberssl.gmarket.co.kr
 gsearch.gmarket.co.kr
 home2.gmarket.co.kr
 montelena.gmarket.co.kr
-montelena-rcv.gmarket.co.kr
 netmail01gm.gmarket.co.kr
 pds.gmarket.co.kr
 pdsgw.gmarket.co.kr
@@ -313377,7 +313382,6 @@ rd.oc.cox.net
 speedtest.rd.oc.cox.net
 rd.ok.cox.net
 speedtest.rd.ok.cox.net
-om.cox.net
 rd.ph.cox.net
 speedtest.rd.ph.cox.net
 tc.ph.cox.net
@@ -391841,7 +391845,6 @@ img2.momoshop.com.tw
 img3.momoshop.com.tw
 img4.momoshop.com.tw
 m.momoshop.com.tw
-momowa.momoshop.com.tw
 visana.momoshop.com.tw
 www.momoshop.com.tw
 moneynet.com.tw
@@ -403448,6 +403451,8 @@ mam.manage.microsoft.us
 www.portal.manage.microsoft.us
 r.manage.microsoft.us
 manage-ppe.microsoft.us
+portal.manage-ppe.microsoft.us
+www.portal.manage-ppe.microsoft.us
 dod.teams.microsoft.us
 ams.dod.teams.microsoft.us
 api.ams.dod.teams.microsoft.us
