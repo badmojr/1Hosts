@@ -7011,7 +7011,6 @@ valia.com.br
 valueserver.com.br
 vcarefilter.com.br
 vegaturbo.com.br
-veloxzone.com.br
 vemkashop.com.br
 www.vemkashop.com.br
 vendavalida.com.br
@@ -8275,7 +8274,6 @@ pages.cld.bz
 airbnb.com.bz
 www.airbnb.com.bz
 maps.google.com.bz
-www.dld.bz
 www5.gowatchseries.bz
 opd.redfox.bz
 ky.schools.bz
@@ -15558,7 +15556,6 @@ d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
 storageapi.fleek.co
-storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -25691,7 +25688,6 @@ www.all-nationz.com
 link.alm.com
 rs-stripe.alm.com
 www.alm.com
-www.almaany.com
 www.almadenahnews.com
 enews.almanac.com
 mail.almarai.com
@@ -45689,11 +45685,9 @@ esports.as.com
 mejorconsalud.as.com
 mexico.as.com
 peru.as.com
-resultados.as.com
 api.resultados.as.com
 biwenger.api.resultados.as.com
 us.as.com
-vdmedia.as.com
 image.asadventure.com
 productimage011.asadventure.com
 www.asadventure.com
@@ -47310,7 +47304,6 @@ static.autoapr.com
 shop.autobacs.com
 www.autobacs.com
 guce.autoblog.com
-prod.autoblog.com
 images.autobytel.com
 img.autobytel.com
 static.autobytel.com
@@ -82125,7 +82118,6 @@ upload.production.dochub.com
 staging.dochub.com
 img.docin.com
 desktop.docker.com
-www.email.docker.com
 forums.docker.com
 get.docker.com
 registry.hub.docker.com
@@ -84175,7 +84167,6 @@ imgserv.duellinksmeta.com
 s3.duellinksmeta.com
 www.duellinksmeta.com
 rdp.duetdisplay.com
-embed.dugout.com
 fanti.dugushici.com
 www.duhuliye.com
 c-ssl.duitang.com
@@ -91680,7 +91671,6 @@ cw.events.com
 discover.events.com
 cdn.eventscase.com
 eu-admin.eventscloud.com
-na.eventscloud.com
 na-admin.eventscloud.com
 staticcdn.eventscloud.com
 www.eventsentry.com
@@ -107095,7 +107085,6 @@ aspmx3.l.google.com
 aspmx4.l.google.com
 aspmx5.l.google.com
 browserchannel-sites.l.google.com
-cloud-iot-mqtt.l.google.com
 csi-china.l.google.com
 ddm.l.google.com
 desktop2.l.google.com
@@ -124003,7 +123992,6 @@ edge-079.usuyk1.icloud-content.com
 edge-080.usuyk1.icloud-content.com
 tru19.icm.com
 tru20.icm.com
-www.icmarkets.com
 akimg.icocofun.com
 akusimg01.icocofun.com
 akvideo01.icocofun.com
@@ -149148,7 +149136,6 @@ server6.pipe.aria.microsoft.com
 server7.pipe.aria.microsoft.com
 server8.pipe.aria.microsoft.com
 tb.pipe.aria.microsoft.com
-www.pipe.aria.microsoft.com
 auth.microsoft.com
 mobileappcommunicator.auth.microsoft.com
 strongauthenticationservice.auth.microsoft.com
@@ -149371,7 +149358,6 @@ array806.prod.do.dsp.mp.microsoft.com
 array807.prod.do.dsp.mp.microsoft.com
 array811.prod.do.dsp.mp.microsoft.com
 geover-prod.prod.do.dsp.mp.microsoft.com
-www.tsfe.trafficshaping.dsp.mp.microsoft.com
 mvr-player.rec.mp.microsoft.com
 mvr-player-auth.rec.mp.microsoft.com
 xbox-guide-public.rec.mp.microsoft.com
@@ -149966,7 +149952,6 @@ time.microsoft.com
 toolbar-prod-bn01.microsoft.com
 staging.to-do.microsoft.com
 turingapi-rapiddeploy.microsoft.com
-www.sls.update.microsoft.com
 test.stats.update.microsoft.com
 www.test.stats.update.microsoft.com
 www.urs.microsoft.com
@@ -155972,7 +155957,6 @@ yummy-toddler-food.myshopify.com
 zoe-essentials-2.myshopify.com
 zousz.myshopify.com
 lazhair.myshoplaza.com
-cdn.myshopline.com
 dfp.myshopline.com
 eiborokei.myshopline.com
 img.myshopline.com
@@ -183495,7 +183479,6 @@ zyx.qq.com
 api.qrcode-monkey.com
 www.qrcode-monkey.com
 cdn.qrstuff.com
-www.qrstuff.com
 api.qr-code-generator.com
 apiv2.qr-code-generator.com
 app.qr-code-generator.com
@@ -201569,7 +201552,6 @@ media.skynewsarabia.com
 www.skynewsarabia.com
 www.skynova.com
 pad.skyozora.com
-www.api.skype.com
 www.as-api.asm.skype.com
 eau1-api.asm.skype.com
 experimental-api.asm.skype.com
@@ -201668,7 +201650,6 @@ nus1-urlp-static.secure.skypeassets.com
 www.sa1-urlp.secure.skypeassets.com
 sa1-urlp-static.secure.skypeassets.com
 weu1-urlp-static.secure.skypeassets.com
-www.secure.skypeassets.com
 apps.skypeforbusiness.com
 www.apps.skypeforbusiness.com
 calculator.skypeforbusiness.com
@@ -208587,7 +208568,6 @@ ablink.mail.stash.com
 nd.stash.com
 status.stash.com
 www.stash.com
-www.hit.stat24.com
 www.stata.com
 prd-api-aggregate.statcrunch.com
 app.statdx.com
@@ -220427,7 +220407,6 @@ share.trustpilot.com
 simplicity.trustpilot.com
 support.trustpilot.com
 vstemplates.trustpilot.com
-www.widget.trustpilot.com
 media.trustradius.com
 static.trustradius.com
 cust-api.trustratings.com
@@ -223524,7 +223503,6 @@ ap.ups.com
 apps.ups.com
 www.apps.ups.com
 autodiscover.ups.com
-billing.ups.com
 campusship.ups.com
 www.campusship.ups.com
 cms.ups.com
@@ -229534,6 +229512,7 @@ hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
+s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -229884,6 +229863,7 @@ smtp2.wbmason.com
 www.wboy.com
 malcolm-prod-event.wbplay.com
 prod-event.wbplay.com
+showtimes.wbpsites.com
 weather.wbrz.com
 www.wbrz.com
 www.wbtw.com
@@ -241545,7 +241525,6 @@ nl.windfinder.com
 assets.activity.windows.com
 canary-edge.activity.windows.com
 enterprise-eudb.activity.windows.com
-www.adl.windows.com
 mps.datamart.windows.com
 mps-service.datamart.windows.com
 service.datamart.windows.com
@@ -247266,12 +247245,10 @@ internal.yoti.com
 api-write.yotpo.com
 cdn-analytics.yotpo.com
 cdn-analytics-api.yotpo.com
-cdn-loyalty.yotpo.com
 cdn-swell-assets.yotpo.com
 cdn-swell-paperclip.yotpo.com
 cdn-ui-assets.yotpo.com
 cdn-vms-video-uploader.yotpo.com
-cdn-widgetsrepository.yotpo.com
 cdn-widget-assets.yotpo.com
 cdn-yotpo-images-production.yotpo.com
 em.yotpo.com
@@ -251209,6 +251186,7 @@ www.granma.cu
 www.juventudrebelde.cu
 www.prensa-latina.cu
 maps.google.cv
+hoz.1337.cx
 hd.crichd.cx
 7050-22-7208e22e94-shop.darwin.cx
 secure.darwin.cx
@@ -276551,7 +276529,6 @@ uxt-special-teaser-prod.shpp.ext.zooplus.io
 uxt-supplier-financed-middle-banner-prod.shpp.ext.zooplus.io
 uxt-supplier-financed-side-banner-prod.shpp.ext.zooplus.io
 v2uploads.zopim.io
-www.zpr.io
 api.zuko.io
 assets.zuko.io
 asia.speedport.ip
@@ -278428,7 +278405,6 @@ rkpulse.muji.co.jp
 rkpulsevnd.muji.co.jp
 s.naturum.co.jp
 www.naturum.co.jp
-www.navitime.co.jp
 ncjapan.co.jp
 nc-latency-ncj.ncjapan.co.jp
 nec.co.jp
@@ -280111,7 +280087,6 @@ secns.lg.co.kr
 lge.co.kr
 www.lge.co.kr
 linkmine.co.kr
-api.linkmine.co.kr
 lycos.co.kr
 kr-inmail.lycos.co.kr
 mailplug.co.kr
@@ -280325,7 +280300,6 @@ syrup.co.kr
 pxsens.syrup.co.kr
 tagtree.co.kr
 ahnlab.tagtree.co.kr
-techhub.co.kr
 tf.co.kr
 fannstar.tf.co.kr
 theinvestor.co.kr
@@ -284893,7 +284867,6 @@ us3.cas.ms
 mcas-proxyweb.us3.cas.ms
 origin.ch9.ms
 www.ducati.ms
-www.auth.gfx.ms
 www.mem.gfx.ms
 maps.google.ms
 cdn01.jotfor.ms
@@ -289401,7 +289374,6 @@ mapping.accunix.net
 ping.accunix.net
 r.acestream.net
 ts.acestream.net
-www.powerlift-frontdesk.acompli.net
 prod0-api.acompli.net
 prod0-frontend-proxy.acompli.net
 prod10-files.acompli.net
@@ -290336,10 +290308,8 @@ mystreetscape.com.febsec-fidelity.com.akadns.net
 login.mystreetscape.com.febsec-fidelity.com.akadns.net
 streetscape.com.febsec-fidelity.com.akadns.net
 login.streetscape.com.febsec-fidelity.com.akadns.net
-fedex.com.akadns.net
 api.fedex.com.akadns.net
 cidr.fedex.com.akadns.net
-www.fedex.com.akadns.net
 fidelity.com.akadns.net
 com.fidelity.com.akadns.net
 fidelity.com.fidelity.com.akadns.net
@@ -303168,7 +303138,6 @@ prod-contentcacheservice.azurewebsites.net
 prod-contextregistry-eus.azurewebsites.net
 prod-cosprings-proxy-connext.azurewebsites.net
 prod-dasa-cus-logs1.azurewebsites.net
-prod-dfm-proxy-connext.azurewebsites.net
 prod-druid-api.azurewebsites.net
 prod-eastus2-dpet-dap-mdrepo.azurewebsites.net
 prod-i9sports-api01.azurewebsites.net
@@ -312608,7 +312577,6 @@ us-central1-kang-dev.cloudfunctions.net
 us-central1-kan-stickers.cloudfunctions.net
 us-central1-kapwing-181323.cloudfunctions.net
 us-central1-kitsune-271319.cloudfunctions.net
-us-central1-kube-ownlocal.cloudfunctions.net
 us-central1-lancelot-fa22c.cloudfunctions.net
 us-central1-landballs-solinv.cloudfunctions.net
 us-central1-last-mage-production.cloudfunctions.net
@@ -314339,13 +314307,8 @@ vip6-sjc1.dlvr1.net
 68-ak-7883af314d2849b68749725ce5fdfe2b.vip6-sjc1.dlvr1.net
 68-l3-7883af314d2849b68749725ce5fdfe2b.vip6-sjc1.dlvr1.net
 dmapi.geo.dmcdn.net
-dmwww.geo.dmcdn.net
 ebed.geo.dmcdn.net
-gqlapi.geo.dmcdn.net
 pxlapi.geo.dmcdn.net
-speedtest.geo.dmcdn.net
-static1.geo.dmcdn.net
-static2.geo.dmcdn.net
 ll.dmcdn.net
 vid2.ll.dmcdn.net
 bt.dmhy.net
@@ -315452,7 +315415,6 @@ www.aexp-static.com.edgekey.net
 afternic.com.edgekey.net
 bookapi.agoda.com.edgekey.net
 secure.agoda.com.edgekey.net
-www.agoda.com.edgekey.net
 w.airbnb.com.edgekey.net
 aircanada.com.edgekey.net
 www.aircanada.com.edgekey.net
@@ -315727,7 +315689,6 @@ wireless.att.com.edgekey.net
 attdashboard.wireless.att.com.edgekey.net
 ipv6.attdashboard.wireless.att.com.edgekey.net
 www.wireless.att.com.edgekey.net
-www.att.com.edgekey.net
 attccc.com.edgekey.net
 ecom.attccc.com.edgekey.net
 fs.ecom.attccc.com.edgekey.net
@@ -316832,7 +316793,6 @@ watchlists.fidelity.com.edgekey.net
 workplacecontent.fidelity.com.edgekey.net
 workplaceservices.fidelity.com.edgekey.net
 wsclix.fidelity.com.edgekey.net
-www.fidelity.com.edgekey.net
 fid-inv.com.edgekey.net
 www.fid-inv.com.edgekey.net
 filemaker.com.edgekey.net
@@ -317606,7 +317566,6 @@ www.commercialportal.libertymutual.com.edgekey.net
 eservice.libertymutual.com.edgekey.net
 galileo.libertymutual.com.edgekey.net
 lmidp.libertymutual.com.edgekey.net
-www.libertymutual.com.edgekey.net
 libertymutual-cdn.com.edgekey.net
 public.libertymutual-cdn.com.edgekey.net
 dms.licdn.com.edgekey.net
@@ -319137,7 +319096,6 @@ k.staples.com.edgekey.net
 kaptcha.staples.com.edgekey.net
 media.staples.com.edgekey.net
 nd.staples.com.edgekey.net
-www.staples.com.edgekey.net
 staplesadvantage.com.edgekey.net
 ac.staplesadvantage.com.edgekey.net
 www.staplesadvantage.com.edgekey.net
@@ -323868,7 +323826,6 @@ z.shared.global.fastly.net
 b.sni.global.fastly.net
 c.sni.global.fastly.net
 dualstack.c.sni.global.fastly.net
-e.sni.global.fastly.net
 g.sni.global.fastly.net
 dualstack.j.sni.global.fastly.net
 m.sni.global.fastly.net
@@ -342084,7 +342041,6 @@ dfwlive-v1-c4p3-sponsored.s.llnwi.net
 dfwlive-v1-c7p3-sponsored.s.llnwi.net
 dfwlive-v1-c7p4-sponsored.s.llnwi.net
 dfwvod-si-jat-sponsored.s.llnwi.net
-dmotion.s.llnwi.net
 doubtnut.s.llnwi.net
 doubtnut-static.s.llnwi.net
 dssott.s.llnwi.net
@@ -347121,7 +347077,6 @@ eus-contentstorage.osi.office.net
 forms.osi.office.net
 ea-000.forms.osi.office.net
 www.ea-000.forms.osi.office.net
-www.cdn.hubblecontent.osi.office.net
 identity-eu.osi.office.net
 kms.osi.office.net
 inc-000.kms.osi.office.net
@@ -361907,7 +361862,6 @@ productingestionbin1.blob.core.windows.net
 produkswebassistassets.blob.core.windows.net
 prodvolt.blob.core.windows.net
 prodweblob.blob.core.windows.net
-prodxnews1blob.blob.core.windows.net
 proffsmaster.blob.core.windows.net
 www.proffsmaster.blob.core.windows.net
 projectjulius.blob.core.windows.net
@@ -375082,7 +375036,6 @@ ns1.cdn77.org
 1601589200.rsc.cdn77.org
 1601957106.rsc.cdn77.org
 1607929107.rsc.cdn77.org
-1608529168.rsc.cdn77.org
 1616439924.rsc.cdn77.org
 1624627103.rsc.cdn77.org
 1630983047.rsc.cdn77.org
@@ -378030,7 +377983,6 @@ mobile.leo.org
 prod.api.letsencrypt.org
 staging.api.letsencrypt.org
 www.cert.int-x3.letsencrypt.org
-www.ocsp.int-x3.letsencrypt.org
 outbound1.letsencrypt.org
 outbound2.letsencrypt.org
 www.lfcu.org
@@ -388573,7 +388525,6 @@ uk.remoteaccess.dxc.technology
 www.dxc.technology
 feednews.opera.technology
 n-sysadmin-jumpbox-03.feednews.opera.technology
-am4.lb.opera.technology
 lati.lb.opera.technology
 vip03.lati.lb.opera.technology
 static.sizebay.technology
@@ -391794,8 +391745,6 @@ www.gvm.com.tw
 hawsing.com.tw
 ftvn.hawsing.com.tw
 healthforall.com.tw
-healthnews.com.tw
-www.healthnews.com.tw
 hearst.com.tw
 support.hearst.com.tw
 heho.com.tw
@@ -397637,7 +397586,6 @@ www.kirbysvehiclesales.co.uk
 kitefestival.co.uk
 kitepackaging.co.uk
 www.kitepackaging.co.uk
-kittymail.co.uk
 klarna.co.uk
 url4034.klarna.co.uk
 klinger.co.uk
@@ -398814,7 +398762,6 @@ officeteam.co.uk
 www.officeteam.co.uk
 official-deals.co.uk
 cp.official-deals.co.uk
-www.offspring.co.uk
 ofo.co.uk
 img.ofo.co.uk
 static.ofo.co.uk
@@ -403501,8 +403448,6 @@ mam.manage.microsoft.us
 www.portal.manage.microsoft.us
 r.manage.microsoft.us
 manage-ppe.microsoft.us
-portal.manage-ppe.microsoft.us
-www.portal.manage-ppe.microsoft.us
 dod.teams.microsoft.us
 ams.dod.teams.microsoft.us
 api.ams.dod.teams.microsoft.us
@@ -407622,7 +407567,6 @@ sellercenter.tiki.vn
 seller-store-api.tiki.vn
 streaming-realtime-ws.tiki.vn
 time.tiki.vn
-tka.tiki.vn
 app2.timo.vn
 data.tinhte.vn
 sa.tinhte.vn
@@ -408260,7 +408204,6 @@ sjs.zalopay.vn
 social.zalopay.vn
 staticmep.zalopay.vn
 stcpromotion.zalopay.vn
-stracking.zalopay.vn
 tracking.zalopay.vn
 uudai.zalopay.vn
 dr.zapps.vn
