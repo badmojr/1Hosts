@@ -78561,7 +78561,6 @@ c3.dealnews.com
 home.dealsaving.com
 i.dealsea.com
 cc.dealsofamerica.com
-www.dealsofamerica.com
 cdn.dealspotr.com
 www.dearbornbaby.com
 www.deardoctor.com
@@ -87426,7 +87425,6 @@ cms.ejoylearning.com
 license.ekahau.com
 support.ekahau.com
 sw.ekahau.com
-www.ekahau.com
 www.ekartlogistics.com
 api.ekata.com
 app.ekata.com
@@ -113380,7 +113378,6 @@ media.healthday.com
 www.healthdigest.com
 gurgle.healthecareers.com
 media.healthecareers.com
-www.healthecareers.com
 consumermobile.healtheintent.com
 consumerportal.healtheintent.com
 healthelife.healtheintent.com
@@ -173934,7 +173931,6 @@ bineapi.pcloud.com
 eapi.pcloud.com
 pcdn-my.pcloud.com
 p-def3.pcloud.com
-au.pcmag.com
 bbstatic.pcmag.com
 cc.pcmag.com
 enews.pcmag.com
@@ -177586,7 +177582,6 @@ link.potterybarnkids.com
 user.poughkeepsiejournal.com
 api.poulpeo.com
 extension.poulpeo.com
-www.poulpeo.com
 www.pouted.com
 www.powderhounds.com
 covers.powells.com
@@ -203886,7 +203881,6 @@ send.smtp.com
 sl.smtp.com
 gate178.sl.smtp.com
 mailer148.gate178.sl.smtp.com
-www.smtp.com
 mail.smtp2go.com
 ns2.smtp2go.com
 ns4.smtp2go.com
@@ -215217,7 +215211,6 @@ www.thebeijinger.com
 canteen.theberrics.com
 www.thebestideasforkids.com
 en-media.thebetterindia.com
-www.theblackfriday.com
 products.theblacktux.com
 static.theblacktux.com
 link.theblaze.com
@@ -301989,7 +301982,6 @@ turingapi-noncompliant.z01.azurefd.net
 yandex-games.z01.azurefd.net
 znetcdn-ckcpe8cjgbeyhjan.z01.azurefd.net
 experiments.azureml.net
-1.azurestaticapps.net
 happy-hill-0c4c4691e.azurestaticapps.net
 mango-desert-02886071e.azurestaticapps.net
 dev.azuresynapse.net
