@@ -11386,8 +11386,6 @@ www.1234567.com.cn
 atj-kuaishou.37.com.cn
 4008823823.com.cn
 58.com.cn
-apiwmda.58.com.cn
-c.58cdn.com.cn
 j1.58cdn.com.cn
 pic1.58cdn.com.cn
 pic2.58cdn.com.cn
@@ -12137,8 +12135,6 @@ biz.jrj.com.cn
 finance.jrj.com.cn
 hk.jrj.com.cn
 stock.jrj.com.cn
-js96110.com.cn
-www.js96110.com.cn
 jss.com.cn
 inv.jss.com.cn
 k.jss.com.cn
@@ -13715,7 +13711,6 @@ game.gtimg.cn
 gpcd.gtimg.cn
 ifzq.gtimg.cn
 iv6.gtimg.cn
-miniapp.gtimg.cn
 mpqq.gtimg.cn
 offline.gtimg.cn
 offlinev2.gtimg.cn
@@ -13937,15 +13932,6 @@ uploads.chinatimes.net.cn
 cta.net.cn
 dns.cta.net.cn
 ns.cta.net.cn
-dcloud.net.cn
-ac1.dcloud.net.cn
-ac2.dcloud.net.cn
-cdn.dcloud.net.cn
-cdn1.dcloud.net.cn
-s1.dcloud.net.cn
-s2.dcloud.net.cn
-service.dcloud.net.cn
-t1.dcloud.net.cn
 gamehub.net.cn
 gslzptt.net.cn
 ns.gslzptt.net.cn
@@ -14364,7 +14350,6 @@ cdn.soulapp.cn
 china-chat-img.soulapp.cn
 china-img.soulapp.cn
 datacollector-sea.soulapp.cn
-data-collector.soulapp.cn
 fingerprint.soulapp.cn
 gateway2-tcp-spam.soulapp.cn
 gateway-mobile-gray.soulapp.cn
@@ -15555,7 +15540,6 @@ d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
 storageapi.fleek.co
-storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -16710,10 +16694,8 @@ m.10000recipe.com
 www.10000recipe.com
 api.1000kitap.com
 m.client.10010.com
-enrichgw.10010.com
 img.10010.com
 m1.img.10010.com
-nisportal.10010.com
 www.1001cocktails.com
 www.1001games.com
 www.1001juegos.com
@@ -17851,7 +17833,6 @@ bugreport.os.360os.com
 ota1.os.360os.com
 otalog.os.360os.com
 quality.360os.com
-logs.quality.360os.com
 track-mgz.360os.com
 update-cloud.i.360overseas.com
 w.i.360overseas.com
@@ -18325,7 +18306,6 @@ activityhouse.m.58.com
 op.58.com
 ngx-out-v6.op.58.com
 rentercenter.58.com
-reportwpush.58.com
 sdp.58.com
 sh.58.com
 sjtinfo.58.com
@@ -21219,6 +21199,7 @@ linuxdownload.adobe.com
 deloitte.marketing.adobe.com
 macysr53.marketing-assets.adobe.com
 blue-server.messaging.adobe.com
+ns.adobe.com
 ols.adobe.com
 olscore.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
@@ -24274,7 +24255,6 @@ g-search2.alicdn.com
 g-search3.alicdn.com
 g-search4.alicdn.com
 heic.alicdn.com
-httpdns.alicdn.com
 hudong.alicdn.com
 im.alicdn.com
 img-ovs.alicdn.com
@@ -24795,7 +24775,6 @@ irisk-th-l.alipay.com
 irisk-vn-l.alipay.com
 isupergw.alipay.com
 lab.alipay.com
-loggw-ex.alipay.com
 loggw-extiny.alipay.com
 m.alipay.com
 mapi.alipay.com
@@ -25005,7 +24984,6 @@ auth-asg.aliyuncs.com
 cdn.aliyuncs.com
 cloud.aliyuncs.com
 ntp3.cloud.aliyuncs.com
-cloudauth-device.aliyuncs.com
 cn-hangzhou.aliyuncs.com
 cn-shanghai.aliyuncs.com
 iot-as-http.cn-shanghai.aliyuncs.com
@@ -25054,8 +25032,6 @@ me-east-1.aliyuncs.com
 cloudauth-device.me-east-1.aliyuncs.com
 mpaas-loggw4zwy.aliyuncs.com
 mpaas-mas-loggw.aliyuncs.com
-mqtt.aliyuncs.com
-post-cn-45914d3sc0g.mqtt.aliyuncs.com
 nls-gateway-ap-southeast-1.aliyuncs.com
 oss.aliyuncs.com
 huichuan-materialcenter-file.oss.aliyuncs.com
@@ -33310,7 +33286,6 @@ dd-dashboard-images.s3.eu-west-1.amazonaws.com
 dentally-assets.s3.eu-west-1.amazonaws.com
 dentally-uploads.s3.eu-west-1.amazonaws.com
 device-artifacts-v2-eu.s3.eu-west-1.amazonaws.com
-dgm-prd-euw1-log.s3.eu-west-1.amazonaws.com
 dsch-content-hub-images-production.s3.eu-west-1.amazonaws.com
 dwellantlive.s3.eu-west-1.amazonaws.com
 dynamo-prod-bucket.s3.eu-west-1.amazonaws.com
@@ -39009,7 +38984,6 @@ git-codecommit.us-east-2.amazonaws.com
 glacier.us-east-2.amazonaws.com
 glue.us-east-2.amazonaws.com
 guardduty.us-east-2.amazonaws.com
-iot.us-east-2.amazonaws.com
 a1zjlbcv9qbzin.iot.us-east-2.amazonaws.com
 a2poo8btpqc3gs-ats.iot.us-east-2.amazonaws.com
 a36nlctuja1tqq-ats.iot.us-east-2.amazonaws.com
@@ -42827,6 +42801,7 @@ gspx-ssl.ls.apple.com
 gsp-ssl-commute.ls.apple.com
 gsp-ssl-kr.ls.apple.com
 sundew.ls.apple.com
+mail.apple.com
 manage.apple.com
 media.apple.com
 amp-api.media.apple.com
@@ -43440,7 +43415,6 @@ event-dot-edjing-backend.appspot.com
 event-dot-learning-sampler.appspot.com
 event-dot-stream-player-backend.appspot.com
 event-notifications-prod-dot-rake-system.appspot.com
-event-tracking-dot-videoads.appspot.com
 facehub.appspot.com
 fd-apps-nl.appspot.com
 firebase-dot-devsite-v2-prod.appspot.com
@@ -48676,7 +48650,6 @@ a25e1f5fa555d1ffd.awsglobalaccelerator.com
 a27223fe6f3193777.awsglobalaccelerator.com
 a27f0cf678ae5e5c4.awsglobalaccelerator.com
 a299197c08ba4f000.awsglobalaccelerator.com
-a2f41194651173ebf.awsglobalaccelerator.com
 a2f811213ff85553b.awsglobalaccelerator.com
 a301286d66b13f96f.awsglobalaccelerator.com
 a32e5d094c337f605.awsglobalaccelerator.com
@@ -54155,7 +54128,6 @@ hanyu.baidu.com
 hao123.baidu.com
 haokan.baidu.com
 health.baidu.com
-hector.baidu.com
 cdn.hiphotos.baidu.com
 t.hiphotos.baidu.com
 tb.hiphotos.baidu.com
@@ -54191,8 +54163,6 @@ jform2.baidu.com
 jiankang.baidu.com
 jianyi.baidu.com
 jifen.baidu.com
-jmy-pic.baidu.com
-jzapi.baidu.com
 kernercdn.baidu.com
 lcs.baidu.com
 common.lcs.baidu.com
@@ -54306,7 +54276,6 @@ t14.baidu.com
 t15.baidu.com
 tbmsg.baidu.com
 tbpushpic.baidu.com
-im.tieba.baidu.com
 tiebac.baidu.com
 tiebapic.baidu.com
 timgsa.baidu.com
@@ -54332,7 +54301,6 @@ vv.baidu.com
 wakeup.baidu.com
 wan.baidu.com
 wen.baidu.com
-wjz-cdn.baidu.com
 wk.baidu.com
 wkdsp.baidu.com
 wksmallapp.baidu.com
@@ -57341,7 +57309,6 @@ arbv5.bidscube.com
 arbv6.bidscube.com
 awg-b.bidscube.com
 awg-v.bidscube.com
-batads-b1.bidscube.com
 batads-b2.bidscube.com
 batads-v1.bidscube.com
 batads-v2.bidscube.com
@@ -57568,20 +57535,11 @@ datapost.biliapi.com
 tx-web-player-tracker.biliapi.com
 account.bilibili.com
 bangumi.bilibili.com
-chat.bilibili.com
-broadcast.chat.bilibili.com
-broadcastlv.chat.bilibili.com
-stun.chat.bilibili.com
-stun6.chat.bilibili.com
-stun-1.chat.bilibili.com
-stun-2.chat.bilibili.com
-d.bilibili.com
 gaoneng.bilibili.com
 m.bilibili.com
 manga.bilibili.com
 search.bilibili.com
 s.search.bilibili.com
-security.bilibili.com
 show.bilibili.com
 t.bilibili.com
 b.w.bilicdn1.com
@@ -62692,14 +62650,12 @@ orca.bwwmediagroup.com
 www.bxwxorg.com
 api.bybit.com
 api2.bybit.com
-blog.bybit.com
 help.bybit.com
 learn.bybit.com
 static.bybit.com
 static-sg.bybit.com
 stream.bybit.com
 ws2.bybit.com
-www.bybit.com
 www.bybrittanygoldwyn.com
 pbjs-stream.bydata.com
 pbjs-stream-2.bydata.com
@@ -63100,7 +63056,6 @@ slw16.global.cainiao.com
 guoguouser.cainiao.com
 m.cainiao.com
 cn-acs.m.cainiao.com
-nbpush.cainiao.com
 page.cainiao.com
 ut.cainiao.com
 adashx.ut.cainiao.com
@@ -71167,7 +71122,6 @@ ns4.cloudflare.com
 ns5.cloudflare.com
 ns6.cloudflare.com
 ns7.cloudflare.com
-radar.cloudflare.com
 api.radar.cloudflare.com
 rpki.cloudflare.com
 invalid.rpki.cloudflare.com
@@ -71952,7 +71906,6 @@ o365.coca-cola.com
 onedrive.coca-cola.com
 accounts.coccoc.com
 auth.coccoc.com
-browser.coccoc.com
 browser-crashes.coccoc.com
 browser-images.coccoc.com
 browser-sync.coccoc.com
@@ -71960,7 +71913,6 @@ cdn.coccoc.com
 comedia.coccoc.com
 video.comedia.coccoc.com
 cuacua.coccoc.com
-files.coccoc.com
 files1.coccoc.com
 files2.coccoc.com
 files3.coccoc.com
@@ -79553,7 +79505,6 @@ apicomment.detik.com
 cdnv.detik.com
 comment.detik.com
 connect.detik.com
-displaybanner.detik.com
 finance.detik.com
 food.detik.com
 health.detik.com
@@ -79629,9 +79580,7 @@ secure.devpost.com
 cdn.devtodev.com
 cl-mirror.dewabiz.com
 app.dewu.com
-app-log.dewu.com
 cdn-fast.dewu.com
-client-inf.dewu.com
 dav.dewu.com
 ipv4.dewu.com
 m.dewu.com
@@ -79799,7 +79748,6 @@ domain.name.parking.china.diandongzhi.com
 parking.diandongzhi.com
 name.parking.diandongzhi.com
 domain.name.parking.diandongzhi.com
-catdot.dianping.com
 catfront.dianping.com
 cps.dianping.com
 dpmtpush.dianping.com
@@ -79809,7 +79757,6 @@ m.dianping.com
 mapi.dianping.com
 medusa.dianping.com
 minsu.dianping.com
-mlog.dianping.com
 osm.dianping.com
 osm-t.dianping.com
 osx.dianping.com
@@ -95302,7 +95249,6 @@ outspot-ams.feednews.com
 outspot-ash.feednews.com
 outspot-sg.feednews.com
 pps.feednews.com
-pps-log.feednews.com
 pps-token.feednews.com
 res.feednews.com
 res-odx.feednews.com
@@ -102863,7 +102809,6 @@ marketingmindmediapvtltd.fuse-cloud.com
 mobitracking.fuse-cloud.com
 traffictargetads.fuse-cloud.com
 use-tr02.fuse-cloud.com
-zinblemedia.fuse-cloud.com
 cdn.fusioncharts.com
 static.fusioncharts.com
 app.fusionwebclinic.com
@@ -103500,7 +103445,6 @@ dl.codm.cdn.garenanow.com
 web.cdn.garenanow.com
 connect.garenanow.com
 data.garenanow.com
-logcollector.data.garenanow.com
 ss-receiver.data.garenanow.com
 dealservicesg.garenanow.com
 dealservicevn.garenanow.com
@@ -104080,7 +104024,6 @@ bts.geetest.com
 dkapi.geetest.com
 gcaptcha4.geetest.com
 monitor.geetest.com
-onepass.geetest.com
 k8s.geewa.com
 webview.k8s.geewa.com
 cascade.geforce.com
@@ -106304,7 +106247,6 @@ share.goodnotes.com
 www.goodnotes.com
 api.goodnovel.com
 assets.goodnovel.com
-log.goodnovel.com
 m.goodnovel.com
 msta.goodnovel.com
 res1.goodnovel.com
@@ -112721,6 +112663,7 @@ hrc.suggest.hackerrank.com
 hrw.suggest.hackerrank.com
 sync.hackerrank.com
 www.hackingwithswift.com
+app.hackthebox.com
 cache.hacontent.com
 www.hagerco.com
 community.hagerty.com
@@ -129899,7 +129842,6 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
-apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -129944,8 +129886,6 @@ flux.iqiyi.com
 g.iqiyi.com
 geo.iqiyi.com
 ip.geo.iqiyi.com
-hcdn.iqiyi.com
-pushhub.hcdn.iqiyi.com
 homeai.iqiyi.com
 homeai-bsl.iqiyi.com
 if.iqiyi.com
@@ -130195,7 +130135,6 @@ cloudinary-res-tmobile.isappcloud.com
 cloudinary-res-west.isappcloud.com
 ib-hutch.isappcloud.com
 ib-tmobile.isappcloud.com
-tracking.isappcloud.com
 tracking-tmobile.isappcloud.com
 updates.isappcloud.com
 user-profile.isappcloud.com
@@ -131789,7 +131728,6 @@ csc.jd.com
 cscssl.jd.com
 d.jd.com
 daojia.jd.com
-ddms.jd.com
 dd-search.jd.com
 dd-static.jd.com
 diviner.jd.com
@@ -131847,7 +131785,6 @@ ifanli.m.jd.com
 in.m.jd.com
 item.m.jd.com
 jcap.m.jd.com
-jpushsc.m.jd.com
 lbsapi.m.jd.com
 lbsgw.m.jd.com
 msg.m.jd.com
@@ -131880,7 +131817,6 @@ msjdpay.jd.com
 mx.jd.com
 mx1.jd.com
 neptune.jd.com
-nfa.jd.com
 ns1.jd.com
 ns2.jd.com
 ns3.jd.com
@@ -132736,6 +132672,7 @@ user.joistapp.com
 www.jokejive.com
 mail.joker.com
 ns.joker.com
+x.ns.joker.com
 y.ns.joker.com
 whois.joker.com
 cdn1.jolicloset.com
@@ -133200,8 +133137,6 @@ cdn4.juguetilandia.com
 cdn5.juguetilandia.com
 cdn9.juguetilandia.com
 api.juksy.com
-assets.juksy.com
-static-assets.juksy.com
 www.juksy.com
 cloud.jumbo.com
 prod.cloud.jumbo.com
@@ -136712,7 +136647,6 @@ g-gdfp.kwai-pro.com
 g-logsdk.kwai-pro.com
 g-zt.kwai-pro.com
 klink-me.kwai-pro.com
-logsdk.kwai-pro.com
 m.kwai-pro.com
 ppg.m.kwai-pro.com
 sg.kwai-pro.com
@@ -138395,7 +138329,6 @@ amdc-wapa-akamai.lazada.com
 amdc-wapa-alicdn.lazada.com
 eco-device.lazada.com
 group.lazada.com
-id-log-emagzal.lazada.com
 info.lazada.com
 m.lazada.com
 arup.m.lazada.com
@@ -139507,7 +139440,6 @@ configuration.prelaunch.liaisoncas.com
 recommendations.liaisoncas.com
 help.liaisonedu.com
 bj.lianjia.com
-dig.lianjia.com
 gateway.lianjia.com
 qr.liantu.com
 api2.libanswers.com
@@ -141887,7 +141819,6 @@ a.lnwpic.com
 l.lnwpic.com
 www.lnwshop.com
 en.lo4d.com
-lb.loadfast1.com
 www.loadmatch.com
 ldlc.loadtracking.com
 scottlogistics.loadtracking.com
@@ -146295,7 +146226,6 @@ www.meionorte.com
 video.meipai.com
 gslb.video.meipai.com
 www.meipai.com
-api.meishesdk.com
 www.meistertask.com
 account.meitu.com
 api.account.meitu.com
@@ -146341,7 +146271,6 @@ api.meituan.com
 apimeishi.meituan.com
 apimobile.meituan.com
 api-mall.meituan.com
-appsec-mobile.meituan.com
 asr.meituan.com
 auth-ai.meituan.com
 awp.meituan.com
@@ -152682,6 +152611,7 @@ www.moonreading.com
 www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
+togetno992.mooo.com
 u2ekcv.mooo.com
 xred.mooo.com
 cdn-editor.moosend.com
@@ -153398,7 +153328,6 @@ www.mozzartsport.com
 search.mp3.com
 coversr.mp3va.com
 www.mp3va.com
-www13.mp4upload.com
 www3.mp4upload.com
 www6.mp4upload.com
 api-production.mpix.com
@@ -154409,7 +154338,6 @@ www.mydoorsign.com
 op.mydplr.com
 un.mydplr.com
 vo.mydplr.com
-i.mydramalist.com
 pt.mydramalist.com
 11.mydrivers.com
 blog.mydrivers.com
@@ -162935,6 +162863,7 @@ api.live.odysee.com
 watchman.na-backend.odysee.com
 sockety.odysee.com
 thumbnails.odysee.com
+static.od-cdn.com
 api.oeconnection.com
 portal.oeconnection.com
 repairlinkshopnotifictionomnipresentproxy.oeconnection.com
@@ -175623,24 +175552,17 @@ im-emoticon.pinduoduo.com
 m.pinduoduo.com
 manortk.pinduoduo.com
 manortk-a.pinduoduo.com
-meta.pinduoduo.com
 mms.pinduoduo.com
 mmstk.pinduoduo.com
 pmmtk.pinduoduo.com
-pmmtk-a.pinduoduo.com
 pplay-video-jn.pinduoduo.com
 pplay-video-nb.pinduoduo.com
 pplay-video-ty.pinduoduo.com
 social.pinduoduo.com
 ssp.pinduoduo.com
 ta.pinduoduo.com
-th.pinduoduo.com
-th-a.pinduoduo.com
-titan.pinduoduo.com
 titan-mms.pinduoduo.com
-titan-ws.pinduoduo.com
 tldas.pinduoduo.com
-tne.pinduoduo.com
 tp.pinduoduo.com
 tp-b.pinduoduo.com
 t-dsp.pinduoduo.com
@@ -181800,7 +181722,6 @@ ota1.os.qiku.com
 otalog.os.qiku.com
 weather.os.qiku.com
 quality.qiku.com
-logs.quality.qiku.com
 content.qima.com
 email.qima.com
 com.qingcdn.com
@@ -182097,10 +182018,8 @@ mapp.3g.qq.com
 mayybkconn.3g.qq.com
 mayybkconnnew.3g.qq.com
 mayybnew.3g.qq.com
-mayybstatnew.3g.qq.com
 mazu-cy.3g.qq.com
 msf.3g.qq.com
-configsvr.msf.3g.qq.com
 msfhttp.3g.qq.com
 msfwifi.3g.qq.com
 msfwifiv6.3g.qq.com
@@ -182118,12 +182037,6 @@ wifiudp.3g.qq.com
 yybadaccess.3g.qq.com
 yybadaccessuse.3g.qq.com
 404.qq.com
-ab.qq.com
-config.ab.qq.com
-data.ab.qq.com
-directconfig.ab.qq.com
-iosqqdata.ab.qq.com
-res.ab.qq.com
 m.ac.qq.com
 acc.qq.com
 wetv.acc.qq.com
@@ -182395,7 +182308,6 @@ htdata4.qq.com
 bookimg.html5.qq.com
 cdn.bookimg.html5.qq.com
 bz.html5.qq.com
-casestudy.html5.qq.com
 grayqbdsp.html5.qq.com
 hippy.html5.qq.com
 icreport.html5.qq.com
@@ -182464,7 +182376,6 @@ upage.imtt.qq.com
 zixun.imtt.qq.com
 api.inews.qq.com
 origin-view.inews.qq.com
-r.inews.qq.com
 up.inews.qq.com
 ingame.qq.com
 app.ingame.qq.com
@@ -182570,7 +182481,6 @@ jprx.m.qq.com
 jsync.m.qq.com
 luban.m.qq.com
 pmir.m.qq.com
-tmfmazu.m.qq.com
 tmfmazu4.m.qq.com
 tmfmazuhttp-wangka.m.qq.com
 tmfmazutcpv4.m.qq.com
@@ -182616,7 +182526,6 @@ newsso.map.qq.com
 nlp.map.qq.com
 overseactrl.map.qq.com
 pr.map.qq.com
-restlbs.map.qq.com
 rgeorest.map.qq.com
 sdkgw.map.qq.com
 search.map.qq.com
@@ -182884,11 +182793,6 @@ release.qq.com
 r.release.qq.com
 res.qq.com
 static.res.qq.com
-research.qq.com
-loginrtx.research.qq.com
-rtx.research.qq.com
-sprtx.research.qq.com
-udrtx.research.qq.com
 rmonitor.qq.com
 roblox.qq.com
 clientsettingscdn.roblox.qq.com
@@ -183098,7 +183002,6 @@ v.tc.qq.com
 videohy.tc.qq.com
 vliveachy.tc.qq.com
 vweixinf.tc.qq.com
-vweixinthumb.tc.qq.com
 weixinconf.tc.qq.com
 wetvdefaultts.tc.qq.com
 wxapp.tc.qq.com
@@ -198517,7 +198420,6 @@ ichannel-tb.sgsnssdk.com
 isub.sgsnssdk.com
 isub-tb.sgsnssdk.com
 open.sgsnssdk.com
-rtlog.sgsnssdk.com
 api.sgx.com
 api2.sgx.com
 links.sgx.com
@@ -204067,7 +203969,6 @@ fpa-1.snackmagic.com
 images.snackmagic.com
 g-api.snackvideo.com
 g-gdfp.snackvideo.com
-g-ulog.snackvideo.com
 g-zt.snackvideo.com
 klink.snackvideo.com
 ntp.snackvideo.com
@@ -204298,7 +204199,6 @@ ichannel.snssdk.com
 imapi.snssdk.com
 imapi2.snssdk.com
 imapihotsoon.snssdk.com
-isub-hl.snssdk.com
 isub-lq.snssdk.com
 is-hl.snssdk.com
 is-lq.snssdk.com
@@ -212014,7 +211914,6 @@ channel-acs.m.taobao.com
 compliance.m.taobao.com
 evo.m.taobao.com
 global-msgacs.m.taobao.com
-guide-acs.m.taobao.com
 guide-acs4miniapp-inner.m.taobao.com
 h5api.m.taobao.com
 h5api-intl.m.taobao.com
@@ -212091,7 +211990,6 @@ us-aebridge.taobao.com
 adashww.ut.taobao.com
 adashx4id.ut.taobao.com
 h-adashx-internal.ut.taobao.com
-s-adashx.ut.taobao.com
 v6-adashx.ut.taobao.com
 vip.taobao.com
 wagbridge.taobao.com
@@ -214766,31 +214664,17 @@ workbench.cloud.tencent.com
 connipv6.tencent.com
 gz2.tencent.com
 hk.tencent.com
-tpns.hk.tencent.com
-access1.tpns.hk.tencent.com
-guid.tpns.hk.tencent.com
-log.tpns.hk.tencent.com
 ioa.tencent.com
 lc.tencent.com
 meeting.tencent.com
 cdn.meeting.tencent.com
-report.meeting.tencent.com
 oa.tencent.com
 qqmail.tencent.com
 qqshow-ufs.tencent.com
 security.tencent.com
 en.security.tencent.com
 sgp.tencent.com
-tpns.sgp.tencent.com
-access1.tpns.sgp.tencent.com
-api.tpns.sgp.tencent.com
-guid.tpns.sgp.tencent.com
-log.tpns.sgp.tencent.com
 sh.tencent.com
-tpns.sh.tencent.com
-access1.tpns.sh.tencent.com
-guid.tpns.sh.tencent.com
-log.tpns.sh.tencent.com
 sz.tencent.com
 sz2.tencent.com
 sz3.tencent.com
@@ -214806,7 +214690,6 @@ tcpconn3.tencent.com
 tcpconn4.tencent.com
 tcpconn5.tencent.com
 tcpconn6.tencent.com
-tpstelemetry.tencent.com
 wemeet.tencent.com
 conn.wemeet.tencent.com
 accesstpush.tencentmusic.com
@@ -217322,17 +217205,12 @@ libra-ru.tiktokv.com
 libra-sg.tiktokv.com
 libra-va.tiktokv.com
 log16-normal.tiktokv.com
-log16-normal-alisg.tiktokv.com
-log16-normal-c-useast2a.tiktokv.com
 log16-normal-useast1a.tiktokv.com
-log16-normal-useast2a.tiktokv.com
 log17-normal-alisg.tiktokv.com
 log17-normal-useast1a.tiktokv.com
 log19-normal-alisg.tiktokv.com
 log19-normal-useast1a.tiktokv.com
-log22-normal-alisg.tiktokv.com
 log22-normal-useast1a.tiktokv.com
-log22-normal-useast2a.tiktokv.com
 log-i18n.tiktokv.com
 log-phx.tiktokv.com
 log-va-useast2a.tiktokv.com
@@ -217379,17 +217257,13 @@ rtc-logger-va.tiktokv.com
 rtc-sg.tiktokv.com
 rtc-va.tiktokv.com
 rtlog16-applog-useast2a.tiktokv.com
-rtlog16-normal-alisg.tiktokv.com
 rtlog16-normal-useast1a.tiktokv.com
-rtlog16-normal-useast2a.tiktokv.com
 rtlog16-tmp-normal-useast1a.tiktokv.com
 rtlog17-normal-alisg.tiktokv.com
 rtlog17-normal-useast1a.tiktokv.com
 rtlog19-normal-alisg.tiktokv.com
 rtlog19-normal-useast1a.tiktokv.com
-rtlog22-normal-alisg.tiktokv.com
 rtlog22-normal-useast1a.tiktokv.com
-rtlog22-normal-useast2a.tiktokv.com
 rtlog-phx.tiktokv.com
 rtlog-ru.tiktokv.com
 sdfp16-normal-c-useast1a.tiktokv.com
@@ -217534,7 +217408,6 @@ widget-sg.tiktokv.com
 widget-va.tiktokv.com
 xdevice-api.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
-xlog16-normal-c-useast2a.tiktokv.com
 xlog-ru.tiktokv.com
 xlog-va-useast2a.tiktokv.com
 b.tikvpn.com
@@ -219404,7 +219277,6 @@ uk.travelzoo.com
 t1.uk.travelzoo.com
 us.travelzoo.com
 t1.us.travelzoo.com
-b.travel-assets.com
 c.travel-assets.com
 forever.travel-assets.com
 lufthansa.travel-regulations.com
@@ -226892,7 +226764,6 @@ dmp-data.vip.com
 dr.vip.com
 mapi.vip.com
 mp.vip.com
-sc-thor.vip.com
 www.vipkid.com
 www.vippng.com
 ng.vipre.com
@@ -227614,7 +227485,6 @@ asai-file-apkcdn1.vivoglobal.com
 asai-file-apkcdn2.vivoglobal.com
 asai-file-wlanapkcdn1.vivoglobal.com
 asai-file-wlanapkcdn2.vivoglobal.com
-asia-adsjssdk.vivoglobal.com
 asia-album-api.vivoglobal.com
 asia-apkselfawdl.vivoglobal.com
 asia-apkselfdl.vivoglobal.com
@@ -227639,7 +227509,6 @@ asia-exbrowsersearch-sug.vivoglobal.com
 asia-exmagazineunlock-proxy.vivoglobal.com
 asia-exstsdk.vivoglobal.com
 asia-exthemewsdl.vivoglobal.com
-asia-ex-adlog.vivoglobal.com
 asia-file-appstore.vivoglobal.com
 asia-file-appstoreawdl.vivoglobal.com
 asia-f-up.vivoglobal.com
@@ -229516,7 +229385,6 @@ hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
-s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -240296,7 +240164,6 @@ api.weheartit.com
 account.weibo.com
 fileplatform.api.weibo.com
 gateway-cloudim-core.api.weibo.com
-mediadata.api.weibo.com
 multimedia.api.weibo.com
 remind.api.weibo.com
 wblive-out.api.weibo.com
@@ -244797,7 +244664,6 @@ vi.xhamster3.com
 zh.xhamster3.com
 api.xiachufang.com
 status.xiachufang.com
-trackbeat.xiachufang.com
 ucloud.xiachufang.com
 ulb-pub-pool.ucloud.xiachufang.com
 www.xiachufang.com
@@ -244978,7 +244844,6 @@ id-connect.sms.intl.xiaomi.com
 id-fcm.sms.intl.xiaomi.com
 id-miuilog.sms.intl.xiaomi.com
 in-fcm.sms.intl.xiaomi.com
-in-miuilog.sms.intl.xiaomi.com
 tv.intl.xiaomi.com
 api.video.intl.xiaomi.com
 weatherapi.intl.xiaomi.com
@@ -250171,13 +250036,11 @@ account.zhihu.com
 activity.zhihu.com
 aidatatest.zhihu.com
 captcha.zhihu.com
-datahub.zhihu.com
 gslb-dsa.zhihu.com
 gslb-dsa-tc.zhihu.com
 gslb-gf-online.zhihu.com
 gslb-offline-pkx01.zhihu.com
 gslb-pek01.zhihu.com
-in.zhihu.com
 lb-pkx01-offline.zhihu.com
 link.zhihu.com
 mqtt-internal-public.zhihu.com
@@ -268755,7 +268618,6 @@ mobile.lionair.co.id
 secure2.lionair.co.id
 www.lionair.co.id
 macroad.co.id
-liniads.macroad.co.id
 minio.macroad.co.id
 mari.co.id
 wz.mari.co.id
@@ -268875,7 +268737,6 @@ app.seabank.co.id
 appmanager.seabank.co.id
 etracking.seabank.co.id
 sdkapi.seabank.co.id
-tracking.seabank.co.id
 sehataqua.co.id
 www.sehataqua.co.id
 api.shopback.co.id
@@ -268935,7 +268796,6 @@ www.mall.shopee.co.id
 mitra.shopee.co.id
 api.mitra.shopee.co.id
 ccms-gateway.mitra.shopee.co.id
-log-collector.mitra.shopee.co.id
 static.mitra.shopee.co.id
 mms.shopee.co.id
 api.mms.shopee.co.id
@@ -269060,7 +268920,6 @@ a.m.dana.id
 saas.dana.id
 captcha.saas.dana.id
 ifctscenter.saas.dana.id
-mas-log1.saas.dana.id
 mas-log1-real.saas.dana.id
 mgs-gw.saas.dana.id
 mss-mpaas.saas.dana.id
@@ -269091,7 +268950,6 @@ bkkbn.go.id
 bkpm.go.id
 blitarkab.go.id
 blitarkota.go.id
-pemkotspeed.blitarkota.go.id
 bmkg.go.id
 www.bmkg.go.id
 bpjsketenagakerjaan.go.id
@@ -271660,7 +271518,6 @@ cdn.howto-news.info
 files.hudexchange.info
 www.hudexchange.info
 ee.humanitarianresponse.info
-busuanzi.ibruce.info
 www.icalculator.info
 www.ilturista.info
 www.imei.info
@@ -273317,7 +273174,6 @@ trixter9994.github.io
 tunnelrush.github.io
 twastinfg.github.io
 ubg100.github.io
-ublockorigin.github.io
 ubtechrobotics.github.io
 unblocked1889.github.io
 vackyton.github.io
@@ -274898,7 +274754,6 @@ o268291.ingest.sentry.io
 o268404.ingest.sentry.io
 o268421.ingest.sentry.io
 o270108.ingest.sentry.io
-o27075.ingest.sentry.io
 o270845.ingest.sentry.io
 o27104.ingest.sentry.io
 o27158.ingest.sentry.io
@@ -281616,7 +281471,6 @@ shop.ele.me
 app-api.shop.ele.me
 tb.ele.me
 air.tb.ele.me
-highway.tb.ele.me
 ut.ele.me
 api.empower.me
 m.emuparadise.me
@@ -287459,6 +287313,7 @@ ntp03.lagoon.nc
 www.lnc.nc
 maps.google.ne
 ww5.0123movie.net
+images5.1000ps.net
 speedtest-1.123.net
 text.123docz.net
 toc.123docz.net
@@ -304293,7 +304148,6 @@ cdn81795137.blazingcdn.net
 i.bleacherreport.net
 static-assets.bleacherreport.net
 corp.blizzard.net
-api.blocka.net
 cdn.blockaway.net
 accounts.blockerx.net
 www.bloggertipandtrick.net
@@ -313241,7 +313095,6 @@ vmd71287.contaboserver.net
 vmd81112.contaboserver.net
 vmd83562.contaboserver.net
 vmd84592.contaboserver.net
-vmi133642.contaboserver.net
 vmi154204.contaboserver.net
 vmi211617.contaboserver.net
 vmi321954.contaboserver.net
@@ -319382,9 +319235,7 @@ jsb-sg.tiktokv.com.edgekey.net
 libra-i18n.tiktokv.com.edgekey.net
 libra-sg.tiktokv.com.edgekey.net
 libra-va.tiktokv.com.edgekey.net
-log16-normal-alisg.tiktokv.com.edgekey.net
 log16-normal-useast1a.tiktokv.com.edgekey.net
-log16-normal-useast2a.tiktokv.com.edgekey.net
 mcs-sg.tiktokv.com.edgekey.net
 mcs-va.tiktokv.com.edgekey.net
 mon16-normal-c-useast1a.tiktokv.com.edgekey.net
@@ -319447,7 +319298,6 @@ webcast-va.tiktokv.com.edgekey.net
 widget-va.tiktokv.com.edgekey.net
 xdevice-api.tiktokv.com.edgekey.net
 xlog16-normal-c-useast1a.tiktokv.com.edgekey.net
-xlog16-normal-c-useast2a.tiktokv.com.edgekey.net
 timesnownews.com.edgekey.net
 timesofindia.com.edgekey.net
 m.timesofindia.com.edgekey.net
@@ -322582,7 +322432,6 @@ imapi-16.tiktokv.com.edgesuite.net
 im-va.tiktokv.com.edgesuite.net
 mon.tiktokv.com.edgesuite.net
 verification-va.tiktokv.com.edgesuite.net
-xlog.tiktokv.com.edgesuite.net
 toast.com.edgesuite.net
 uicdn.toast.com.edgesuite.net
 toiimg.com.edgesuite.net
@@ -323830,7 +323679,6 @@ z.shared.global.fastly.net
 b.sni.global.fastly.net
 c.sni.global.fastly.net
 dualstack.c.sni.global.fastly.net
-g.sni.global.fastly.net
 dualstack.j.sni.global.fastly.net
 m.sni.global.fastly.net
 dualstack.m.sni.global.fastly.net
@@ -324081,7 +323929,6 @@ khan.map.fastly.net
 prod.khan.map.fastly.net
 klambt.map.fastly.net
 klaviyo-app.map.fastly.net
-klaviyo-onsite.map.fastly.net
 kongregate.map.fastly.net
 lifetimefitness.map.fastly.net
 liveperson.map.fastly.net
@@ -324150,7 +323997,6 @@ pvh.map.fastly.net
 quartzmedia.map.fastly.net
 quic.map.fastly.net
 quicken.map.fastly.net
-quora.map.fastly.net
 racingpost.map.fastly.net
 rakuten.map.fastly.net
 dualstack.rakuten.map.fastly.net
@@ -355142,7 +354988,6 @@ cdn1.tstatic.net
 cdn2.tstatic.net
 cdn-1.tstatic.net
 cdn-2.tstatic.net
-cdn-3.tstatic.net
 t-1.tstatic.net
 t-2.tstatic.net
 t-3.tstatic.net
@@ -366032,6 +365877,7 @@ st.wsj.net
 sts.wsj.net
 stun.wwdl.net
 text.xemtailieu.net
+cdn.xervoo.net
 alsgp0-fds.api.xiaomi.net
 mice.cc.d.xiaomi.net
 ingress.mice.cc.d.xiaomi.net
@@ -382569,7 +382415,6 @@ cdn.defence24.pl
 sentry.defence24.pl
 m.demotywatory.pl
 vpn.diag.pl
-adk.docer.pl
 www.domiporta.pl
 www.domodi.pl
 embed.dorzeczy.pl
@@ -382634,6 +382479,7 @@ en.forpro.pl
 www.en.forpro.pl
 adk.freedisc.pl
 tracker.free-torrents.pl
+www.frisco.pl
 www.fronda.pl
 aggregator.gadu-gadu.pl
 appmsg.gadu-gadu.pl
@@ -383009,7 +382855,6 @@ nes.o2.pl
 assets.obi.pl
 images.obi.pl
 www.obi.pl
-marketplace.ofeminin.pl
 www.ofeminin.pl
 ns1.ogicom.pl
 ns2.ogicom.pl
@@ -383355,7 +383200,6 @@ cdnt8.wp.pl
 cdnt9.wp.pl
 data-api.wp.pl
 dva.wp.pl
-dynacrems.wp.pl
 filtrujemydlabaltyku.wp.pl
 holding.wp.pl
 i.wp.pl
@@ -388297,6 +388141,7 @@ l.em.magazine.store
 www.magazine.store
 cdn2.shopxsy.store
 media.zid.store
+www09.gogocdn.stream
 reddit.sportshub.stream
 ww.yify.stream
 demos.flourish.studio
@@ -388529,6 +388374,7 @@ uk.remoteaccess.dxc.technology
 www.dxc.technology
 feednews.opera.technology
 n-sysadmin-jumpbox-03.feednews.opera.technology
+am4.lb.opera.technology
 lati.lb.opera.technology
 vip03.lati.lb.opera.technology
 static.sizebay.technology
@@ -391393,7 +391239,6 @@ vshow.vskit.tv
 vskit-client-log.vskit.tv
 vskit-log.vskit.tv
 vstatus-log.vskit.tv
-vthird-log.vskit.tv
 assets.w2g.tv
 w2g-mtrx.w2g.tv
 auth.waipu.tv
@@ -406221,7 +406066,6 @@ e368bv.dood.video
 fd423wkl.dood.video
 fjr456p.dood.video
 odw7bf.dood.video
-xs455loj.dood.video
 announce.haidan.video
 eu-cdn.like.video
 gray-img.like.video
@@ -406524,7 +406368,6 @@ icdn.dantri.com.vn
 login.dantri.com.vn
 m.dantri.com.vn
 misc.dantri.com.vn
-sentry.dantri.com.vn
 slm.dantri.com.vn
 vcdn.dantri.com.vn
 webapi.dantri.com.vn
