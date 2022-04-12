@@ -6,7 +6,7 @@
 </p>
 
 
-# ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
+# ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
 *Grab an updated copy of the file(s) today!*<br>
 
