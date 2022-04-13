@@ -7,6 +7,13 @@ assignees: badmojr
 
 ---
 
+</p></p>
+<h2 align="center">Submit Form</h2>
+<div align="center">
+  Get your issue resolved quickly! Fill in the form accurately.
+</div>
+
+
 <!----------------------
 Type `x` in between `[ ]` and make sure there isn't any space between brackets. 
 example: Type like this - `[x]` 
