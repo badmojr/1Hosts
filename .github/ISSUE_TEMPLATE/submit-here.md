@@ -3,7 +3,7 @@ name: Submit here
 about: Please use this form to submit domains that you need removed or blocked.
 title: ''
 labels: ''
-assignees: badmojr
+assignees: ''
 
 ---
 
