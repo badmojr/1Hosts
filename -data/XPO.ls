@@ -8809,7 +8809,6 @@ www.intelligencer.ca
 ame.interac.ca
 tsp-wc15-prod-tor.ame.interac.ca
 et.interac.ca
-etransfer.interac.ca
 etransfer-content.interac.ca
 etransfer-notification.interac.ca
 help.interac.ca
@@ -21199,7 +21198,6 @@ linuxdownload.adobe.com
 deloitte.marketing.adobe.com
 macysr53.marketing-assets.adobe.com
 blue-server.messaging.adobe.com
-ns.adobe.com
 ols.adobe.com
 olscore.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
@@ -42801,7 +42799,6 @@ gspx-ssl.ls.apple.com
 gsp-ssl-commute.ls.apple.com
 gsp-ssl-kr.ls.apple.com
 sundew.ls.apple.com
-mail.apple.com
 manage.apple.com
 media.apple.com
 amp-api.media.apple.com
@@ -129839,6 +129836,7 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
+apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -132669,7 +132667,6 @@ user.joistapp.com
 www.jokejive.com
 mail.joker.com
 ns.joker.com
-x.ns.joker.com
 y.ns.joker.com
 whois.joker.com
 cdn1.jolicloset.com
@@ -152608,7 +152605,6 @@ www.moonreading.com
 www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
-togetno992.mooo.com
 u2ekcv.mooo.com
 xred.mooo.com
 cdn-editor.moosend.com
@@ -167959,9 +167955,6 @@ ehne.fa.ap2.oraclecloud.com
 login.ap2.oraclecloud.com
 ehne.login.ap2.oraclecloud.com
 ap-mumbai-1.oraclecloud.com
-objectstorage.ap-mumbai-1.oraclecloud.com
-compat.objectstorage.ap-mumbai-1.oraclecloud.com
-bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com
 ap-singapore-1.oraclecloud.com
 objectstorage.ap-singapore-1.oraclecloud.com
 ca2.oraclecloud.com
@@ -220536,6 +220529,7 @@ www.tuniu.com
 api.tunnelbear.com
 prod-api-core.tunnelbear.com
 ssocks.tunnelbear.com
+www.tunota.com
 cdn.tunwalai.com
 www.tunwalai.com
 www.tuotromedico.com
@@ -338468,7 +338462,6 @@ stun.gmx.net
 traco.gmx.net
 v.gmx.net
 wa.gmx.net
-ymprove.gmx.net
 booking.gocheckin.net
 aboutus.godaddy.net
 static.godic.net
