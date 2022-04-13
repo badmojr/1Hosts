@@ -229372,6 +229372,7 @@ hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
+s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
