@@ -7,7 +7,7 @@ assignees: badmojr
 
 ---
 
-</p></p>
+</br>
 <h2 align="center">Submit Form</h2>
 <div align="center">
   Get your issue resolved quickly! Fill in the form accurately.
@@ -25,6 +25,8 @@ example: Type like this - `[x]`
 - [ ] Xtra
 
 
+</br>
+
 <!----------------------
 Type the name of the adblock client with which you use the lists.
 example: NextDNS, Pi-hole, AdGuardHome, etc
@@ -32,6 +34,8 @@ example: NextDNS, Pi-hole, AdGuardHome, etc
 **Client:** 
 <!----- Type before this tag ----->
 
+
+</br>
 
 <!----------------------
 Type the domains between ``` tags, one domain per line.
@@ -41,6 +45,8 @@ Type the domains between ``` tags, one domain per line.
 
 ```
 
+
+</br>
 
 <!----------------------
 Please describe the issue with as much detail as necessary.
