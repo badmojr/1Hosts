@@ -23,9 +23,8 @@ example: Type like this - `[x]`
 - [ ] Lite
 - [ ] Pro
 - [ ] Xtra
-
-
 </br>
+
 
 <!----------------------
 Type the name of the adblock client with which you use the lists.
@@ -33,9 +32,8 @@ example: NextDNS, Pi-hole, AdGuardHome, etc
 ------------------------------>
 **Client:** 
 <!----- Type before this tag ----->
-
-
 </br>
+
 
 <!----------------------
 Type the domains between ``` tags, one domain per line.
@@ -44,9 +42,8 @@ Type the domains between ``` tags, one domain per line.
 ```
 
 ```
-
-
 </br>
+
 
 <!----------------------
 Please describe the issue with as much detail as necessary.
