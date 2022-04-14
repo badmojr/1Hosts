@@ -30,7 +30,8 @@ example: Type like this - `[x]`
 Type the name of the adblock client with which you use the lists.
 example: NextDNS, Pi-hole, AdGuardHome, etc
 ------------------------------>
-**Client:** 
+**Client:**
+
 <!----- Type before this tag ----->
 </br>
 
@@ -38,7 +39,7 @@ example: NextDNS, Pi-hole, AdGuardHome, etc
 <!----------------------
 Type the domains between (```) i.e Code tags, one domain per line.
 ------------------------------>
-**Domain(s):**
+**Domains:**
 ```
 
 ```
