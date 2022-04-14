@@ -54,3 +54,9 @@ Step by step instructions and screenshots are highly appreciated!
 
 
 <!----- Type before this tag ----->
+</br>
+</br>
+<div align="center">
+  <h2>Thank you for supporting 1Hosts.</h2>
+  <sub>It’s people like you who make these lists great! ❤<ub>
+</div>
