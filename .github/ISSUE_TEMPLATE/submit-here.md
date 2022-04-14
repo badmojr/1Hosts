@@ -36,7 +36,7 @@ example: NextDNS, Pi-hole, AdGuardHome, etc
 
 
 <!----------------------
-Type the domains between ``` tags, one domain per line.
+Type the domains between (```) i.e Code tags, one domain per line.
 ------------------------------>
 **Domain(s):**
 ```
