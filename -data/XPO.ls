@@ -8845,7 +8845,6 @@ taxdisclaimer.kpmg.ca
 assets.lapresse.ca
 bookmark-api.lapresse.ca
 configuration-api.lapresse.ca
-lapresse-ca.lapresse.ca
 notifications-api.lapresse.ca
 optable.lapresse.ca
 plus.lapresse.ca
@@ -14317,7 +14316,6 @@ planet.sinajs.cn
 timg.sjs.sinajs.cn
 sjs0.sinajs.cn
 sjs2.sinajs.cn
-face.t.sinajs.cn
 img1.t.sinajs.cn
 imgs.t.sinajs.cn
 tplanet.sinajs.cn
@@ -14631,7 +14629,6 @@ open.u-tools.cn
 publish.u-tools.cn
 custm.w3s.cn
 share.api.weibo.cn
-weibointl.api.weibo.cn
 weicolog.api.weibo.cn
 edm.weibo.cn
 dsp.edm.weibo.cn
@@ -18596,7 +18593,6 @@ video.9c9media.com
 u1.video.9c9media.com
 www.9carthai.com
 cumulus.9clouds.com
-mt.9gag.com
 api.9hits.com
 serv1.api.9hits.com
 www.9ku.com
@@ -21006,7 +21002,6 @@ hosted.adestra.com
 www.adevinta.com
 www.adevole.com
 rating.adguard.com
-auth.adguard-vpn.com
 www.adhesivesmag.com
 adidasapp.adidas.com
 adidas-news.adidas.com
@@ -24548,8 +24543,6 @@ ali2-course.video.yximgs.com.m.alikunlun.com
 ns3.alikunlun.com
 com.cn.w.alikunlun.com
 7m.com.cn.w.alikunlun.com
-sinaimg.cn.w.alikunlun.com
-ww1.sinaimg.cn.w.alikunlun.com
 sm.cn.w.alikunlun.com
 cdn.sm.cn.w.alikunlun.com
 huichuan-mc.sm.cn.w.alikunlun.com
@@ -48177,8 +48170,6 @@ mobile-api.aviasales.com
 mobile-intelligence.aviasales.com
 mobile-subscription.aviasales.com
 monetization-trap-api.aviasales.com
-sp.aviasales.com
-st.sp.aviasales.com
 static.aviasales.com
 www.aviasales.com
 img.aviationpros.com
@@ -58004,7 +57995,6 @@ stream.bitget.com
 www.bitget.com
 auth.bitglass.com
 cv.bitglass.com
-app.bitgo.com
 edwardjoneslive.bc.cdn.bitgravity.com
 4info.pc.cdn.bitgravity.com
 edwardjoneslive.pc.cdn.bitgravity.com
@@ -90863,7 +90853,6 @@ loteries.espacejeux.com
 worldwide.espacenet.com
 www.espeedpost.com
 update.espfdsk.com
-africa.espn.com
 core.api.espn.com
 fan.core.api.espn.com
 now.core.api.espn.com
@@ -90885,14 +90874,9 @@ espnradio.espn.com
 fantasydraft.espn.com
 fwpt.espn.com
 global.espn.com
-hosted.espn.com
 aws.hosted.espn.com
 us-east-1.aws.hosted.espn.com
 fantasy-admin.us-east-1.aws.hosted.espn.com
-geo.hosted.espn.com
-api.geo.hosted.espn.com
-auth.api.geo.hosted.espn.com
-watch.auth.api.geo.hosted.espn.com
 core.api.geo.hosted.espn.com
 fan.core.api.geo.hosted.espn.com
 fan.api.geo.hosted.espn.com
@@ -140206,7 +140190,6 @@ api.linktexting.com
 api-partner.linkvertise.com
 cdn.linkvertise.com
 publisher.linkvertise.com
-www.link-assistant.com
 ms-geotoggles.linnworks.com
 status.linnworks.com
 li1150-42.members.linode.com
@@ -141323,7 +141306,6 @@ www.officeapps.live.com
 g.search.live.com
 www.signup.live.com
 smtp.live.com
-am3pap001.storage.live.com
 am3pap001files.storage.live.com
 am3pap002files.storage.live.com
 am3pap003.storage.live.com
@@ -144830,7 +144812,6 @@ portal.masorden.com
 games.masque.com
 ws1.masque.com
 ws2.masque.com
-www.masrawy.com
 cdn.massagebook.com
 images.massagebook.com
 locations.massageenvy.com
@@ -152606,7 +152587,6 @@ www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 cdn-editor.moosend.com
 app5.moovitapp.com
 m.moovitapp.com
@@ -157309,7 +157289,6 @@ url2637.neighborlysoftware.com
 frcdn.neighborwho.com
 rbfru0qj.neighborwho.com
 www.neighborwho.com
-app.neilpatel.com
 ciuw2ac.neimanmarcus.com
 dc.neimanmarcus.com
 images.neimanmarcus.com
@@ -164268,6 +164247,7 @@ eu1-crtrs.tng.okta-emea.com
 aws.okx.com
 static.okx.com
 wspri.okx.com
+www.okx.com
 apps.olacabs.com
 log1.olark.com
 www.olaymedya.com
@@ -167955,6 +167935,9 @@ ehne.fa.ap2.oraclecloud.com
 login.ap2.oraclecloud.com
 ehne.login.ap2.oraclecloud.com
 ap-mumbai-1.oraclecloud.com
+objectstorage.ap-mumbai-1.oraclecloud.com
+compat.objectstorage.ap-mumbai-1.oraclecloud.com
+bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com
 ap-singapore-1.oraclecloud.com
 objectstorage.ap-singapore-1.oraclecloud.com
 ca2.oraclecloud.com
@@ -200325,14 +200308,9 @@ mx3.vip.sina.com
 sinamx.vip.sina.com
 liukebin.sinaapp.com
 wxlink.sinaapp.com
-grid.sinaedge.com
-kln.grid.sinaedge.com
 spool.grid.sinaedge.com
-tvaweibo.grid.sinaedge.com
-tvaxweibo.grid.sinaedge.com
 us.grid.sinaedge.com
 weiboimg.grid.sinaedge.com
-weiboimgwx.grid.sinaedge.com
 adiwlbs.gslb.sinaedge.com
 adiwlbs3.gslb.sinaedge.com
 admiguve.gslb.sinaedge.com
@@ -222866,7 +222844,6 @@ asset-americas.unileversolutions.com
 asset-apac.unileversolutions.com
 asset-eu.unileversolutions.com
 dataprivacy.unileversolutions.com
-wa-na.unileversolutions.com
 webcompliance.unileversolutions.com
 assets.unilogcorp.com
 cdnassets.unilogcorp.com
@@ -240172,9 +240149,7 @@ starvip.weibo.com
 club.starvip.weibo.com
 storage.weibo.com
 video.weibo.com
-video.weibocdn.com
 aliproxy.video.weibocdn.com
-f.video.weibocdn.com
 f1.video.weibocdn.com
 f2.video.weibocdn.com
 f3.video.weibocdn.com
@@ -248003,7 +247978,6 @@ rlv.zcache.com
 badges.zdassets.com
 cf-main-production.zdassets.com
 imageproxy.zdassets.com
-p13.zdassets.com
 p17.zdassets.com
 p18.zdassets.com
 p19.zdassets.com
@@ -262898,10 +262872,6 @@ ytkids.app.goo.gl
 yx822.app.goo.gl
 maps.google.gl
 cdn.sc.gl
-bibliogram.domain.glass
-invidious.domain.glass
-libreddit.domain.glass
-teddit.domain.glass
 prod.fire.glass
 isolation-jump.prod.fire.glass
 us-email-isolation.prod.fire.glass
@@ -271485,7 +271455,6 @@ tm2.edgedns-tm.info
 www.eldolar.info
 www.enlineadirecta.info
 hcplc.evanced.info
-i2.extraimage.info
 www.e-ir.info
 www.fakemyip.info
 www.feliratok.info
@@ -283984,7 +283953,6 @@ dash.eightlegged.media
 connect.emby.media
 assets.faireconomy.media
 resources.faireconomy.media
-media.gemini.media
 media.grv.media
 opzet.grv.media
 s.grv.media
@@ -321969,16 +321937,10 @@ site.api.espn.com.edgesuite.net
 api-app.espn.com.edgesuite.net
 assets.espn.com.edgesuite.net
 cdn.espn.com.edgesuite.net
-espncdn.com.edgesuite.net
-a1.espncdn.com.edgesuite.net
-a2.espncdn.com.edgesuite.net
-a3.espncdn.com.edgesuite.net
-a4.espncdn.com.edgesuite.net
 fantasy.espncdn.com.edgesuite.net
 fcast.espncdn.com.edgesuite.net
 g.espncdn.com.edgesuite.net
 s.espncdn.com.edgesuite.net
-secure.espncdn.com.edgesuite.net
 g.secure.espncdn.com.edgesuite.net
 s.secure.espncdn.com.edgesuite.net
 etsystatic.com.edgesuite.net
@@ -322452,8 +322414,6 @@ pegasus-api.warnermediacdn.com.edgesuite.net
 watchguard.com.edgesuite.net
 cdn.watchguard.com.edgesuite.net
 china-cdn.watchguard.com.edgesuite.net
-weibocdn.com.edgesuite.net
-video.weibocdn.com.edgesuite.net
 wesingapp.com.edgesuite.net
 westelm.com.edgesuite.net
 edm.westelm.com.edgesuite.net
@@ -322556,7 +322516,6 @@ dpgm-sst.edgesuite.net
 dpp-cdn.edgesuite.net
 dreammail.edgesuite.net
 es.edgesuite.net
-espnmediacdn.edgesuite.net
 events-api-outfit7.edgesuite.net
 fansided-prod.edgesuite.net
 fts.edgesuite.net
@@ -323797,7 +323756,6 @@ com.map.fastly.net
 fastly.com.map.fastly.net
 comicbook.map.fastly.net
 commentsold.map.fastly.net
-h2.condenast.map.fastly.net
 constantco.map.fastly.net
 cookpad.map.fastly.net
 coty.map.fastly.net
@@ -340094,7 +340052,6 @@ tymber-blaze-products.imgix.net
 typeset-beta.imgix.net
 t-images.imgix.net
 united-masters.imgix.net
-unsplash.imgix.net
 uschamber-co.imgix.net
 uswitch-cms.imgix.net
 uswitch-contentful.imgix.net
@@ -375889,7 +375846,6 @@ security-tracker.debian.org
 static.debian.org
 peer.decentraland.org
 s.deckbox.org
-images.deepai.org
 images.definition.org
 media.definition.org
 static.definition.org
@@ -380639,6 +380595,8 @@ zws5.web.telegram.org
 zws5-1.web.telegram.org
 webk.telegram.org
 webz.telegram.org
+cdn1.telegram-cdn.org
+cdn5.telegram-cdn.org
 api.teleport.org
 cdn.templatesearch.org
 containers.templatesearch.org
@@ -406354,7 +406312,6 @@ icdn.dantri.com.vn
 login.dantri.com.vn
 m.dantri.com.vn
 misc.dantri.com.vn
-slm.dantri.com.vn
 vcdn.dantri.com.vn
 webapi.dantri.com.vn
 dnse.com.vn
@@ -408044,7 +408001,6 @@ dr.zapps.vn
 jr.zapps.vn
 rd.zapps.vn
 trk.zapps.vn
-za.zapps.vn
 zmeli.zapps.vn
 avatar.zdn.vn
 jp.avatar.zdn.vn
