@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-</br>
+<br>
 <h2 align="center">Submit Form</h2>
 <div align="center">
   Get your issue resolved quickly! Fill in the form accurately.
@@ -23,7 +23,7 @@ example: Type like this - `[x]`
 - [ ] Lite
 - [ ] Pro
 - [ ] Xtra
-</br>
+<br>
 
 
 <!----------------------
@@ -33,7 +33,7 @@ example: NextDNS, Pi-hole, AdGuardHome, etc
 **Client:**
 
 <!----- Type before this tag ----->
-</br>
+<br>
 
 
 <!----------------------
@@ -42,8 +42,9 @@ Type the domains between (```) i.e Code tags, one domain per line.
 **Domains:**
 ```
 
+
 ```
-</br>
+<br>
 
 
 <!----------------------
