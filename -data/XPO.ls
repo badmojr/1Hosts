@@ -9937,8 +9937,6 @@ www.watchfreemovies.ch
 cdn1.watson.ch
 cdn2.watson.ch
 www.wildeisen.ch
-go.wootly.ch
-www.wootly.ch
 www.wsear.ch
 fr.zalando.ch
 load.collect.chat
@@ -22006,7 +22004,6 @@ www.aeoncinema.com
 aepgenwebchat.aep.com
 gateways1.aep.com
 gateways2.aep.com
-stc.aeplcdn.com
 ping.aeries.com
 www.aeries.com
 accounts.aerlingus.com
@@ -129820,7 +129817,6 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
-apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -151341,7 +151337,6 @@ ab21.mktossl.com
 ab35.mktossl.com
 ab37.mktossl.com
 ab39.mktossl.com
-ab40.mktossl.com
 ab41.mktossl.com
 ab42.mktossl.com
 ab43.mktossl.com
@@ -189549,7 +189544,6 @@ img-video-tracking.ruangguru.com
 roboguru.ruangguru.com
 roboguru-forum-cdn.ruangguru.com
 rubel-video-cdn.ruangguru.com
-tracker.ruangguru.com
 www.ruangguru.com
 dat.ruanmei.com
 www.rubiks.com
@@ -194616,15 +194610,12 @@ education.seattlepi.com
 p593.seattlepi.com
 sli.seattlepi.com
 assets.seattletimes.com
-awsapi.seattletimes.com
 email.seattletimes.com
 click.email.seattletimes.com
 image.email.seattletimes.com
-images.seattletimes.com
 mobileapi.seattletimes.com
 rs-stripe.seattletimes.com
 secure.seattletimes.com
-static.seattletimes.com
 www.seattleweekly.com
 autodiscover.seaworld.com
 bluesea4.seaworld.com
@@ -210797,7 +210788,6 @@ userservices.vip.symantec.com
 userservices-auth.vip.symantec.com
 evcs-aia.ws.symantec.com
 sha256timestamp.ws.symantec.com
-ts-aia.ws.symantec.com
 wss.symantec.com
 client-id.wss.symantec.com
 pfms.wss.symantec.com
@@ -215087,7 +215077,6 @@ order.thanx.com
 widget.thanx.com
 www.thaqafnafsak.com
 www.thaqfny.com
-cacerts.thawte.com
 siteseal.thawte.com
 mp.thcdn.com
 s1.thcdn.com
@@ -222733,7 +222722,6 @@ prod-sam.umusic.com
 staging.umzu.com
 api.unacademy.com
 cms.unacademy.com
-data.unacademy.com
 event-server-perf-prod.unacademy.com
 event-server-prod.unacademy.com
 monitoring.unacademy.com
@@ -229347,9 +229335,7 @@ s3.eu-central-1.wasabisys.com
 dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
-s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
-s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -261381,6 +261367,7 @@ api.beefy.finance
 app.bogged.finance
 cache.bogged.finance
 api.compound.finance
+1a1731111901.fixbug.finance
 graph.mirror.finance
 whitelist.mirror.finance
 exchange.pancakeswap.finance
@@ -281517,7 +281504,6 @@ form.jotform.me
 api.jumbomail.me
 www.jumbomail.me
 kes.kano.me
-load.kisskh.me
 www.kktv.me
 marketing.li.me
 api.likeshop.me
@@ -319999,8 +319985,6 @@ nba.com-v1.edgekey.net
 www.nba.com-v1.edgekey.net
 onefootball.com-v1.edgekey.net
 filebucket.onefootball.com-v1.edgekey.net
-seattletimes.com-v1.edgekey.net
-www.seattletimes.com-v1.edgekey.net
 sigmaaldrich.com-v1.edgekey.net
 www.sigmaaldrich.com-v1.edgekey.net
 solarwinds.com-v1.edgekey.net
@@ -321248,9 +321232,6 @@ myd.kp.org.edgekey.net
 ldscdn.org.edgekey.net
 assets.ldscdn.org.edgekey.net
 edge.ldscdn.org.edgekey.net
-letsencrypt.org.edgekey.net
-root-x1.letsencrypt.org.edgekey.net
-crl.root-x1.letsencrypt.org.edgekey.net
 mayoclinic.org.edgekey.net
 design.mayoclinic.org.edgekey.net
 www.mayoclinic.org.edgekey.net
@@ -323987,7 +323968,6 @@ static.squarespace.map.fastly.net
 squareup.map.fastly.net
 star-delivery.map.fastly.net
 dualstack.star-delivery.map.fastly.net
-statically.map.fastly.net
 stensul.map.fastly.net
 storytel.map.fastly.net
 stuff.map.fastly.net
@@ -368459,7 +368439,6 @@ click.mail.wehkamp.nl
 cdn.welkoop.nl
 login.werk.nl
 www.werk.nl
-images.weserv.nl
 mirror.widexs.nl
 api2.wiebetaaltwat.nl
 www.wielerflits.nl
@@ -385748,7 +385727,6 @@ strm-msknrd.showjet.ru
 st-01.showjet.ru
 dns.sibnet.ru
 dv98.sibnet.ru
-vst.sibnet.ru
 cdp.skbkontur.ru
 adults-widgets.skyeng.ru
 api-student.skyeng.ru
@@ -389186,7 +389164,6 @@ cdx.solo.to
 www.sportnews.to
 v5.sportzonline.to
 vw.ssoap2day.to
-i.supernova.to
 www1.swatchseries.to
 as.tawk.to
 dashboard.tawk.to
