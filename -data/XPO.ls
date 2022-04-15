@@ -15531,9 +15531,8 @@ images.fewcents.co
 paywall.fewcents.co
 www.flashrewards.co
 d.flashscore.co
-ipfs.fleek.co
 on.fleek.co
-storageapi.fleek.co
+storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -20525,7 +20524,6 @@ us1.aconex.com
 insights.us1.aconex.com
 www.aconex.com
 capi.acorns.com
-grow.acorns.com
 nealos.acorns.com
 notifications.acorns.com
 links.notifications.acorns.com
@@ -79488,6 +79486,7 @@ apicomment.detik.com
 cdnv.detik.com
 comment.detik.com
 connect.detik.com
+displaybanner.detik.com
 finance.detik.com
 food.detik.com
 health.detik.com
@@ -129817,6 +129816,7 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
+apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -160336,7 +160336,6 @@ js.nexon.com
 jypm.nexon.com
 livelog.nexon.com
 config.livelog.nexon.com
-jp.livelog.nexon.com
 logins.nexon.com
 m.nexon.com
 mp.nexon.com
@@ -229335,7 +229334,9 @@ s3.eu-central-1.wasabisys.com
 dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
+s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
+s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -269015,7 +269016,6 @@ litbang.pertanian.go.id
 www.pertanian.go.id
 polri.go.id
 ntb.polri.go.id
-ditlantas.ntb.polri.go.id
 penerimaan.polri.go.id
 prakerja.go.id
 active-track.prakerja.go.id
@@ -270665,7 +270665,6 @@ assets.architecturaldigest.in
 www.aubank.in
 07e7c9aa4-frontier.audible.in
 tp.07e7c9aa4-frontier.audible.in
-www.bajajfinserv.in
 m.banggood.in
 www.banggood.in
 www.banglabooks.in
@@ -273701,9 +273700,7 @@ ticker.nexo.io
 ccu-edge.nexon.io
 log.nexon.io
 nxl.log.nexon.io
-toy.log.nexon.io
 plex.nexon.io
-idc-log.plex.nexon.io
 us-sso.nexon.io
 api.nextsale.io
 cdn.nextsale.io
@@ -313012,6 +313009,12 @@ www.conroeisd.net
 cdn.consequenceofsound.net
 thumbnails.consequenceofsound.net
 www.conservativenewsdaily.net
+mail.consolidated.net
+ns1.consolidated.net
+ns8.consolidated.net
+xsp.consolidated.net
+xsp-w4b.consolidated.net
+xsp-w4bil.consolidated.net
 account.construct.net
 accountbeta.construct.net
 api.construct.net
