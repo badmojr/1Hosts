@@ -42,7 +42,6 @@ Type the domains between (```) i.e Code tags, one domain per line.
 **Domains:**
 ```
 
-
 ```
 <br>
 
