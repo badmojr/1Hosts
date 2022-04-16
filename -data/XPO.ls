@@ -9876,7 +9876,6 @@ www.techmania.ch
 api.teleboy.ch
 tv.api.teleboy.ch
 www.teleboy.ch
-www.thomasmaurer.ch
 g-00.0.threema.ch
 ds.g-00.0.threema.ch
 g-10.0.threema.ch
@@ -15533,8 +15532,6 @@ www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
-storageapi.fleek.co
-storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -15847,9 +15844,6 @@ thumb.ibb.co
 br.ifunny.co
 www.br.ifunny.co
 chat.ifunny.co
-logs.ifunny.co
-prebid.ifunny.co
-prebid-cache.ifunny.co
 assets.investingoutlook.co
 api.ipregistry.co
 mailer.ivy.co
@@ -78743,7 +78737,6 @@ cm.delawareonline.com
 user.delawareonline.com
 g650.delcotimes.com
 www.delfriscos.com
-www.delftstack.com
 cdn.delgarm.com
 i1.delgarm.com
 www.delgarm.com
@@ -157896,7 +157889,6 @@ twemoji.netdna-cdn.com
 emoji.twemoji.netdna-cdn.com
 umz7izwbxixtqs4tn8wkvgdcktq5y5tafr.netdna-cdn.com
 premiumprod.umz7izwbxixtqs4tn8wkvgdcktq5y5tafr.netdna-cdn.com
-downloads.vivaldi.netdna-cdn.com
 vpbfqgjg.netdna-cdn.com
 static-app-misc.vpbfqgjg.netdna-cdn.com
 wk0a0vr8subfwvnwjyo.netdna-cdn.com
@@ -167969,6 +167961,7 @@ eu-frankfurt-1.oraclecloud.com
 auth.eu-frankfurt-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 eu-marseille-1.oraclecloud.com
+objectstorage.eu-marseille-1.oraclecloud.com
 eu-stockholm-1.oraclecloud.com
 objectstorage.eu-stockholm-1.oraclecloud.com
 fa.oraclecloud.com
@@ -219288,7 +219281,6 @@ beehave.trckswrm.com
 brainadv.trckswrm.com
 clibertas.trckswrm.com
 clicxy.trckswrm.com
-crpr.trckswrm.com
 found.trckswrm.com
 gowtmd.trckswrm.com
 gurmob.trckswrm.com
@@ -229331,6 +229323,8 @@ www.warzone.com
 ap-northeast-1.wasabisys.com
 s3.ap-northeast-1.wasabisys.com
 eu-central-1.wasabisys.com
+s3.eu-central-1.wasabisys.com
+dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 us-east-1.wasabisys.com
@@ -242098,6 +242092,16 @@ click.e.wmg.com
 investors.wmg.com
 sli.wmtw.com
 sli.wmur.com
+101.wnacloud.com
+bybit.101.wnacloud.com
+public.bybit.101.wnacloud.com
+102.wnacloud.com
+bybitglobal.102.wnacloud.com
+public.bybitglobal.102.wnacloud.com
+103.wnacloud.com
+bytick.103.wnacloud.com
+public.bytick.103.wnacloud.com
+net.wnacloud.com
 www.wnct.com
 li.wnd.com
 mail.wnd.com
@@ -291007,8 +291011,6 @@ webservices-ssl.meetic.com.akadns.net
 merck.com.akadns.net
 c2r.microsoft.com.akadns.net
 officecdn14.c2r.microsoft.com.akadns.net
-c2rsetup.microsoft.com.akadns.net
-prod.c2rsetup.microsoft.com.akadns.net
 cp.microsoft.com.akadns.net
 tokenization.cp.microsoft.com.akadns.net
 dcpservice.data.microsoft.com.akadns.net
@@ -307207,7 +307209,6 @@ osiprod-krs-celadon-000.cloudapp.net
 osiprod-krs-cressida-000.cloudapp.net
 osiprod-krs-vulpecula-000.cloudapp.net
 osiprod-ncus-peach-azsc-000.cloudapp.net
-osiprod-neu-carmine-000.cloudapp.net
 osiprod-neu-celadon-000.cloudapp.net
 osiprod-neu-cressida-001.cloudapp.net
 osiprod-neu-licorice-000.cloudapp.net
@@ -309241,7 +309242,6 @@ commscope.com.cdn.cloudflare.net
 www.commscope.com.cdn.cloudflare.net
 comodo.com.cdn.cloudflare.net
 www.comodo.com.cdn.cloudflare.net
-crl.comodoca.com.cdn.cloudflare.net
 comparably.com.cdn.cloudflare.net
 www.comparably.com.cdn.cloudflare.net
 www.comparecards.com.cdn.cloudflare.net
@@ -376886,7 +376886,6 @@ www.gotoknow.org
 www.gpb.org
 certify.gpwa.org
 discuss.gradle.org
-docs.gradle.org
 help.gradle.org
 plugins.gradle.org
 plugins-artifacts.gradle.org
@@ -389318,7 +389317,6 @@ analytics2.foe.tools
 api.foe.tools
 namedotcom-cdn.name.tools
 sitebuilder.name.tools
-whodotis-cdn.name.tools
 delivery.olx.tools
 production.delivery.olx.tools
 ua.production.delivery.olx.tools
