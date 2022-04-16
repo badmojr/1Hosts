@@ -15531,7 +15531,9 @@ images.fewcents.co
 paywall.fewcents.co
 www.flashrewards.co
 d.flashscore.co
+ipfs.fleek.co
 on.fleek.co
+storageapi.fleek.co
 storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
@@ -129816,7 +129818,6 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
-apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -152582,6 +152583,7 @@ www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
+xred.mooo.com
 cdn-editor.moosend.com
 app5.moovitapp.com
 m.moovitapp.com
@@ -167967,7 +167969,6 @@ eu-frankfurt-1.oraclecloud.com
 auth.eu-frankfurt-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 eu-marseille-1.oraclecloud.com
-objectstorage.eu-marseille-1.oraclecloud.com
 eu-stockholm-1.oraclecloud.com
 objectstorage.eu-stockholm-1.oraclecloud.com
 fa.oraclecloud.com
@@ -229330,13 +229331,9 @@ www.warzone.com
 ap-northeast-1.wasabisys.com
 s3.ap-northeast-1.wasabisys.com
 eu-central-1.wasabisys.com
-s3.eu-central-1.wasabisys.com
-dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
-s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
-s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -260312,7 +260309,6 @@ promociones.betfair.es
 www.betfair.es
 www.bitiba.es
 cdn.bitrix24.es
-ab.blogs.es
 i.blogs.es
 subastas.boe.es
 www.boredpanda.es
@@ -269016,6 +269012,7 @@ litbang.pertanian.go.id
 www.pertanian.go.id
 polri.go.id
 ntb.polri.go.id
+ditlantas.ntb.polri.go.id
 penerimaan.polri.go.id
 prakerja.go.id
 active-track.prakerja.go.id
@@ -270665,6 +270662,7 @@ assets.architecturaldigest.in
 www.aubank.in
 07e7c9aa4-frontier.audible.in
 tp.07e7c9aa4-frontier.audible.in
+www.bajajfinserv.in
 m.banggood.in
 www.banggood.in
 www.banglabooks.in
