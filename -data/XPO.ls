@@ -15532,6 +15532,7 @@ www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
+storageapi.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -101557,7 +101558,6 @@ startpage.foxitsoftware.com
 static.foxla.com
 247.foxnews.com
 adassets.foxnews.com
-feeds-dataviz.foxnews.com
 feeds-elections.foxnews.com
 hp.foxnews.com
 images-my.foxnews.com
@@ -129811,6 +129811,7 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
+apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -152576,7 +152577,6 @@ www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 cdn-editor.moosend.com
 app5.moovitapp.com
 m.moovitapp.com
@@ -167961,7 +167961,6 @@ eu-frankfurt-1.oraclecloud.com
 auth.eu-frankfurt-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 eu-marseille-1.oraclecloud.com
-objectstorage.eu-marseille-1.oraclecloud.com
 eu-stockholm-1.oraclecloud.com
 objectstorage.eu-stockholm-1.oraclecloud.com
 fa.oraclecloud.com
@@ -229327,7 +229326,9 @@ s3.eu-central-1.wasabisys.com
 dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
+s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
+s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -253525,6 +253526,7 @@ www.saarland.de
 umwelt.sachsen.de
 www.umwelt.sachsen.de
 www.sachsen-fernsehen.de
+as.saechsische.de
 asset.saechsische.de
 image.saechsische.de
 js.saechsische.de
@@ -272123,6 +272125,7 @@ famcalandroidsecured.beesoft.io
 contents.beop.io
 hb.beop.io
 static.betfury.io
+proxy.beyondwords.io
 api.bgpview.io
 a.bigcontent.io
 aarons.a.bigcontent.io
@@ -301356,7 +301359,6 @@ scrapestorm2.azureedge.net
 scv10mr-cdnpre-p-cus-00.azureedge.net
 sc-cms-cdn.azureedge.net
 sdrive.azureedge.net
-sdtagging.azureedge.net
 seaofthieveswebassetsprod.azureedge.net
 segpsapiprod.azureedge.net
 sellerdashboardcdn.azureedge.net
@@ -301850,7 +301852,6 @@ s21apls00blkbafd01.azurefd.net
 sapphire.azurefd.net
 sarev.azurefd.net
 sb-saturn.azurefd.net
-sd-tagging.azurefd.net
 secure1-comed-ftd-01.azurefd.net
 selectservervirtualservice-prod-fd01.azurefd.net
 signin.azurefd.net
@@ -368183,6 +368184,7 @@ humankind.ouderportaal.nl
 cmp.oudersvannu.nl
 cdn.parfumswinkel.nl
 www.parfumswinkel.nl
+cmp.parool.nl
 ims.parool.nl
 t.parool.nl
 force.pathe.nl
@@ -368370,6 +368372,7 @@ reserved.transip.nl
 www.transip.nl
 icecast-qmusicnl-cdp.triple-it.nl
 zst-cdp.triple-it.nl
+cmp.trouw.nl
 ims.trouw.nl
 t.trouw.nl
 objectstore.true.nl
@@ -379027,8 +379030,6 @@ una.patelco.org
 mail.patriotjournal.org
 discover.pbcgov.org
 bento.cdn.pbs.org
-video.cdn.pbs.org
-ga.video.cdn.pbs.org
 kids.video.cdn.pbs.org
 digi-prod.pbs.org
 jaws-prod.digi-prod.pbs.org
@@ -400233,7 +400234,6 @@ thestrategist.co.uk
 www.thestrategist.co.uk
 static.thestudentroom.co.uk
 cdn.thesun.co.uk
-cmp.cdn.thesun.co.uk
 feeds.thesun.co.uk
 iframe.thesun.co.uk
 helios.iframe.thesun.co.uk
