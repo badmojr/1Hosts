@@ -15532,7 +15532,7 @@ www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
-storageapi.fleek.co
+storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
