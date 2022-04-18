@@ -15532,7 +15532,7 @@ www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
-storageapi2.fleek.co
+storageapi.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -69873,7 +69873,6 @@ png2.cleanpng.com
 www.cleanpng.com
 news.clearancejobs.com
 www.clearbags.com
-app.clearbit.com
 autocomplete.clearbit.com
 connect.clearbit.com
 connect-client.clearbit.com
@@ -79961,7 +79960,6 @@ dkstatics-public.digikala.com
 dkstatics-public-2.digikala.com
 new-sentry.digikala.com
 sirius.digikala.com
-tracker.digikala.com
 auth.digikey.com
 blocked.digikey.com
 cc.digikey.com
@@ -129811,7 +129809,6 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
-apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -167961,6 +167958,7 @@ eu-frankfurt-1.oraclecloud.com
 auth.eu-frankfurt-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 eu-marseille-1.oraclecloud.com
+objectstorage.eu-marseille-1.oraclecloud.com
 eu-stockholm-1.oraclecloud.com
 objectstorage.eu-stockholm-1.oraclecloud.com
 fa.oraclecloud.com
@@ -222210,7 +222208,6 @@ marketplace.ukg.com
 www.ukg.com
 www.ukrainedate.com
 kyiv.ukrainianwall.com
-static.ukrinform.com
 app.ukrsibbank.com
 my.ukrsibbank.com
 speed-test.ukservers.com
@@ -229328,7 +229325,6 @@ hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
-s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -386249,7 +386245,6 @@ completion.amazon.sa
 data.amazon.sa
 dcp.amazon.sa
 dl.amazon.sa
-sellercentral.amazon.sa
 services.amazon.sa
 transient.amazon.sa
 appx.transient.amazon.sa
