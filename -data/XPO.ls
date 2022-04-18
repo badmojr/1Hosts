@@ -60231,6 +60231,7 @@ p.bootbarn.com
 d.p.bootbarn.com
 e.p.bootbarn.com
 se.p.bootbarn.com
+polhvf.bootbarn.com
 courses.bootcampspot.com
 www.boothbayregister.com
 elixir.bootlin.com
@@ -64813,6 +64814,7 @@ help.carnival.com
 movableink.carnival.com
 prodadmin.carnival.com
 secure.carnival.com
+smetrics.carnival.com
 trade.carnival.com
 click.trade.carnival.com
 image.trade.carnival.com
@@ -67369,6 +67371,7 @@ remit.changehealthcare.com
 rpa.changehealthcare.com
 portal.rpa.changehealthcare.com
 target.changehealthcare.com
+tracking.changehealthcare.com
 vhe-na.changehealthcare.com
 nic.changeip.com
 pro.changelly.com
@@ -74637,7 +74640,6 @@ images.cpap.com
 cdn.cpapracticeadvisor.com
 img.cpapracticeadvisor.com
 ac.cpatrendlines.com
-news.cpbj.com
 v712.cpbj.com
 www.cpbj.com
 assets.cpcdn.com
@@ -101160,7 +101162,6 @@ www1.foretees.com
 email.foreupsoftware.com
 ws.foreupsoftware.com
 api.forever21.com
-awowwo.forever21.com
 i.forever21.com
 click.i.forever21.com
 image.i.forever21.com
@@ -101610,7 +101611,6 @@ www.fpoimg.com
 forum.fractalaudio.com
 trk.fractureme.com
 email.fragrancenet.com
-ryvapi.fragrancenet.com
 emails2.fragrancex.com
 img.fragrancex.com
 www.framebridge.com
@@ -104072,7 +104072,6 @@ m.gene.com
 pulsesecure.gene.com
 sc1esmtaext01.gene.com
 sc1esmtaext02.gene.com
-t-s.gene.com
 windows.gene.com
 gne.windows.gene.com
 www.genengnews.com
@@ -115105,7 +115104,6 @@ work-mx.app.hey.com
 gopher.hey.com
 www.hey.com
 www.heyalma.com
-lezntf.heydudeshoesusa.com
 www.heydudeshoesusa.com
 i.heyemjay.com
 eu1.heyfiesta.com
@@ -119261,6 +119259,7 @@ zagent891.h-cdn.com
 zagent892.h-cdn.com
 zagent9.h-cdn.com
 zeit.h-cdn.com
+smetrics.h-dnet.com
 www.h-dnet.com
 boston.i3investor.com
 cdn2.i3investor.com
@@ -127858,6 +127857,7 @@ functions.intouchreceipting.com
 static.intouchreceipting.com
 amp.intouchweekly.com
 bc.intouchweekly.com
+hcjpbc.intouchweekly.com
 remoteoperations.intoxalock.com
 wageworksapi.intradiem.com
 ir.intrado.com
@@ -129809,6 +129809,7 @@ img5.iqilu.com
 api.iqiyi.com
 apigateway-v6.iqiyi.com
 apigw.iqiyi.com
+apisgame.iqiyi.com
 apisix-test.iqiyi.com
 api-lequ.iqiyi.com
 api-t.iqiyi.com
@@ -131919,6 +131920,7 @@ www.jefit.com
 enews.jegs.com
 helpcenter.jegs.com
 stage-fep7.jegs.com
+ylsjdq.jegs.com
 www.jellybelly.com
 www.jellycat.com
 www.jellyfish.com
@@ -142896,6 +142898,7 @@ cdn.lulus.com
 distribution.lulus.com
 hello.lulus.com
 link.hello.lulus.com
+ijhlca.lulus.com
 link.lulus.com
 m-api.lulus.com
 share.lulus.com
@@ -146561,6 +146564,7 @@ e.menswearhouse.com
 f.e.menswearhouse.com
 l.e.menswearhouse.com
 emailcoupons.menswearhouse.com
+jzoxch.menswearhouse.com
 tuxedo.menswearhouse.com
 img.mensxp.com
 ably.mentimeter.com
@@ -163309,7 +163313,6 @@ video.okezone.com
 visionplus.okezone.com
 atoms.oklahoman.com
 cm.oklahoman.com
-sxjfhh.oklahoman.com
 user.oklahoman.com
 www.oklahoman.com
 api.oklahomanaturalgas.com
@@ -184002,7 +184005,6 @@ community.qvc.com
 corporate.qvc.com
 data.qvc.com
 qvcdynatracedem.qvc.com
-zhcxvk.qvc.com
 data.qvcuk.com
 www.qvcuk.com
 qpalogin.qvidian.com
@@ -184638,6 +184640,7 @@ tiles4.radarbox.com
 tiles5.radarbox.com
 www.radarbox.com
 www.radarcirebon.com
+hcjpbc.radaronline.com
 media.radaronline.com
 assets.radcliffecardiology.com
 hostedpayments.radial.com
@@ -185736,6 +185739,7 @@ photos.realtyhop.com
 www.realtyhop.com
 cdn.realtymogul.com
 www.realtymogul.com
+uzevnf.realtystore.com
 api1.realtytrac.com
 graph.realvision.com
 static.realvision.com
@@ -186925,7 +186929,6 @@ click.sg.rentalcars.com
 widget.rentalcars.com
 xml.rentalcars.com
 xsecure.rentalcars.com
-umwvvq.rentals.com
 api.rentberry.com
 cdn.rentberry.com
 gtm.rentberry.com
@@ -189557,7 +189560,6 @@ vriot.ruckuswireless.com
 images.rue21.com
 metrics.rue21.com
 www.rue21.com
-yplzrm.rue21.com
 asset1.ruecdn.com
 asset2.ruecdn.com
 discovery-client-spa.ruecdn.com
@@ -194021,7 +194023,6 @@ bundle.science-a2z.com
 cmgl.science-a2z.com
 file1.science-et-vie.com
 www.science-sparks.com
-detnmz.sciencing.com
 content.sciendo.com
 www.sciensus.com
 idp.scientificamerican.com
@@ -342368,7 +342369,6 @@ updater.maxon.net
 api.mazii.net
 data.mazii.net
 vi.mazii.net
-ddhjgj.mbc.net
 login.mbc.net
 s3.shahid.mbc.net
 static.s3.shahid.mbc.net
@@ -386245,6 +386245,7 @@ completion.amazon.sa
 data.amazon.sa
 dcp.amazon.sa
 dl.amazon.sa
+sellercentral.amazon.sa
 services.amazon.sa
 transient.amazon.sa
 appx.transient.amazon.sa
