@@ -15532,7 +15532,7 @@ www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
 on.fleek.co
-storageapi.fleek.co
+storageapi2.fleek.co
 image.fnbr.co
 translate.fnbr.co
 mail.fond.co
@@ -229320,10 +229320,13 @@ www.warzone.com
 ap-northeast-1.wasabisys.com
 s3.ap-northeast-1.wasabisys.com
 eu-central-1.wasabisys.com
+s3.eu-central-1.wasabisys.com
+dareupdates.s3.eu-central-1.wasabisys.com
 hrcom-public.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
 us-east-1.wasabisys.com
+s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
 eservice.washgas.com
@@ -241363,7 +241366,6 @@ wdatpprd-uks.securitycenter.windows.com
 wdatpprd-ukw.securitycenter.windows.com
 wdatpprd-weu.securitycenter.windows.com
 wdatpprd-weu3.securitycenter.windows.com
-shell.windows.com
 www.bn3sch020011550.wns.windows.com
 bn3sch020011617.wns.windows.com
 www.bn3sch020011617.wns.windows.com
@@ -269013,7 +269015,6 @@ litbang.pertanian.go.id
 www.pertanian.go.id
 polri.go.id
 ntb.polri.go.id
-ditlantas.ntb.polri.go.id
 penerimaan.polri.go.id
 prakerja.go.id
 active-track.prakerja.go.id
@@ -270936,7 +270937,6 @@ winningheart.co.in
 xapi.co.in
 thinker.xapi.co.in
 xls.co.in
-yahoo.co.in
 yashtel.co.in
 zeelinfotech.co.in
 zepto.co.in
@@ -277317,6 +277317,8 @@ www.intopic.it
 www.investireoggi.it
 smtp-in.inwind.it
 www.in-vendita.it
+iolps.iol.it
+smtp-in.iol.it
 mx00.ionos.it
 mx01.ionos.it
 www.irpinianews.it
@@ -340743,6 +340745,7 @@ tougao.jb51.net
 www.jb51.net
 files.jcink.net
 www.jdpalatine.net
+ns2.jeebr.net
 cab.jibecloud.net
 rcs-cab-production-acs.cab.jibecloud.net
 pfi.jibecloud.net
@@ -388245,6 +388248,8 @@ cmhprod3.k8s.indeed.tech
 cmhqa1.k8s.indeed.tech
 cmhqa2.k8s.indeed.tech
 cmhqa3.k8s.indeed.tech
+authns1.lumen.tech
+authns2.lumen.tech
 master-api.luxor.tech
 ns0.mljt.tech
 ns1.mljt.tech
