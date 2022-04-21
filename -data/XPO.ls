@@ -323,7 +323,6 @@ deliver.kontent.ai
 bots.kore.ai
 rtm.kore.ai
 cdn.krisp.ai
-resources.krisp.ai
 ssp-cookie.logan.ai
 useast3.logan.ai
 useast4.logan.ai
@@ -1710,7 +1709,6 @@ allianceairlines.com.au
 alliedexpress.com.au
 neptune.alliedexpress.com.au
 www.alliedexpress.com.au
-amartfurniture.com.au
 www.amartfurniture.com.au
 04f01a85e-frontier.amazon.com.au
 tp.04f01a85e-frontier.amazon.com.au
@@ -1818,8 +1816,6 @@ blueskiesballooning.com.au
 www.boatsales.com.au
 boatsonline.com.au
 www.boatsonline.com.au
-bobbibrown.com.au
-www.bobbibrown.com.au
 www.bobjane.com.au
 a.bonds.com.au
 local.bonds.com.au
@@ -5271,7 +5267,6 @@ www2.mapfreconnect.com.br
 marabraz.com.br
 marche.com.br
 www.marche.com.br
-www.marfrig.com.br
 marquesstudio.com.br
 www.marquesstudio.com.br
 martins.com.br
@@ -5632,6 +5627,7 @@ apm.original.com.br
 meu.original.com.br
 osegredo.com.br
 www.otempo.com.br
+oticaluminis.com.br
 oticavoluntarios.com.br
 www.oticavoluntarios.com.br
 otimoonline.com.br
@@ -12057,7 +12053,6 @@ news.sjzdaily.com.cn
 www.sjzdaily.com.cn
 yzwb.sjzdaily.com.cn
 skyroam.com.cn
-log.skyroam.com.cn
 skywifi.com.cn
 com.skywifi.com.cn
 facebook.com.skywifi.com.cn
@@ -20561,7 +20556,6 @@ nrcvdi.aciworldwide.com
 ns1.aciworldwide.com
 sso.aciworldwide.com
 wiki.aciworldwide.com
-www.aclfestival.com
 www.acli.com
 www.acme.com
 aqi.acmeaom.com
@@ -22298,7 +22292,6 @@ vdesk-uag.vip.phx.aexp.com
 proxy.aexp.com
 us.aexp.com
 userproxypac.aexp.com
-www.aexpfeedback.com
 qicm.aexp-static.com
 qwww.aexp-static.com
 autodiscover.afamilybudget.com
@@ -22454,7 +22447,6 @@ roomplanner.afw.com
 static.afw.com
 www.agame.com
 www8.agame.com
-ep.agari.com
 kirov.agat-group.com
 volgograd.agat-group.com
 aaa.agcocorp.com
@@ -22958,7 +22950,6 @@ internal.airbnb.com
 it.airbnb.com
 ja.airbnb.com
 news.airbnb.com
-open.airbnb.com
 ru.airbnb.com
 th.airbnb.com
 ws.airbnb.com
@@ -25734,7 +25725,6 @@ purchase.allstate.com
 s3.allstate.com
 rpd-components.s3.allstate.com
 widget-curator.allstate.com
-www.allstays.com
 www.allsteeloffice.com
 www.allsurplus.com
 talk.allthatsinteresting.com
@@ -59143,7 +59133,6 @@ wowclassic.blizzard.com
 cdn.blizzardwatch.com
 mp.blockadvisors.com
 www.blockadvisors.com
-exchange.blockchain.com
 links.blockchain.com
 api.blockchair.com
 graph.blockdit.com
@@ -65842,7 +65831,6 @@ www.carwale.com
 www.carwars.com
 autotrader.carzing.com
 dealdriver.carzing.com
-www.car-buying-strategies.com
 icpmupdate.car-part.com
 icpmupdatepro.car-part.com
 imageappky.car-part.com
@@ -67978,8 +67966,6 @@ sourceselfservice2.ceridian.com
 sss2.ceridian.com
 support.ceridian.com
 vdi.ceridian.com
-wip.ceridian.com
-efederation.wip.ceridian.com
 image.cermati.com
 static.cermati.com
 www.cermati.com
@@ -72496,9 +72482,7 @@ vt.clutch.com
 cdn.clutchprep.com
 www.clutter.com
 www.clxgaming.com
-api.cm.com
 two.cm.com
-www.cm.com
 better-ways.cmacgm-group.com
 www.better-ways.cmacgm-group.com
 www.cmacgm-group.com
@@ -72632,7 +72616,6 @@ www.cmpassport.com
 ecmp.cmpco.com
 www.cmswire.com
 www.cmt.com
-api.cmtelecom.com
 dssf-prod-mobile-proxy.cmtelematics.com
 huk-prod-mobile-proxy.cmtelematics.com
 mobile-eu-prod.cmtelematics.com
@@ -85563,7 +85546,6 @@ www.dunpie.com
 profiles.dunsregistered.com
 i.dunya.com
 s.dunya.com
-community.duo.com
 go.duo.com
 guide.duo.com
 signup.duo.com
@@ -87593,7 +87575,6 @@ em.ebags.com
 alliancebankofarizona.ebanking-services.com
 americanbusinessbank.ebanking-services.com
 atlanticunionbank.ebanking-services.com
-bridgebank.ebanking-services.com
 btcdmia.ebanking-services.com
 businessservicetool.ebanking-services.com
 crossfirstbank.ebanking-services.com
@@ -94629,8 +94610,6 @@ api-u.f5.com
 buzz.f5.com
 callhome.f5.com
 cdn.f5.com
-collect.f5.com
-mktg.collect.f5.com
 community.f5.com
 login.f5.com
 mail13.f5.com
@@ -96395,7 +96374,6 @@ static.fctables.com
 www.fctables.com
 www.fctgtravelnews.com
 investors.fcx.com
-www.fcx.com
 info.fdanews.com
 www.fdanews.com
 sonicwall.fdean.com
@@ -102102,7 +102080,6 @@ teachersoftomorrow-portal.force.com
 test-location.force.com
 texasdmv.force.com
 thdserviceprovider.force.com
-thycotic.force.com
 tritondigitalcommunity.force.com
 truckstop.force.com
 twsg.force.com
@@ -109824,7 +109801,6 @@ mail-yw1-f199.google.com
 mail-yw1-f200.google.com
 mail-yw1-f201.google.com
 mail-yw1-f202.google.com
-manufacturers.google.com
 streetviewstudio.maps.google.com
 mapsplatform.google.com
 stream.meet.google.com
@@ -109880,7 +109856,6 @@ tez.google.com
 time5.google.com
 timeline.google.com
 news.url.google.com
-userresearch.google.com
 vault.google.com
 ventures.google.com
 acs.voice.google.com
@@ -127585,7 +127560,6 @@ www.importimageracing.com
 www.impressiveinteriordesign.com
 primerica.impress-net.com
 quotes.improvementcenter.com
-www.improvenet.com
 api.improvmx.com
 www.impulsegamer.com
 portalgateway.imshealth.com
@@ -127941,7 +127915,6 @@ sso.indeo.com
 www.indeonline.com
 cmpv2.independentespanol.com
 access.independenthealth.com
-www.independenthealth.com
 www.independentmail.com
 www.independentpersian.com
 api.independentreserve.com
@@ -132163,7 +132136,6 @@ athena.iqeq.com
 myit.iqeq.com
 www.iqeq.com
 myatriumhealth.iqhealth.com
-mybanner.iqhealth.com
 myhealth.iqhealth.com
 mymedstar.iqhealth.com
 img4.iqilu.com
@@ -132628,7 +132600,6 @@ www.itftennis.com
 acrisure.itglue.com
 api.itglue.com
 api-mobile-prod.itglue.com
-app.itglue.com
 ics.itglue.com
 impact-networking-inc.itglue.com
 itglue-cdn-prod.itglue.com
@@ -135756,7 +135727,6 @@ dn-img-page.kakao.com
 dn-zip-page.kakao.com
 ds.kakao.com
 acid-api.ds.kakao.com
-act.ds.kakao.com
 serv.ds.kakao.com
 game.kakao.com
 infodesk-zinny3.game.kakao.com
@@ -136777,7 +136747,6 @@ www.kget.com
 pcfg.kgridhub.com
 accounts-ec2avpvy.kgslb.com
 action-yh7i1m9r.kgslb.com
-aem-collector-22ylcwym.kgslb.com
 aem-ingest-3hlnczlq.kgslb.com
 alex-live-9p1kf3ud.kgslb.com
 alex-mlr8lagi.kgslb.com
@@ -139108,7 +139077,6 @@ www.kxl.com
 www.kyeongin.com
 static-assets.kyero.com
 www.kyero.com
-my.kyfb.com
 www.kyfb.com
 www.kyivpost.com
 www.kyleecooks.com
@@ -142951,7 +142919,6 @@ app2.listen360.com
 email.listen360.com
 feedback.listen360.com
 reviews.listen360.com
-www.listen360.com
 www.listendata.com
 cdn-assets-1.listennotes.com
 cdn-images-1.listennotes.com
@@ -148889,7 +148856,6 @@ evercoreisi.mediasterling.com
 www.mediasterling.com
 appliances.mediatagtw.com
 ec.mediatagtw.com
-www.mediate.com
 epo.mediatek.com
 mota.mediatek.com
 viewbl.mediatek.com
@@ -154112,7 +154078,6 @@ t17.market.mi-img.com
 t4.market.mi-img.com
 t5.market.mi-img.com
 res.youpin.mi-img.com
-www.mjbizdaily.com
 www.mjsbigblog.com
 www.mjspackaging.com
 bumn.mkklcdnv6temp.com
@@ -154388,7 +154353,6 @@ khovsecure.ml3ds-cloud.com
 secure.ml3ds-cloud.com
 account-mail.mlb.com
 email.account-mail.mlb.com
-houston.astros.mlb.com
 atbatappconfig.mlb.com
 mlbcharities.auctions.mlb.com
 baseballsavant.mlb.com
@@ -155511,7 +155475,6 @@ www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 hub.moorings.com
 mail.moosejaw.com
 links.mail.moosejaw.com
@@ -182386,7 +182349,6 @@ www.presentationgo.com
 content.presentermedia.com
 www.presentermedia.com
 www.preservearticles.com
-www.presidentscup.com
 autodiscover.presidio.com
 exchange.presidio.com
 ms.presidio.com
@@ -193926,7 +193888,6 @@ em-mxp01.saic.com
 em-mxp03.saic.com
 em-mxp10.saic.com
 em-mxp20.saic.com
-fs.saic.com
 investors.saic.com
 issaic.saic.com
 www.saic.com
@@ -201214,7 +201175,6 @@ go.servicem8.com
 no-cookies-cdn.servicem8.com
 signatures.servicemax.com
 www.servicemax.com
-account.servicenow.com
 community.servicenow.com
 connect.servicenow.com
 images.connect.servicenow.com
@@ -201978,7 +201938,6 @@ patient.sesamecommunications.com
 patient-portal-prd-cluster-2.sesamecommunications.com
 patient-portal-prd-cluster-3.sesamecommunications.com
 pms-upload-server-prd-cluster-3.sesamecommunications.com
-www.sesamecommunications.com
 www.sesameplace.com
 app.sessionlab.com
 cdn.sessionlab.com
@@ -205085,7 +205044,6 @@ labs.sketchfab.com
 jroot.sketchucation.com
 accounts.sketchup.com
 api.sketchup.com
-blog.sketchup.com
 download.sketchup.com
 edu.sketchup.com
 embed-3dwarehouse.sketchup.com
@@ -222920,7 +222878,6 @@ www.tradays.com
 www.tradearabia.com
 www.tradebeusa.com
 www.tradebit.com
-anetuk.tradedoubler.com
 datar.tradedoubler.com
 www.tradegecko.com
 www.tradeindia.com
@@ -229691,7 +229648,6 @@ authupload.varonis.com
 consent.varonis.com
 help.varonis.com
 liveupdate.varonis.com
-my.varonis.com
 www.varonis.com
 files.varsity.com
 fitting.varsity.com
@@ -230721,7 +230677,6 @@ navpn.videojet.com
 pages.videojet.com
 www.videojet.com
 eml.videomaker.com
-www.videomaker.com
 plugin.videopeel.com
 file-aka.videopolis.com
 mdia-aka-cdx.videopolis.com
@@ -232851,8 +232806,6 @@ my.vultr.com
 ns1.vultr.com
 ns2.vultr.com
 speedtestnet.vultr.com
-ewr1.vultrobjects.com
-volio-uploads.ewr1.vultrobjects.com
 wcc.vultrusercontent.com
 client.vulture.com
 www.vuokraovi.com
@@ -233694,7 +233647,6 @@ hrcom-public.s3.wasabisys.com
 sgcweb-west.s3.wasabisys.com
 us-central-1.wasabisys.com
 s3.us-central-1.wasabisys.com
-s3.us-east-1.wasabisys.com
 planet.s3.us-east-1.wasabisys.com
 us-east-2.wasabisys.com
 s3.us-east-2.wasabisys.com
@@ -250204,7 +250156,6 @@ launchpad-api.xe.com
 logs-api.xe.com
 tmi.xe.com
 ios.tmi.xe.com
-transfer.xe.com
 store.xecurify.com
 www.xelplus.com
 www.xemgame.com
@@ -257499,7 +257450,6 @@ secure.clever-tanken.de
 core.cloudapi.de
 gutes-liebesleben.com.de
 gute-apotheke.com.de
-sicherer-apotheker.com.de
 sichere-apotheke.com.de
 spassimbett.com.de
 api.comdirect.de
@@ -261224,7 +261174,6 @@ ciswip.brown.edu
 library.brown.edu
 alumni.bryant.edu
 mybsc.bryantstratton.edu
-www.bryantstratton.edu
 admissions.bsu.edu
 com.bsu.edu
 crashlytics.com.bsu.edu
@@ -265477,7 +265426,6 @@ hort.extension.wisc.edu
 fielddaylab.wisc.edu
 go.wisc.edu
 hosp.wisc.edu
-housing.wisc.edu
 hr.wisc.edu
 kb.wisc.edu
 asset.library.wisc.edu
@@ -269257,7 +269205,6 @@ maps2.dcgis.dc.gov
 dchealth.dc.gov
 accessdc.dcra.dc.gov
 corponline.dcra.dc.gov
-eservices.dcra.dc.gov
 www.dcra.dc.gov
 dmv.dc.gov
 doee.dc.gov
@@ -269272,7 +269219,6 @@ takebackday.dea.gov
 comptroller.defense.gov
 dodcio.defense.gov
 media.defense.gov
-militarypay.defense.gov
 ody.dekalbcountyga.gov
 taxcommissioner.dekalbcountyga.gov
 alpha.delaware.gov
@@ -269629,7 +269575,6 @@ nonexistingsubdomxin6a1e1a4c.storefront.anywhere.gsa.gov
 bsp.gsa.gov
 prod-iae.bsp.gsa.gov
 api-umbrella-lb.prod-iae.bsp.gsa.gov
-staging.d2d.gsa.gov
 dns.gsa.gov
 dns2.gsa.gov
 dns3.gsa.gov
@@ -272253,7 +272198,6 @@ ecf.vaed.uscourts.gov
 vawd.uscourts.gov
 wawd.uscourts.gov
 ecf.wawd.uscourts.gov
-agcounts.usda.gov
 organic.ams.usda.gov
 www.ams.usda.gov
 apfo.usda.gov
@@ -274991,14 +274935,6 @@ grahamedia.net.id
 ip-82.196.hsp.net.id
 hyper.net.id
 speedtest-sg.iconpln.net.id
-idola.net.id
-ns.idola.net.id
-ns1.idola.net.id
-ns2.idola.net.id
-rajawali.idola.net.id
-speedtest.idola.net.id
-speedtest-bdg.idola.net.id
-speedtest-eir.idola.net.id
 ookla10g.iforte.net.id
 ims.net.id
 speedtest.ims.net.id
@@ -276320,7 +276256,6 @@ www.civilaviation.gov.in
 selfregistration.cowin.gov.in
 verify.cowin.gov.in
 www.cowin.gov.in
-delhi.gov.in
 ecourts.gov.in
 app.ecourts.gov.in
 services.ecourts.gov.in
@@ -276605,8 +276540,6 @@ www.trainman.in
 www.trawell.in
 ctest.trivago.in
 www.trivago.in
-api.unibots.in
-cdn.unibots.in
 covidapi.unibots.in
 cpm.unibots.in
 cricket.unibots.in
@@ -277296,7 +277229,6 @@ cello.atlassian.io
 uswest2.atlassian.io
 whisper-gateway.uswest2.atlassian.io
 whisper-gateway.atlassian.io
-www.atom.io
 api.atomicassets.io
 wax.api.atomicassets.io
 aa.atomichub.io
@@ -281588,6 +281520,7 @@ camo.warbrokers.io
 cdn.warbrokers.io
 store1.warbrokers.io
 store2.warbrokers.io
+all-access.wax.io
 api-idm.wax.io
 api-login.wax.io
 atomic.wax.io
@@ -289798,7 +289731,6 @@ interfaz.cenart.gob.mx
 cfe.gob.mx
 mailcfe03.cfe.gob.mx
 ipagos.chihuahua.gob.mx
-www.chihuahua.gob.mx
 cjf.gob.mx
 dgej.cjf.gob.mx
 www.dgej.cjf.gob.mx
@@ -325062,7 +324994,6 @@ cloud.entrust.net
 www.crl.entrust.net
 crl2.entrust.net
 www.crl2.entrust.net
-login.entrust.net
 managed.entrust.net
 www.managed.entrust.net
 www.ocsp.entrust.net
@@ -341148,7 +341079,6 @@ ws.interfax.net
 email.interiordesign.net
 api.intermedia.net
 callcenter.intermedia.net
-cpx.intermedia.net
 exchange.intermedia.net
 gslb.intermedia.net
 exchange.gslb.intermedia.net
@@ -346374,7 +346304,6 @@ dns2.p10.nsone.net
 dns3.p10.nsone.net
 dns4.p10.nsone.net
 matrixmedia.ntreis.net
-www.ntreis.net
 bb.gin.ntt.net
 us.bb.gin.ntt.net
 dllstx14.us.bb.gin.ntt.net
@@ -378674,7 +378603,6 @@ lede-admin.blockclubchicago.org
 www.bloodworksnw.org
 odr.bluebbb.org
 www.bluecrossma.org
-www.blueridgeparkway.org
 bmcroot.bmc.org
 bmc.bmcroot.bmc.org
 careeverywhere.bmc.org
@@ -380231,10 +380159,12 @@ appsmith-badomm.duckdns.org
 badekamarana.duckdns.org
 brainshome.duckdns.org
 chaselogin.duckdns.org
+claim-paypl2022.duckdns.org
 codaneqml.duckdns.org
 einalex.duckdns.org
 enode.duckdns.org
 esanalytics.duckdns.org
+event-515-mlbb.duckdns.org
 faust.duckdns.org
 ffxvenom-1.duckdns.org
 garenafreefireneweventspecial.duckdns.org
@@ -382059,7 +381989,6 @@ repo.apache.maven.org
 search.maven.org
 search-aws.maven.org
 applnk.mayoclinic.org
-apply.mayoclinic.org
 askmayoexpert.mayoclinic.org
 carelink.mayoclinic.org
 carenetworkmembers.mayoclinic.org
@@ -382652,7 +382581,6 @@ gslbext.novanthealth.org
 care.gslbext.novanthealth.org
 novantmychart.gslbext.novanthealth.org
 www2.novanthealth.org
-wwwanalytics.novanthealth.org
 wwwdatum-api.novanthealth.org
 wwwpreamp.novanthealth.org
 downloads.novirusthanks.org
@@ -383931,7 +383859,6 @@ aip.scitation.org
 asa.scitation.org
 images.scitation.org
 physicstoday.scitation.org
-www.scitation.org
 email.sclhealth.org
 click.email.sclhealth.org
 identity.sclhealth.org
@@ -385241,7 +385168,6 @@ logon.undp.org
 partneragencies-logoff.undp.org
 www1.undp.org
 www.unep.org
-unevoc.unesco.org
 digital.unfcu.org
 www.unfcu.org
 www.unglobalcompact.org
@@ -385299,7 +385225,6 @@ opendata.usac.org
 outreach.usac.org
 click.outreach.usac.org
 image.outreach.usac.org
-portal.usac.org
 www.usac.org
 www.usada.org
 sotu.usafacts.org
@@ -387136,7 +387061,6 @@ gfx.wiadomosci.radiozet.pl
 www.radiozet.pl
 zdrowie.radiozet.pl
 gfx.zdrowie.radiozet.pl
-www.rajapack.pl
 www.realmadryt.pl
 static1.redcart.pl
 n-15-21.dcs.redcdn.pl
@@ -390869,7 +390793,6 @@ mpa.gov.sg
 mse.gov.sg
 www.mse.gov.sg
 msf.gov.sg
-muis.gov.sg
 mycareersfuture.gov.sg
 account.mycareersfuture.gov.sg
 api.mycareersfuture.gov.sg
@@ -399005,7 +398928,6 @@ www.gardeningexpress.co.uk
 gardinerbros.co.uk
 ts-images.gardinerbros.co.uk
 garic.co.uk
-garymartin.co.uk
 www.gassaferegister.co.uk
 gatehouselaw.co.uk
 gatewayid.co.uk
@@ -400878,8 +400800,6 @@ peabodysales.co.uk
 www.peabodysales.co.uk
 peachyden.co.uk
 www.peachyden.co.uk
-pearsonclinical.co.uk
-www.pearsonclinical.co.uk
 peel.co.uk
 pegasusgroup.co.uk
 www.pegasusgroup.co.uk
@@ -403490,8 +403410,6 @@ ipreg.org.uk
 www.ipreg.org.uk
 islamic-relief.org.uk
 www.islamic-relief.org.uk
-iwf.org.uk
-www.iwf.org.uk
 iwm.org.uk
 media.iwm.org.uk
 www.iwm.org.uk
@@ -405072,7 +404990,6 @@ www.health.state.ny.us
 leginfo.state.ny.us
 public.leginfo.state.ny.us
 nyslrs.state.ny.us
-ouf.osc.state.ny.us
 r5w5.osc.state.ny.us
 r5w6.osc.state.ny.us
 r5w9.osc.state.ny.us
@@ -408107,7 +408024,6 @@ cloudav.bkav.com.vn
 middle.bkav.com.vn
 se.bkav.com.vn
 update.bkav.com.vn
-www.bkav.com.vn
 bkns.com.vn
 bonbanh.com.vn
 media.bongda.com.vn
@@ -408992,6 +408908,7 @@ prod.now.vn
 s3.prod.now.vn
 rs.olm.vn
 gfcd.org.vn
+giupviecgiadinh.gfcd.org.vn
 www.sggp.org.vn
 www.sggpnews.org.vn
 vietnamtimes.org.vn
@@ -410313,7 +410230,6 @@ lp.zingmp3.vn
 m.zingmp3.vn
 za.zingmp3.vn
 jr.zingnews.vn
-za.zingnews.vn
 cdn.zmedia.vn
 server.zmedia.vn
 ns1.zonedns.vn
