@@ -955,7 +955,6 @@ signpostingandpolls.web.app
 site2text-2021.web.app
 smartart-builder.web.app
 specialoffers-dmar-dev.web.app
-sunadobe4.web.app
 top-banners-prod.web.app
 triplewhale-pixel-staging.web.app
 ts2020-indies-client.web.app
@@ -5062,7 +5061,6 @@ www.docol.com.br
 doctoralia.com.br
 www.doctoralia.com.br
 doctorsaude.com.br
-docusign.com.br
 dol.com.br
 dooki.com.br
 api.dooki.com.br
@@ -8150,7 +8148,6 @@ confea.org.br
 consultaprofissional.confea.org.br
 espro.org.br
 www.espro.org.br
-fieb.org.br
 fundacaofhc.org.br
 clickemailmkt.fundacaofhc.org.br
 funlink.fundacaofhc.org.br
@@ -9481,8 +9478,6 @@ www.rac1.cat
 www.tdx.cat
 www.timeout.cat
 www.vilaweb.cat
-agora.xtec.cat
-blocs.xtec.cat
 w1.1-23movies.cc
 one.akwam.cc
 n.apps4u.cc
@@ -9775,7 +9770,6 @@ www.globus.ch
 dl.gmx.ch
 i0.gmx.ch
 imap.gmx.ch
-wa.gmx.ch
 accounts.google.ch
 consent.google.ch
 ogs.google.ch
@@ -20622,7 +20616,6 @@ ns2.above.com
 ns3.above.com
 ns4.above.com
 howappealing.abovethelaw.com
-www.abovethelaw.com
 bengali.abplive.com
 cdn.abplive.com
 feeds.abplive.com
@@ -26581,7 +26574,6 @@ ablink.email.alltrails.com
 photos.alltrails.com
 webdev.alltrails.com
 media.alltricks.com
-in.allure.com
 link.allure.com
 www.allusanewshub.com
 img.allvipp.com
@@ -28627,7 +28619,6 @@ telst-webse-2s89eqg1pypl-1558938239.ap-southeast-2.elb.amazonaws.com
 a43e8daa158a011eab6580a1c473de57-283122130.ap-south-1.elb.amazonaws.com
 a9c445cf53c8e43668663dd52bad9d8b-938142846.ap-south-1.elb.amazonaws.com
 acaccountxiaomicom-1442558167.ap-south-1.elb.amazonaws.com
-adstailor-478185016.ap-south-1.elb.amazonaws.com
 af-offer-217257039.ap-south-1.elb.amazonaws.com
 alb-api-server-ext-2128176332.ap-south-1.elb.amazonaws.com
 ap2-ws-9ef6-1569814468.ap-south-1.elb.amazonaws.com
@@ -44338,7 +44329,6 @@ event-acceptor-dot-production-eu-292711.ey.r.appspot.com
 geo-dot-project-prometeo-v2.ey.r.appspot.com
 gtm-serverside-326708.ey.r.appspot.com
 treatwell-gtm-ss.ey.r.appspot.com
-vast-clickthrough-dot-videoads.ey.r.appspot.com
 boots-server-side-gtm.nw.r.appspot.com
 ms-gauss-ue.nw.r.appspot.com
 starsgroup-martech-api-dot-conversion-router-qa.nw.r.appspot.com
@@ -47332,7 +47322,6 @@ dlcdnet.asus.com
 dlcdnrog.asus.com
 dm.asus.com
 ecgw.asus.com
-eshop.asus.com
 esurveyapi.asus.com
 gaming-config.asus.com
 gc-rog.asus.com
@@ -48554,7 +48543,6 @@ www.automann.com
 www.automatedlogic.com
 www.automateexcel.com
 www.automation.com
-apeople.automationanywhere.com
 automationanywhere-be-prod.automationanywhere.com
 www.automationanywhere.com
 cdn.automationdirect.com
@@ -56321,7 +56309,6 @@ qa01-static.barclaycardus.com
 static.barclaycardus.com
 globalrecognition.barclays.com
 www.globalrecognition.barclays.com
-group.barclays.com
 ia.barclays.com
 mortgageintermediaries.ia.barclays.com
 iaportal.barclays.com
@@ -59585,7 +59572,6 @@ content.bkstr.com
 mi.bkstr.com
 svc.bkstr.com
 cdn.blablacar.com
-www.blackangus.com
 api.blackbaud.com
 app.blackbaud.com
 azure-www.blackbaud.com
@@ -62471,7 +62457,6 @@ mainnet-infura.brave.com
 mainnet-infura-api.brave.com
 p2a.brave.com
 p3a-json.brave.com
-pcdn.brave.com
 brave-browser-apt-release.s3.brave.com
 brave-browser-rpm-release.s3.brave.com
 brave-user-model-installer-input.s3.brave.com
@@ -72933,7 +72918,6 @@ api.click2houston.com
 link.click2houston.com
 content.click2win4life.com
 win.click2win4life.com
-www.click2win4life.com
 api.clickandpark.com
 cause.clickandpledge.com
 aws.cause.clickandpledge.com
@@ -87904,7 +87888,6 @@ www.dvf.com
 f.dvipcdn.com
 g.dvipcdn.com
 i.dvipcdn.com
-auth-connexion-en-ligneview.dvrlists.com
 modena.dvrlists.com
 ns1.dvrlists.com
 amp.dw.com
@@ -108709,7 +108692,6 @@ videos.globo.com
 s.videos.globo.com
 fonts.globoshoes.com
 media.globoshoes.com
-www.globoshoes.com
 www.globosurfer.com
 api.globovideos.com
 www.globusmedical.com
@@ -115452,7 +115434,6 @@ login.greenstreet.com
 my.greenstreet.com
 www.greenstreet.com
 assets.greentechmedia.com
-track.greentropolo.com
 at-freespins-v1.greentube.com
 fun-crm-api-at.greentube.com
 gtat-gs6.greentube.com
@@ -119526,7 +119507,6 @@ magellanlp.hirevue.com
 static.hirevue.com
 video-cdn-2.hirevue.com
 cdn.hiringplatform.com
-www.hiringthing.com
 services.hiroad.com
 www.hiroad.com
 cdn-p.hisawyer.com
@@ -121014,7 +120994,6 @@ speedtestdbc.hostsailor.com
 webmail.hostway.com
 hwsrv-964335.hostwindsdns.com
 hwsrv-964386.hostwindsdns.com
-www.hot105fm.com
 gzksjd.hot97.com
 auth.hotair.com
 t13.hotcars.com
@@ -127718,7 +127697,6 @@ esync8.ident.com
 dh.identifix.com
 api.identillect.com
 ww2.identillect.com
-secure.identityforce.com
 api.identityguard.com
 app.identityguard.com
 member.identityiq.com
@@ -155146,7 +155124,6 @@ ab48.mktossl.com
 abc.mktossl.com
 cs.mktossl.com
 lon10.mktossl.com
-sj18.mktossl.com
 sj26.mktossl.com
 sj28.mktossl.com
 sj29.mktossl.com
@@ -196998,8 +196975,6 @@ gdsh.samsungcsportal.com
 gspn3.samsungcsportal.com
 skp.samsungcsportal.com
 api-diagmon.samsungdm.com
-diagmon-policy.samsungdm.com
-diagmon-serviceapi.samsungdm.com
 dir-apis.samsungdm.com
 dm-diagmon.samsungdm.com
 gras.samsungdm.com
@@ -208444,7 +208419,6 @@ whitelabel.smtp2go.com
 api.smugmug.com
 app-stats.smugmug.com
 cdn.smugmug.com
-help.smugmug.com
 highfly-nphotos.smugmug.com
 loriicenhour.smugmug.com
 tmartines.smugmug.com
@@ -209463,7 +209437,6 @@ www.solarweb.com
 api.solarwinds.com
 api-mktdev.solarwinds.com
 collector.solarwinds.com
-logs.collector.solarwinds.com
 customerportal.solarwinds.com
 documentation.solarwinds.com
 ecomm.solarwinds.com
@@ -214880,7 +214853,6 @@ cdn.id.supercell.com
 inbox.supercell.com
 clashmini.inbox.supercell.com
 hayday.inbox.supercell.com
-www.supercell.com
 help.supercellsupport.com
 ingame.help.supercellsupport.com
 www.supercheats.com
@@ -259606,7 +259578,6 @@ m.wallstreet-online.de
 push.wallstreet-online.de
 data-4d33656d8f.watson.de
 politik.watson.de
-agnes.waz.de
 data-ee807be806.waz.de
 data-fdf4690b14.waz.de
 extracontent.waz.de
@@ -263344,7 +263315,6 @@ canvas.polk.edu
 moodle.potsdam.edu
 acquia-princetonoit.princeton.edu
 bcf.princeton.edu
-fed.princeton.edu
 springdale.princeton.edu
 wordnet.princeton.edu
 admissions.psu.edu
@@ -265057,7 +265027,6 @@ cac.washington.edu
 bigben.cac.washington.edu
 jira.cac.washington.edu
 courses.washington.edu
-cs.washington.edu
 courses.cs.washington.edu
 gifts.washington.edu
 api.gifts.washington.edu
@@ -275695,7 +275664,6 @@ dist.meser-hadash.org.il
 dist-ios.meser-hadash.org.il
 dist-pr.meser-hadash.org.il
 mida.org.il
-web.nli.org.il
 www.nli.org.il
 oref.org.il
 www.oref.org.il
@@ -282359,7 +282327,6 @@ mail1.libero.it
 plug.libero.it
 smtp-in.libero.it
 tecnologia.libero.it
-www.liberta.it
 www.libraccio.it
 img2.libreriauniversitaria.it
 www.libreriauniversitaria.it
@@ -282688,7 +282655,6 @@ nao.ac.jp
 nda.ac.jp
 scmvmlh01.nda.ac.jp
 scmvmlh02.nda.ac.jp
-repo.nii.ac.jp
 alml001.okayama-u.ac.jp
 cc.okayama-u.ac.jp
 eng.osaka-u.ac.jp
@@ -282791,7 +282757,6 @@ crea.bunshun.jp
 number.bunshun.jp
 www.businessinsider.jp
 cdn.buyee.jp
-cdnyauction.buyee.jp
 cdnyauction-pctr.buyee.jp
 connect.buyee.jp
 ip-country.connect.buyee.jp
@@ -288414,6 +288379,8 @@ authorisation.mga.org.mt
 www.authorisation.mga.org.mt
 www.mga.org.mt
 15478.69.mu
+roblox.com.mu
+www.roblox.com.mu
 maps.google.mu
 www.lexpress.mu
 speedtestlondon.telecom.mu
@@ -293862,7 +293829,6 @@ region.kwai.com.akadns.net
 incentive.region.kwai.com.akadns.net
 kwaipros.com.akadns.net
 k-api.kwaipros.com.akadns.net
-k-ulog.kwaipros.com.akadns.net
 kwai-pro.com.akadns.net
 k-api.kwai-pro.com.akadns.net
 k-ulog.kwai-pro.com.akadns.net
@@ -370706,7 +370672,6 @@ www.heartfoundation.org.nz
 metlink.org.nz
 opendata.metlink.org.nz
 api.opendata.metlink.org.nz
-mountainsafety.org.nz
 www.mountainsafety.org.nz
 static.sciencelearn.org.nz
 ww25.pluspremieres.nz
@@ -393356,7 +393321,6 @@ www.avantitravelinsurance.co.uk
 avantiwestcoast.co.uk
 picoapi.avantiwestcoast.co.uk
 www.avantiwestcoast.co.uk
-aveda.co.uk
 avenue-restaurant.co.uk
 www.avenue-restaurant.co.uk
 avfc.co.uk
@@ -395417,7 +395381,6 @@ crossrail.co.uk
 www.crossrail.co.uk
 crossrail2.co.uk
 www.crowdfunder.co.uk
-www.crowdstrike.co.uk
 crplc.co.uk
 sms.crplc.co.uk
 crudengroup.co.uk
@@ -396795,8 +396758,6 @@ heathrowautocentre.co.uk
 www.heathrowautocentre.co.uk
 heathrowtradesales.co.uk
 www.heathrowtradesales.co.uk
-heckfood.co.uk
-www.heckfood.co.uk
 heineken.co.uk
 hellofresh.co.uk
 link.hellofresh.co.uk
@@ -397760,8 +397721,6 @@ www.leonardohotels.co.uk
 leonkaye.co.uk
 www.leonkaye.co.uk
 www.lep.co.uk
-lepontdelatour.co.uk
-www.lepontdelatour.co.uk
 letalliance.co.uk
 vision.letalliance.co.uk
 lettingshub.co.uk
@@ -399871,8 +399830,6 @@ www.skechers.co.uk
 skillweb.co.uk
 contentapi.skipton.co.uk
 www.skoda.co.uk
-skylon-restaurant.co.uk
-www.skylon-restaurant.co.uk
 ott.skymedia.co.uk
 c5ads.ott.skymedia.co.uk
 skyads.ott.skymedia.co.uk
@@ -402426,7 +402383,6 @@ media.iwm.org.uk
 www.iwm.org.uk
 jcq.org.uk
 www.jcq.org.uk
-www.landmarktrust.org.uk
 languagesonline.org.uk
 www.languagesonline.org.uk
 lawcentres.org.uk
