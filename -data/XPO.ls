@@ -4851,7 +4851,6 @@ www.paramountanz.com.au
 parcelintelligence.com.au
 parramattacameras.com.au
 www.parramattacameras.com.au
-paulaschoice.com.au
 www.paulaschoice.com.au
 pcbyte.com.au
 www.pcbyte.com.au
@@ -5172,7 +5171,6 @@ transporteng.com.au
 transportmutual.com.au
 www.transportmutual.com.au
 travelbytes.com.au
-travelex.com.au
 www.travelex.com.au
 travellerschoice.com.au
 www.travellerschoice.com.au
@@ -5547,7 +5545,6 @@ library.adelaide.edu.au
 unsw.adfa.edu.au
 ise.canberra.edu.au
 ntp.ise.canberra.edu.au
-library.curtin.edu.au
 www.curtin.edu.au
 time.deakin.edu.au
 www.deakin.edu.au
@@ -5662,7 +5659,6 @@ ptv.vic.gov.au
 www.ptv.vic.gov.au
 vba.vic.gov.au
 www.vba.vic.gov.au
-vcglr.vic.gov.au
 www.vcglr.vic.gov.au
 vec.vic.gov.au
 www.vec.vic.gov.au
@@ -9347,7 +9343,6 @@ tracylocke.com.br
 trafegoparasite.com.br
 trakr.com.br
 widget.trakr.com.br
-www.tramontina.com.br
 www.transamerica.com.br
 transamericaexpo.com.br
 www.transamericaexpo.com.br
@@ -9521,7 +9516,6 @@ unifloor.com.br
 unigel.com.br
 www.unigel.com.br
 uniglobe.com.br
-unilever.com.br
 www.unilever.com.br
 unimedara.com.br
 unimedbelem.com.br
@@ -12286,7 +12280,6 @@ www.torontopubliclibrary.ca
 dsw.townshoes.ca
 www.toyota.ca
 www.toysrus.ca
-www.travelinsurance.ca
 test.travelocity.ca
 www.travelocity.ca
 www.travelplus.ca
@@ -12943,7 +12936,6 @@ eanimg.toppreise.ch
 imgsrv.toppreise.ch
 m.toppreise.ch
 oimg.toppreise.ch
-www.tpg.ch
 www.transa.ch
 www.transfermarkt.ch
 www.tui.ch
@@ -15922,7 +15914,6 @@ videojet.com.cn
 cnvpn.videojet.com.cn
 ali-apm.vipkid.com.cn
 t.vipkid.com.cn
-www.vipkid.com.cn
 vision-tool.com.cn
 www.vision-tool.com.cn
 accountinfo.vivo.com.cn
@@ -21536,7 +21527,6 @@ gknaerospace-it.4me.com
 gknautomotive.4me.com
 merchants.4me.com
 realtime.4me.com
-www.4me.com
 cms.4over.com
 trade.4over.com
 cdn.4patriots.com
@@ -67506,7 +67496,6 @@ id.carousell.com
 mail.carousell.com
 nz.carousell.com
 tw.carousell.com
-www.carousell.com
 www.carowinds.com
 pr.carparts.com
 links.pr.carparts.com
@@ -74610,7 +74599,6 @@ image.c.coachoutlet.com
 ca.coachoutlet.com
 cms.coachoutlet.com
 tpr-analytics-n45nl7n.coachoutlet.com
-www.coacht.com
 www.coachusa.com
 auth.coadvantage.com
 coad360.coadvantage.com
@@ -105347,7 +105335,6 @@ cdn6.f-cdn.com
 www.f-cdn.com
 corp-reg.f-secure.com
 msp.f-secure.com
-my.f-secure.com
 orsp-c1-ec1.aws.orsp.f-secure.com
 orsp-c1-ew1.aws.orsp.f-secure.com
 orsp-c1-ue1.aws.orsp.f-secure.com
@@ -139911,7 +139898,6 @@ pat.leverageedu.com
 dal-asa01.levi.com
 e.levi.com
 sfo-asa01.levi.com
-bcom.levistrauss.com
 investors.levistrauss.com
 www.levistrauss.com
 lcs.leviton.com
@@ -146431,7 +146417,6 @@ media.main.pro2.mas.media-server.com
 mmc.media-server.com
 pro2.mmc.media-server.com
 legacyredirect.pro2.mmc.media-server.com
-www.media-server.com
 download.medibang.com
 partner.medica.com
 portal.medica.com
@@ -161651,7 +161636,6 @@ clients.update.noknok.com
 cr-tools.clients.update.noknok.com
 email.nola.com
 odds-betting-server.nola.com
-blog.nolo.com
 leads.nolo.com
 store.nolo.com
 www.nomadasaurus.com
@@ -172583,7 +172567,6 @@ email.parkrun.com
 images.parkrun.com
 static.parkrun.com
 link.parksleepfly.com
-www.parksleepfly.com
 www.parktool.com
 epicprod-storefd.parkview.com
 mychart.parkview.com
@@ -198438,7 +198421,6 @@ studyabroad.shiksha.com
 www.shiksha.com
 bike.shimano.com
 dassets.shimano.com
-fish.shimano.com
 kr.shindanmaker.com
 static1.shine.com
 www.shine.com
@@ -211693,7 +211675,6 @@ businessbanking.tdcommercialbanking.com
 www.tdcommercialbanking.com
 www.tdindustries.com
 www.tdinsurance.com
-invensense.tdk.com
 lambda.tdk.com
 us.lambda.tdk.com
 www.us.lambda.tdk.com
@@ -213006,7 +212987,6 @@ data.usage.teamwork.com
 waltonbd.teamwork.com
 www.teamwork.com
 mirror.team-cymru.com
-www.teavana.com
 api.tecartabible.com
 cf-stream.tecartabible.com
 cmpv2.techadvisor.com
@@ -217172,7 +217152,6 @@ www.topackt.com
 www.topazlabs.com
 idomino.topbos.com
 notificationservice.topcashback.com
-www.topcoder.com
 ns-canada.topdns.com
 ns-uk.topdns.com
 www.topdns.com
@@ -217361,7 +217340,6 @@ polygon.touchcast.com
 static.touchcast.com
 b2c.touchnet.com
 secure.touchnet.com
-www.touchnet.com
 cdn-s3.touchofmodern.com
 cdn-www.touchofmodern.com
 links.touchofmodern.com
@@ -217398,8 +217376,6 @@ www.tourismelandes.com
 www.tourismelaval.com
 www.tourisme-aveyron.com
 www.tourisme-creuse.com
-www.tourismireland.com
-www.tourismkelowna.com
 www.tourismnewzealand.com
 www.tourismvictoria.com
 www.touristorama.com
@@ -217759,7 +217735,6 @@ media.traderonline.com
 technical.traders.com
 secure.tradeschoolinc.com
 images.tradeservice.com
-www.tradeservice.com
 api.tradeshift.com
 esb1.tradeshift.com
 go.tradeshift.com
@@ -218071,7 +218046,6 @@ aeresource-cvd.tui.transunion.com
 aerest.tui.transunion.com
 consumerconnect.tui.transunion.com
 www.transwest.com
-www.trapcall.com
 www.trappfamily.com
 www.tratencongty.com
 hub.travefy.com
@@ -221898,7 +221872,6 @@ www.unfi.com
 hls.unfold.com
 mobile-assets.unfold.com
 unipaygold.unibank.com
-www.unibank.com
 a1s-cdn.unibet.com
 ca.unibet.com
 connect.unibet.com
@@ -225285,7 +225258,6 @@ cdn-us-east.velaro.com
 signalr-engagement-us-east.velaro.com
 www.velasvallarta.com
 portal.velaw.com
-www.velo.com
 olb.velocitycu.com
 www.velocitycu.com
 www.velocityfleet.com
@@ -225401,7 +225373,6 @@ portals.veracross.com
 portals-app-cdn.veracross.com
 portals-cdn.veracross.com
 portals-embed.veracross.com
-www.veracross.com
 community.verafin.com
 github.verafin.com
 login.verafin.com
@@ -225775,7 +225746,6 @@ visit.vermontcountrystore.com
 www.vermontguides.com
 web1.vermontsystems.com
 web2.vermontsystems.com
-www.vermontsystems.com
 www.vernier.com
 www.vernondowns.com
 data.veronicabeard.com
@@ -247932,7 +247902,6 @@ melvi.zendesk.com
 mep-support.zendesk.com
 mercadona.zendesk.com
 meridianautoparts.zendesk.com
-metamask.zendesk.com
 metronetinc.zendesk.com
 meundies.zendesk.com
 mexc.zendesk.com
@@ -252157,7 +252126,6 @@ img.rewe-static.de
 www.rezeptwelt.de
 www.rheinpfalz.de
 www.rhein-zeitung.de
-polizei.rlp.de
 www.rmv.de
 www.rnaworld.de
 account.rnd.de
@@ -252559,7 +252527,6 @@ api.toom.de
 static.toom.de
 www.top10berlin.de
 www.torwart.de
-www.tourismus-bw.de
 www.tradegate.de
 www.traktorpool.de
 data-1c0a3d83e3.transfermarkt.de
@@ -252593,7 +252560,6 @@ hrz.tu-chemnitz.de
 www-user.tu-chemnitz.de
 seemoo.tu-darmstadt.de
 tpe.seemoo.tu-darmstadt.de
-cs.tu-dortmund.de
 logic-in.cs.tu-dortmund.de
 itmc.tu-dortmund.de
 rz.tu-harburg.de
@@ -252824,7 +252790,6 @@ www.visaton.de
 www.vistaprint.de
 www.vitafy.de
 shop.vitaminwelten.de
-www.vladi-private-islands.de
 at.vodafone.de
 beta.vodafone.de
 dyn.vodafone.de
@@ -256728,7 +256693,6 @@ meted.ucar.edu
 rap.ucar.edu
 weather.rap.ucar.edu
 scied.ucar.edu
-www.ucar.edu
 repo.uccs.edu
 canvas.ucdavis.edu
 cas.ucdavis.edu
@@ -258468,7 +258432,6 @@ www.norauto.es
 www.notino.es
 www.nuevatribuna.es
 www.nuroa.es
-www.ojd.es
 aes.orange.es
 escudo.orange.es
 orangetv.orange.es
@@ -258556,10 +258519,8 @@ img.tmstor.es
 www.tomaticket.es
 www.topdoctors.es
 www.topgear.es
-www.toyota.es
 www.toysrus.es
 www.transfermarkt.es
-www.trasmediterranea.es
 media.traveler.es
 www.trivago.es
 www.tvguia.es
@@ -259135,7 +259096,6 @@ kampanja.telia.fi
 www.telia.fi
 www.tjareborg.fi
 api.tori.fi
-www.toyota.fi
 www.ts.fi
 www.voice.fi
 login.api.yle.fi
@@ -261825,7 +261785,6 @@ serg-hub4-a.house.gov
 serg-hub4-h.house.gov
 steube.house.gov
 tiffany.house.gov
-turner.house.gov
 us.house.gov
 uscode.house.gov
 wwwcl.house.gov
@@ -273990,7 +273949,6 @@ laprovinciapavese.gelocal.it
 mattinopadova.gelocal.it
 nuovavenezia.gelocal.it
 tribunatreviso.gelocal.it
-www.giornaledibrescia.it
 www.giroditalia.it
 padova.giustizia.it
 tribunale.padova.giustizia.it
@@ -274921,7 +274879,6 @@ secure.nissanchem.co.jp
 www.nissanchem.co.jp
 nisshinbo.co.jp
 www.nisshinbo.co.jp
-nissui.co.jp
 search.nissui.co.jp
 www.nissui.co.jp
 nittetsukou.co.jp
@@ -274946,7 +274903,6 @@ r02-admin.optim.co.jp
 rsv.orc-air.co.jp
 beauty.oricon.co.jp
 book.oricon.co.jp
-career.oricon.co.jp
 juken.oricon.co.jp
 life.oricon.co.jp
 www.oricon.co.jp
@@ -275265,8 +275221,6 @@ tstech.co.jp
 www.tstech.co.jp
 tsuchiya.co.jp
 www.tsuchiya.co.jp
-tsudakoma.co.jp
-www.tsudakoma.co.jp
 tsugami.co.jp
 tsukamoto.co.jp
 www.tsukamoto.co.jp
@@ -361150,7 +361104,6 @@ us-central-1.terrahost.no
 s3.us-central-1.terrahost.no
 blb.s3.us-central-1.terrahost.no
 www.tk.no
-www.toyota.no
 www.tu.no
 cdn.tv2.no
 sumo.cdn.tv2.no
@@ -368190,6 +368143,8 @@ ea5gvk.duckdns.org
 edxtdtekqy.duckdns.org
 enode.duckdns.org
 etlbkodbaw.duckdns.org
+free-pay404.duckdns.org
+mail.free-pay404.duckdns.org
 gbmansion.duckdns.org
 jtghjcbkvy.duckdns.org
 kc1noc.duckdns.org
@@ -372570,7 +372525,6 @@ onlinepubs.trb.org
 trid.trb.org
 www.trb.org
 powerbox-sf.trend.org
-www.triathlon.org
 www.trinityhealth.org
 connect.trinity-health.org
 at3.connect.trinity-health.org
@@ -372614,7 +372568,6 @@ ria-ru.turbopages.org
 russian-rt-com.turbopages.org
 tass-ru.turbopages.org
 translated.turbopages.org
-www.turismotorino.org
 www.turkedebiyati.org
 archive.turnkeylinux.org
 act.turnoutpac.org
@@ -375166,7 +375119,6 @@ oculosworld.com.pt
 www.oculosworld.com.pt
 somincor.com.pt
 www.somincor.com.pt
-tugatech.com.pt
 newslettercartao.continente.pt
 static.continente.pt
 api.cp.pt
@@ -381992,7 +381944,6 @@ cache.caast.tv
 cdn.caast.tv
 assets.caffeine.tv
 events.caffeine.tv
-payments.caffeine.tv
 permanent-crawler-render.caffeine.tv
 fremontv2.rtcdn.caffeine.tv
 snappy-images.caffeine.tv
@@ -384436,7 +384387,6 @@ www.tuco.ac.uk
 tynecoast.ac.uk
 tynemet.ac.uk
 www.tynemet.ac.uk
-www.uca.ac.uk
 ucb.ac.uk
 www.ucb.ac.uk
 ucenmanchester.ac.uk
@@ -389496,7 +389446,6 @@ support.myhermes.co.uk
 www.myhermes.co.uk
 mykaplan.co.uk
 learn.mykaplan.co.uk
-mylocaltoolbox.co.uk
 mymaths.co.uk
 app.mymaths.co.uk
 login.mymaths.co.uk
@@ -391528,7 +391477,6 @@ www.top-service.co.uk
 torbayseaschool.co.uk
 tortillaclub.co.uk
 news.tortillaclub.co.uk
-toshiba.co.uk
 www.toshiba.co.uk
 toshibatec.co.uk
 www.toshibatec.co.uk
@@ -391708,7 +391656,6 @@ email.travelrepublic.co.uk
 click.email.travelrepublic.co.uk
 image.email.travelrepublic.co.uk
 www.travelrepublic.co.uk
-www.travelsphere.co.uk
 jobs.travelweekly.co.uk
 travel-solutions.co.uk
 www.travel-solutions.co.uk
@@ -391778,8 +391725,6 @@ www.trifibre.co.uk
 triflex.co.uk
 www.triflex.co.uk
 trinityeventsolutions.co.uk
-trinityhomecare.co.uk
-www.trinityhomecare.co.uk
 trinityhospice.co.uk
 www.trinityhospice.co.uk
 www.triodos.co.uk
@@ -391934,7 +391879,6 @@ news.twentyci.co.uk
 www.twentyci.co.uk
 twentyfourit.co.uk
 www.twentyfourit.co.uk
-twinings.co.uk
 twinkl.co.uk
 content.twinkl.co.uk
 images.twinkl.co.uk
@@ -391969,8 +391913,6 @@ www.tyrepros.co.uk
 tyresnorthwales.co.uk
 tyretracks.co.uk
 www.tyretracks.co.uk
-tyre-shopper.co.uk
-www.tyre-shopper.co.uk
 tyrrellprocter.co.uk
 www.tyrrellprocter.co.uk
 tyrrellscrisps.co.uk
@@ -391989,9 +391931,6 @@ a1.uberns.co.uk
 ubiltd.co.uk
 ubiquitygroup.co.uk
 ubteam.co.uk
-www.ucb.co.uk
-ucc-coffee.co.uk
-www.ucc-coffee.co.uk
 uchlogistics.co.uk
 ufi.co.uk
 uheat.co.uk
@@ -392574,7 +392513,6 @@ www.vitafoam.co.uk
 vitagrace.co.uk
 vital.co.uk
 www.vital.co.uk
-www.vitalenergi.co.uk
 vitaleurope.co.uk
 www.vitaleurope.co.uk
 forums.vitalfootball.co.uk
@@ -393249,7 +393187,6 @@ ofsted.gov.uk
 reports.ofsted.gov.uk
 ofwat.gov.uk
 www.ofwat.gov.uk
-www.oldham.gov.uk
 cdn.ons.gov.uk
 surveys.ons.gov.uk
 orr.gov.uk
