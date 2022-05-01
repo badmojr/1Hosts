@@ -6010,7 +6010,6 @@ selo.compreconfie.com.br
 compreeconfie.com.br
 selo.compreeconfie.com.br
 comquatro.com.br
-comunidadefeitto.com.br
 conductor.com.br
 confianca.com.br
 www.confianca.com.br
@@ -9446,7 +9445,6 @@ medavie.bluecross.ca
 vpn.medavie.bluecross.ca
 pac.bluecross.ca
 service.pac.bluecross.ca
-www.bmw.ca
 api.bnc.ca
 api2.bnc.ca
 apix.bnc.ca
@@ -16760,6 +16758,7 @@ paywall.fewcents.co
 www.flashrewards.co
 d.flashscore.co
 ipfs.fleek.co
+storageapi.fleek.co
 www.flowid.co
 image.fnbr.co
 translate.fnbr.co
@@ -24293,7 +24292,6 @@ hr.airbnb.com
 internal.airbnb.com
 it.airbnb.com
 news.airbnb.com
-one.airbnb.com
 one-next.airbnb.com
 ru.airbnb.com
 th.airbnb.com
@@ -71068,7 +71066,6 @@ auth-id.chiefs.com
 e.chiefs.com
 app.e.chiefs.com
 images.e.chiefs.com
-shop.chiefs.com
 www.chieftain.com
 www.chien.com
 chvpn.chiesi.com
@@ -80536,7 +80533,6 @@ www.darientimes.com
 www.darivoa.com
 cdn.darkhorizons.com
 www.darkhorizons.com
-www.darkhorse.com
 beta.darkreading.com
 c.darkreading.com
 cbg-chfw.darktrace.com
@@ -82540,7 +82536,6 @@ wifi.delta.com
 www.deltacargo.com
 em.deltaco.com
 dl.em.deltaco.com
-www.deltaco.com
 ob.deltacommunitycu.com
 www.deltacomputersystems.com
 identity.deltadental.com
@@ -89785,7 +89780,6 @@ portalam.eaton.com
 powerquality.eaton.com
 pqsoftware.eaton.com
 shop.eaton.com
-www.eatpdq.com
 e.eatstreet.com
 static.eatstreet.com
 images.eatthismuch.com
@@ -109327,7 +109321,6 @@ s7.gifyu.com
 download.gigabyte.com
 mb.download.gigabyte.com
 www.gigacalculator.com
-community.gigamon.com
 www.gigamon.com
 cdn.gigapromo.com
 www.gigapromo.com
@@ -130281,7 +130274,6 @@ embed.imajize.com
 www.imamother.com
 static.imax.com
 downloads.imazing.com
-www.imba.com
 cdnstatic.imctransfer.com
 3fadf2433-frontier.imdb.com
 tp.3fadf2433-frontier.imdb.com
@@ -136246,7 +136238,6 @@ saml-or.jamacloud.com
 www.jamaicaobserver.com
 www.jamaicavillas.com
 old.jamaica-gleaner.com
-www.jamaica-gleaner.com
 static.jamalon.com
 alerts.jamanetwork.com
 click.alerts.jamanetwork.com
@@ -139803,7 +139794,6 @@ smtp1.kerrylogistics.com
 smtp2.kerrylogistics.com
 smtp3.kerrylogistics.com
 www.kerrylogistics.com
-www.kesq.com
 www.ketelone.com
 widget-cdn.ketshwa.com
 sli.ketv.com
@@ -141217,7 +141207,6 @@ www.kttc.com
 livevideo01.ktvb.com
 media.ktvb.com
 ywrcqa.ktvb.com
-www.ktvn.com
 api.ktvu.com
 static.ktvu.com
 events.ktvz.com
@@ -149624,7 +149613,6 @@ api.magicbricks.com
 ingestor.magicbricks.com
 api.magicjack.com
 waf-east-1.magicjack.com
-www.magicjack.com
 www.magicmaman.com
 loops.magicspoon.com
 trk.magicspoon.com
@@ -150793,7 +150781,6 @@ bwums1.masergy.com
 bwums2.masergy.com
 bwuss.masergy.com
 im.masergy.com
-my.masergy.com
 ucbcxsi.masergy.com
 www.masergy.com
 helios-i.mashable.com
@@ -158576,6 +158563,7 @@ www.moonvalleynurseries.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
+xred.mooo.com
 mail.moosejaw.com
 links.mail.moosejaw.com
 cdn-editor.moosend.com
@@ -163728,7 +163716,6 @@ lms.netacad.com
 xapims.netacad.com
 classic.netaddress.com
 www.netaddress.com
-www.netafim.com
 autodiscover.netapp.com
 b2c.netapp.com
 signin.b2c.netapp.com
@@ -179774,7 +179761,6 @@ www.patriotledger.com
 www.patriotnewsalerts.com
 auth-id.patriots.com
 info.patriots.com
-proshop.patriots.com
 www.patrisnews.com
 www.patrol4x4.com
 www.patsfans.com
@@ -187096,7 +187082,6 @@ view.protectedpdf.com
 www.protectedtext.com
 app.protectedtrust.com
 ws.protectedtrust.com
-ficafe.protective.com
 virtualagent.protective.com
 webui.virtualagent.protective.com
 assets.prothomalo.com
@@ -197164,7 +197149,6 @@ europe.ryder.com
 rscs.ryder.com
 ryderonline.ryder.com
 rydmz-mft-prd.ryder.com
-usedtrucks.ryder.com
 www.usedtrucks.ryder.com
 api.rydoo.com
 app.rydoo.com
@@ -205035,7 +205019,6 @@ smtp6.servconfig.com
 secure.serve.com
 ui.serve.com
 www.servedfromscratch.com
-verifynowcq.servehttp.com
 mail.servemanager.com
 click.mail.servemanager.com
 www.servemanager.com
@@ -238610,7 +238593,6 @@ assets.locations.waxcenter.com
 maps.locations.waxcenter.com
 rstatic.locations.waxcenter.com
 reservations.waxcenter.com
-www.waxcenter.com
 info.waxie.com
 shop.waxie.com
 www.waxie.com
@@ -272864,7 +272846,6 @@ www.stadiumgaming.gg
 assets.swgoh.gg
 game-assets.swgoh.gg
 www.thespike.gg
-ampltd.top.gg
 api.top.gg
 www.torrent9.gg
 account.tracker.gg
@@ -280827,7 +280808,6 @@ ns7.nic.in
 presidentofindia.nic.in
 samp-relay.nic.in
 sconnect.nic.in
-ssc.nic.in
 vahan.nic.in
 cdn.nlpcaptcha.in
 cube.nlpcaptcha.in
@@ -294076,8 +294056,6 @@ www.ulbrinox.com.mx
 underarmour.com.mx
 www.underarmour.com.mx
 undostres.com.mx
-unileverfoodsolutions.com.mx
-www.unileverfoodsolutions.com.mx
 valdezwoodward.com.mx
 www.valdezwoodward.com.mx
 vallen.com.mx
@@ -296675,6 +296653,7 @@ vipregular1.263.net
 msg.2iij.net
 img.2kdb.net
 www.2kspecialist.net
+s0qa.2mdn.net
 gateway.2wire.net
 cdn1.360cities.net
 video.360cities.net
@@ -378366,7 +378345,6 @@ static.ccel.org
 www.ccel.org
 portals.ccf.org
 vpn.ccf.org
-www.ccf.org
 cclinkproviderportal.cchealth.org
 ceproxy.cchealth.org
 hswprddmz.cchealth.org
@@ -380049,7 +380027,6 @@ portal.etsi.org
 uri.etsi.org
 www.etsi.org
 1433.eu.org
-dns.1433.eu.org
 eternalcraft.eu.org
 c.eternalcraft.eu.org
 galaxie.eu.org
@@ -388824,6 +388801,7 @@ finance.rambler.ru
 imap.rambler.ru
 inmx.rambler.ru
 wapi.kassa.rambler.ru
+nova.rambler.ru
 peroxide.rambler.ru
 prime.rambler.ru
 quiz.rambler.ru
@@ -395725,7 +395703,6 @@ allinlondon.co.uk
 www.allinlondon.co.uk
 allocate-cloud.co.uk
 alloga.co.uk
-alloutdoor.co.uk
 www.alloutdoor.co.uk
 web.allsop.co.uk
 www.allsop.co.uk
@@ -398105,7 +398082,6 @@ betterflow.coursepro.co.uk
 courseprogress.co.uk
 coventry2021.co.uk
 www.coventrybuildingsociety.co.uk
-www.covermy.co.uk
 coverwise.co.uk
 www.coverwise.co.uk
 covid19vaccinetrial.co.uk
@@ -399268,7 +399244,6 @@ email.gailsbread.co.uk
 order.gailsbread.co.uk
 gak.co.uk
 www.gak.co.uk
-www.galaxychocolate.co.uk
 gallifordtry.co.uk
 www.gallifordtry.co.uk
 www.gambleaware.co.uk
@@ -399991,8 +399966,6 @@ www.iceland.co.uk
 icelandemail.co.uk
 click.icelandemail.co.uk
 image.icelandemail.co.uk
-iconattheo2.co.uk
-www.iconattheo2.co.uk
 icslearn.co.uk
 www.icslearn.co.uk
 idealfile.co.uk
@@ -403716,7 +403689,6 @@ mx.tiscali.co.uk
 oxmail.tiscali.co.uk
 pop.tiscali.co.uk
 smtp.tiscali.co.uk
-www.titantravel.co.uk
 www.titleist.co.uk
 tjc.co.uk
 www.tjc.co.uk
@@ -404114,7 +404086,6 @@ jp2.uuv2.co.uk
 kr2.uuv2.co.uk
 kr3.uuv2.co.uk
 uw.co.uk
-u-k-insurance.co.uk
 vacancy-filler.co.uk
 app.vacancy-filler.co.uk
 new-smart-feed.vacancy-filler.co.uk
@@ -405842,7 +405813,6 @@ www.historicengland.org.uk
 historyworkshop.org.uk
 www.historyworkshop.org.uk
 www.hmd.org.uk
-holocausteducation.org.uk
 homeconnections.org.uk
 homegroup.org.uk
 homesengland.org.uk
@@ -413171,7 +413141,6 @@ cars-a.co.za
 carterstravel.co.za
 cesnet.co.za
 rs.cesnet.co.za
-www.channel24.co.za
 www.checkers.co.za
 chefsdepot.co.za
 chempure.co.za
