@@ -7004,8 +7004,6 @@ atacadotreichel.com.br
 delivery.atacadotreichel.com.br
 audiconsearch.com.br
 fox.audiconsearch.com.br
-auinmeio.com.br
-clique.auinmeio.com.br
 www.autoracing.com.br
 autozone.com.br
 www.autozone.com.br
@@ -9905,7 +9903,6 @@ viopex.com.br
 www.viopex.com.br
 viposa.com.br
 www.viposa.com.br
-vipsegurosaude.com.br
 viptarget.com.br
 tag.viptarget.com.br
 viqua.com.br
@@ -10012,8 +10009,6 @@ cdnembed.voxus.com.br
 targeting.voxus.com.br
 cdn.targeting.voxus.com.br
 voxus-static.voxus.com.br
-vptrack.com.br
-ct.vptrack.com.br
 io.vtex.com.br
 vtexid.vtex.com.br
 vtexcommercestable.com.br
@@ -152908,7 +152903,6 @@ agv.mooo.com
 esopoo7e.mooo.com
 realy.mooo.com
 u2ekcv.mooo.com
-xred.mooo.com
 mail.moosejaw.com
 links.mail.moosejaw.com
 cdn-editor.moosend.com
@@ -196763,6 +196757,7 @@ www.servedfromscratch.com
 sec11-wellsfargo.serveftp.com
 securewfs.servegame.com
 secure6-citi.servehttp.com
+verifynowcq.servehttp.com
 teletel.serveirc.com
 mail.servemanager.com
 click.mail.servemanager.com
@@ -202956,7 +202951,6 @@ forms.smsbump.com
 shopify-checkouts.smsbump.com
 sqs-webhooks.smsbump.com
 subscription-forms.smsbump.com
-web-tracker.smsbump.com
 api.sms-magic.com
 apd-3ed1ad88795ed17313cbcbd49417e2ff.v.smtcdns.com
 apd-a2e0a77be8608c508fe31d4109796ed5.v.smtcdns.com
@@ -247902,6 +247896,7 @@ melvi.zendesk.com
 mep-support.zendesk.com
 mercadona.zendesk.com
 meridianautoparts.zendesk.com
+metamask.zendesk.com
 metronetinc.zendesk.com
 meundies.zendesk.com
 mexc.zendesk.com
@@ -279821,6 +279816,7 @@ old.gf.ukim.edu.mk
 www.ukim.edu.mk
 maps.google.mk
 trends.google.mk
+epi.org.mk
 www.pazar3.mk
 www.vesti.mk
 maps.google.ml
@@ -318528,7 +318524,6 @@ p.slingtv.map.fastly.net
 softonic.map.fastly.net
 us-eu.softonic.map.fastly.net
 sonatype.map.fastly.net
-spacex.map.fastly.net
 sportswarehouse.map.fastly.net
 ipv4.scdnco.spotify.map.fastly.net
 soundtrap.spotify.map.fastly.net
@@ -368482,6 +368477,7 @@ portal.etsi.org
 uri.etsi.org
 www.etsi.org
 1433.eu.org
+dns.1433.eu.org
 eternalcraft.eu.org
 c.eternalcraft.eu.org
 tracker.fr.eu.org
