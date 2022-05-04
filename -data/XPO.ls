@@ -15352,10 +15352,8 @@ e.edim.co
 ph.edim.co
 u.ph.edim.co
 colegiocristianoberaca.edu.co
-coljosemaria.edu.co
 ibero.edu.co
 arete.ibero.edu.co
-ielparaiso.edu.co
 konradlorenz.edu.co
 virtual.konradlorenz.edu.co
 marymountbq.edu.co
@@ -16308,11 +16306,8 @@ order.ritual.co
 ra.ritual.co
 assets.ro.co
 iframe.ro.co
-login.ro.co
-my.ro.co
 notifications.ro.co
 ablink.notifications.ro.co
-start.ro.co
 media.rocketreach.co
 plugin.rocketreach.co
 portal-debuglogger-rushbet.rushbet.co
@@ -171763,7 +171758,6 @@ idcsprod.us-phoenix-idcs-3.idcs.prod.oraclecloud.com.us-phoenix-idcs-3.oracleclo
 aaaaaaaazhl7hfdgch6jj5oh64gla3hqdwbwht7fvcwkdmx2fzdz3zribfua.idcsprod.us-phoenix-idcs-3.idcs.prod.oraclecloud.com.us-phoenix-idcs-3.oraclecloud.com
 dp.aaaaaaaazhl7hfdgch6jj5oh64gla3hqdwbwht7fvcwkdmx2fzdz3zribfua.idcsprod.us-phoenix-idcs-3.idcs.prod.oraclecloud.com.us-phoenix-idcs-3.oraclecloud.com
 us-sanjose-1.oraclecloud.com
-objectstorage.us-sanjose-1.oraclecloud.com
 us-ashburn-1.oraclecloudapps.com
 adb.us-ashburn-1.oraclecloudapps.com
 jira.oraclecorp.com
@@ -352806,7 +352800,6 @@ encryption.redcondor.net
 www.redeszone.net
 bankofamerica42.redirectme.net
 bofarestoreserve.redirectme.net
-chseaslogonmein.redirectme.net
 cdn.reflected.net
 com.cdn.reflected.net
 cdnhost2000xl.com.cdn.reflected.net
@@ -391792,6 +391785,17 @@ mobile.olx.tools
 notes.traction.tools
 p.1ts11.top
 sci-hub.mksa.top
+1080p.xvideos-dl.top
+ab.xvideos-dl.top
+av.xvideos-dl.top
+cn.xvideos-dl.top
+de.xvideos-dl.top
+en.xvideos-dl.top
+es.xvideos-dl.top
+jp.xvideos-dl.top
+kr.xvideos-dl.top
+ru.xvideos-dl.top
+th.xvideos-dl.top
 api.gather.town
 app.gather.town
 cdn.gather.town
@@ -406665,6 +406669,7 @@ zalo-file-dl17.zdn.vn
 zalo-file-dl2.zdn.vn
 zalo-file-dl3.zdn.vn
 zalo-file-dl9.zdn.vn
+zalo-file-doc10.zdn.vn
 zalo-file-doc15.zdn.vn
 zalo-file-doc20.zdn.vn
 zalo-file-doc5.zdn.vn
