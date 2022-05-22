@@ -2,7 +2,7 @@ name: CI - updates
 'on':
   workflow_dispatch:
   schedule:
-    - cron: 5 16,2 * * *
+    - cron: 5 15,2 * * *
     
 jobs:
   init:
