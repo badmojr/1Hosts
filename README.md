@@ -525,10 +525,11 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a> <br>
 </p>
 
-<p align="center"><strong>Client DNSes:</strong> <br>
-  <a href="https://rethinkdns.com">RethinkDNS</a> . 
-  <a href="https://my.nextdns.io/start">NextDNS</a> .
-  <a href="https://blitz.ahadns.com/">AhaDNS</a>
+<p align="center"><strong>Client DNS:</strong> <br>
+  <a href="https://my.nextdns.io/start">NextDNS</a> . 
+  <a href="https://controld.com/">ControlD</a> . 
+  <a href="https://blitz.ahadns.com/">AhaDNS</a> . 
+  <a href="https://rethinkdns.com">RethinkDNS</a>
 </p>
 
 <p align="center"><strong>users. fans. mentions.</strong> <br>
