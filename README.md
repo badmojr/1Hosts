@@ -507,11 +507,33 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 **Use these free dns resolvers to immediately start using 1Hosts.**<br>
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
-|Name|IPv4|IPv6|DNS-over-HTTPS|DNS-over-TLS|
-|--- |--- |--- |--- |--- |
-|1Hosts (Lite)|76.76.2.38 76.76.10.38|2606:1a40::38 2606:1a40:1::38|https://freedns.controld.com/x-1hosts-lite|x-1hosts-lite.freedns.controld.com|
-|1Hosts (Pro)|76.76.2.39 76.76.10.39|2606:1a40::39 2606:1a40:1::39|https://freedns.controld.com/x-1hosts-pro|x-1hosts-pro.freedns.controld.com|
-
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>IPv4</th>
+<th>IPv6</th>
+<th>DNS-over-HTTPS</th>
+<th>DNS-over-TLS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (Lite)</td>
+<td>76.76.2.38 76.76.10.38</td>
+<td>2606:1a40::38 2606:1a40:1::38</td>
+<td><a href="https://freedns.controld.com/x-1hosts-lite">https://freedns.controld.com/x-1hosts-lite</a></td>
+<td>x-1hosts-lite.freedns.controld.com</td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td>76.76.2.39 76.76.10.39</td>
+<td>2606:1a40::39 2606:1a40:1::39</td>
+<td><a href="https://freedns.controld.com/x-1hosts-pro">https://freedns.controld.com/x-1hosts-pro</a></td>
+<td>x-1hosts-pro.freedns.controld.com</td>
+</tr>
+</tbody>
+</table>
 <br>
 
 <strong><em>nextDNS: </em></strong>
@@ -522,22 +544,63 @@ Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
 
 <a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
 updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
-|Name|DNS-over-HTTPS|
-|--- |--- |
-|1Hosts (Lite)|https://blitz.ahadns.com/1:4|
-|1Hosts (Pro)|https://blitz.ahadns.com/1:5|
-|1Hosts (Xtra)|https://blitz.ahadns.com/1:5|
-
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>DNS-over-HTTPS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (Lite)</td>
+<td><a href="https://blitz.ahadns.com/1:4">https://blitz.ahadns.com/1:4</a></td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+</tr>
+<tr>
+<td>1Hosts (Xtra)</td>
+<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 <a href="https://rethinkdns.com"><strong><em>RethinkDNS: </em></strong></a>
 Infrequent updates; no support for subdomain/wildcard & CNAME blocking; unlimited queries.<br>
-|Name|DNS-over-HTTPS|DNS-over-TLS|
-|--- |--- |--- |
-|1Hosts (mini)|https://basic.rethinkdns.com/1:AAQBAA==|1-aacacaa.max.rethinkdns.com|
-|1Hosts (Lite)|https://basic.rethinkdns.com/1:AAQCAA==|1-aacaeaa.max.rethinkdns.com|
-|1Hosts (Pro)|https://basic.rethinkdns.com/1:AAIAgA==|1-aababaa.max.rethinkdns.com|
-|1Hosts (Xtra)|https://basic.rethinkdns.com/1:IAAQAA==|1-eaabaaa.max.rethinkdns.com|
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>DNS-over-HTTPS</th>
+<th>DNS-over-TLS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (mini)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAQBAA==">https://basic.rethinkdns.com/1:AAQBAA==</a></td>
+<td>1-aacacaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Lite)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAQCAA==">https://basic.rethinkdns.com/1:AAQCAA==</a></td>
+<td>1-aacaeaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAIAgA==">https://basic.rethinkdns.com/1:AAIAgA==</a></td>
+<td>1-aababaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Xtra)</td>
+<td><a href="https://basic.rethinkdns.com/1:IAAQAA==">https://basic.rethinkdns.com/1:IAAQAA==</a></td>
+<td>1-eaabaaa.max.rethinkdns.com</td>
+</tr>
+</tbody>
+</table>
 
 
 <br>
