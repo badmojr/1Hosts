@@ -501,7 +501,43 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
-- ***Pro*** still not enough? Use **Xtra**.<br>
+- ***Pro*** still not enough? Use **Xtra**.<br><br>
+ 
+**Use these free dns resolvers to immediately start using 1Hosts.**<br>
+**_ControlD_**<br>
+updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
+|Name|IPv4|IPv6|DNS-over-HTTPS|DNS-over-TLS|
+|--- |--- |--- |--- |--- |
+|1Hosts (Lite)|76.76.2.38 76.76.10.38|2606:1a40::38 2606:1a40:1::38|https://freedns.controld.com/x-1hosts-lite|x-1hosts-lite.freedns.controld.com|
+|1Hosts (Pro)|76.76.2.39 76.76.10.39|2606:1a40::39 2606:1a40:1::39|https://freedns.controld.com/x-1hosts-pro|x-1hosts-pro.freedns.controld.com|
+
+<br>
+ 
+**_nextDNS_**<br>
+updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
+Click here.
+
+<br>
+ 
+**_AhaDNS Blitz_**<br>
+updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
+|Name|DNS-over-HTTPS|
+|--- |--- |
+|1Hosts (Lite)|https://blitz.ahadns.com/1:4|
+|1Hosts (Pro)|https://blitz.ahadns.com/1:5|
+
+<br>
+ 
+**_RethinkDNS_**<br>
+Infrequent updates; no support for subdomain/wildcard & CNAME blocking; unlimited queries.<br>
+|Name|DNS-over-HTTPS|DNS-over-TLS|
+|--- |--- |--- |
+|1Hosts (mini)|https://basic.rethinkdns.com/1:AAQBAA==|1-aacacaa.max.rethinkdns.com|
+|1Hosts (Lite)|https://basic.rethinkdns.com/1:AAQCAA==|1-aacaeaa.max.rethinkdns.com|
+|1Hosts (Pro)|https://basic.rethinkdns.com/1:AAIAgA==|1-aababaa.max.rethinkdns.com|
+|1Hosts (Xtra)|https://basic.rethinkdns.com/1:IAAQAA==|1-eaabaaa.max.rethinkdns.com|
+
+
 <br>
 <br>
 <p align="center"><strong>Credits & ©:</strong> <br>
@@ -525,13 +561,6 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a> <br>
 </p>
 
-<p align="center"><strong>Client DNS:</strong> <br>
-  <a href="https://my.nextdns.io/start">NextDNS</a> . 
-  <a href="https://controld.com/">ControlD</a> . 
-  <a href="https://blitz.ahadns.com/">AhaDNS</a> . 
-  <a href="https://rethinkdns.com">RethinkDNS</a>
-</p>
-
 <p align="center"><strong>users. fans. mentions.</strong> <br>
 <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
@@ -540,8 +569,9 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
 </p>
 
-**Join us today!**
 ----------------
-<ul>
-  <li><a href="https://t.me/one_hosts">t.me/one_hosts</a></li>
-</ul>
+<p>
+<a href="https://www.patreon.com/join/badmojr/"><img src="./-data/static/img/patron.png" title="Become a patron"></a>
+&nbsp;
+<a href="https://t.me/one_hosts"><img src="./-data/static/img/tg.png" title="Join us on Telegram"></a>
+</p>
