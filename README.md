@@ -516,7 +516,7 @@ updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited quer
 
 <strong><em>nextDNS: </em></strong>
 updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
-Click <a href="https://my.nextdns.io/start">here</a>.
+Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
 
 <br>
 
