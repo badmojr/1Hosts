@@ -503,8 +503,9 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
 - ***Pro*** still not enough? Use **Xtra**.<br><br>
  
+ 
 **Use these free dns resolvers to immediately start using 1Hosts.**<br>
-**_ControlD_**<br>
+<a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 |Name|IPv4|IPv6|DNS-over-HTTPS|DNS-over-TLS|
 |--- |--- |--- |--- |--- |
@@ -512,23 +513,24 @@ updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited quer
 |1Hosts (Pro)|76.76.2.39 76.76.10.39|2606:1a40::39 2606:1a40:1::39|https://freedns.controld.com/x-1hosts-pro|x-1hosts-pro.freedns.controld.com|
 
 <br>
- 
-**_nextDNS_**<br>
+
+<strong><em>nextDNS: </em></strong>
 updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
-Click here.
+Click <a href="https://my.nextdns.io/start">here</a>.
 
 <br>
- 
-**_AhaDNS Blitz_**<br>
+
+<a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
 updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
 |Name|DNS-over-HTTPS|
 |--- |--- |
 |1Hosts (Lite)|https://blitz.ahadns.com/1:4|
 |1Hosts (Pro)|https://blitz.ahadns.com/1:5|
+|1Hosts (Xtra)|https://blitz.ahadns.com/1:5|
 
 <br>
- 
-**_RethinkDNS_**<br>
+
+<a href="https://rethinkdns.com"><strong><em>RethinkDNS: </em></strong></a>
 Infrequent updates; no support for subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 |Name|DNS-over-HTTPS|DNS-over-TLS|
 |--- |--- |--- |
