@@ -32,7 +32,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole. OpenSnitch</td>
+<td>Pi-hole . OpenSnitch</td>
 <td><a href="https://o0.pages.dev/mini/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/mini/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/mini/domains.txt">view</a></td>
@@ -153,7 +153,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole. OpenSnitch</td>
+<td>Pi-hole . OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Lite/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Lite/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Lite/domains.txt">view</a></td>
@@ -274,7 +274,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole. OpenSnitch</td>
+<td>Pi-hole . OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Pro/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Pro/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Pro/domains.txt">view</a></td>
@@ -395,7 +395,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole. OpenSnitch</td>
+<td>Pi-hole . OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Xtra/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Xtra/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.txt">view</a></td>
