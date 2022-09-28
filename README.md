@@ -32,7 +32,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole</td>
+<td>Pi-hole. OpenSnitch</td>
 <td><a href="https://o0.pages.dev/mini/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/mini/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/mini/domains.txt">view</a></td>
@@ -153,7 +153,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole</td>
+<td>Pi-hole. OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Lite/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Lite/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Lite/domains.txt">view</a></td>
@@ -274,7 +274,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole</td>
+<td>Pi-hole. OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Pro/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Pro/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Pro/domains.txt">view</a></td>
@@ -395,7 +395,7 @@
 <td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.txt">view</a></td>
 </tr>
 <tr>
-<td>Pi-hole</td>
+<td>Pi-hole. OpenSnitch</td>
 <td><a href="https://o0.pages.dev/Xtra/domains.txt">view</a></td>
 <td><a href="https://badmojr.gitlab.io/1hosts/Xtra/domains.txt">view</a></td>
 <td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.txt">view</a></td>
@@ -504,7 +504,7 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 - ***Pro*** still not enough? Use **Xtra**.<br><br>
  
  
-**Use these free dns resolvers to immediately start using 1Hosts.**<br>
+**Use these free DNS resolvers to immediately start using 1Hosts.**<br>
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 <table>
@@ -619,6 +619,7 @@ Infrequent updates; no support for subdomain/wildcard blocking; supports CNAME b
 <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a> <br>
 <a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a> <br>
 <a href="https://adguard.com/en/adguard-home/overview.html?aid=31921">AdGuardHome</a> <br>
+<a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a> <br>
 <a href="https://knot-resolver.cz/">Knot</a> <br>
 <a href="https://www.isc.org/bind/">Bind9</a> <br>
 <a href="https://www.powerdns.com/recursor.html">PowerDNS</a> <br>
