@@ -542,34 +542,8 @@ Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
 
 <br>
 
-<a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
-updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>DNS-over-HTTPS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1Hosts (Lite)</td>
-<td><a href="https://blitz.ahadns.com/1:4">https://blitz.ahadns.com/1:4</a></td>
-</tr>
-<tr>
-<td>1Hosts (Pro)</td>
-<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
-</tr>
-<tr>
-<td>1Hosts (Xtra)</td>
-<td><a href="https://blitz.ahadns.com/1:6">https://blitz.ahadns.com/1:6</a></td>
-</tr>
-</tbody>
-</table>
-<br>
-
 <a href="https://rethinkdns.com"><strong><em>RethinkDNS: </em></strong></a>
-Infrequent updates; no support for subdomain/wildcard blocking; supports CNAME blocking; unlimited queries.<br>
+updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries; open-source.<br>
 <table>
 <thead>
 <tr>
@@ -601,7 +575,32 @@ Infrequent updates; no support for subdomain/wildcard blocking; supports CNAME b
 </tr>
 </tbody>
 </table>
+<br>
 
+<a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
+updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>DNS-over-HTTPS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (Lite)</td>
+<td><a href="https://blitz.ahadns.com/1:4">https://blitz.ahadns.com/1:4</a></td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+</tr>
+<tr>
+<td>1Hosts (Xtra)</td>
+<td><a href="https://blitz.ahadns.com/1:6">https://blitz.ahadns.com/1:6</a></td>
+</tr>
+</tbody>
+</table>
 
 <br>
 <br>
