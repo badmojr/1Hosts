@@ -10,14 +10,14 @@ on:
      - 'Lite/**'
      - 'Pro/**'
      - 'Xtra/**'
-    
+
 jobs:
   create_release:
     runs-on: ubuntu-latest
 
     steps:
       - name: Clone Repo
-        uses: "actions/checkout@v2.3.4"
+        uses: "actions/checkout@v4"
         with:
           ref: ${{ github.head_ref }}
 
@@ -51,6 +51,6 @@ jobs:
         uses: dev-drprasad/delete-older-releases@v0.1.0
         with:
           keep_latest: 1
-          delete_tags: true 
+          delete_tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

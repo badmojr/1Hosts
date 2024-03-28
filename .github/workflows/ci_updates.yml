@@ -3,19 +3,19 @@ name: CI
   workflow_dispatch:
   schedule:
     - cron: 5 2 * * *
-    
+
 jobs:
   init:
     runs-on: ubuntu-20.04
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Prep submit_here
         run: |
           (
           export LC_ALL=C
           umask 022
-          
+
           prints() { sed -e '$a\' "$@"; }
           baseDir="./submit_here"
           edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
@@ -36,7 +36,7 @@ jobs:
           done
           )
         shell: bash
-          
+
       - name: Commit & Push
         uses: actions-js/push@master
         with:
@@ -57,4 +57,4 @@ jobs:
         with:
           retain_days: 1
           keep_minimum_runs: 1
-          
+

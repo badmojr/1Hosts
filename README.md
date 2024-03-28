@@ -371,128 +371,6 @@
 </tbody>
 </table>
 <br>
-
-
-
-<h3 align="center"><id="Xtra"><strong><ins>1Hosts (Xtra)</ins></strong></h3>
-    <strong><i>variant 4</i></strong>: <i>extremly aggressive &amp; restrictive. Do not use unless you have tried <strong>Pro</strong> first!</i>
-<table align="center">
-<thead>
-<tr>
-<th>Client</th>
-<th>mirror 1</th>
-<th>mirror 2</th>
-<th>mirror 3</th>
-<th>mirror 4</th>
-<th>mirror 5</th>
-<th>mirror 6</th>
-<th>mirror 7</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AdAway</td>
-<td><a href="https://o0.pages.dev/Xtra/hosts.txt">view</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/hosts.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/hosts.txt">view</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/hosts.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.txt">view</a></td>
-</tr>
-<tr>
-<td>Pi-hole . OpenSnitch</td>
-<td><a href="https://o0.pages.dev/Xtra/domains.txt">view</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/domains.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.txt">view</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/domains.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.txt">view</a></td>
-</tr>
-<tr>
-<td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
-<td><a href="https://o0.pages.dev/Xtra/domains.wildcards">dl</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/domains.wildcards">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.wildcards">dl</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/domains.wildcards">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.wildcards">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.wildcards">dl</a></td>
-</tr>
-<tr>
-<td>uBlock Origin . AdGuardHome</td>
-<td><a href="https://o0.pages.dev/Xtra/adblock.txt">view</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/adblock.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/adblock.txt">view</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/adblock.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt">view</a></td>
-</tr>
-<tr>
-<td>DNSCloak</td>
-<td><a href="https://o0.pages.dev/Xtra/wildcards.txt">view</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/wildcards.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/wildcards.txt">view</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/wildcards.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/wildcards.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_wildcards.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/wildcards.txt">view</a></td>
-</tr>
-<tr>
-<td>dnsmasq</td>
-<td><a href="https://o0.pages.dev/Xtra/dnsmasq.conf">dl</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/dnsmasq.conf">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/dnsmasq.conf">dl</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/dnsmasq.conf">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/dnsmasq.conf">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_dnsmasq.conf">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/dnsmasq.conf">view</a></td>
-</tr>
-<tr>
-<td>Knot . Bind9 . PowerDNS</td>
-<td><a href="https://o0.pages.dev/Xtra/rpz.txt">view</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/rpz.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/rpz.txt">view</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/rpz.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/rpz.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_rpz.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/rpz.txt">view</a></td>
-</tr>
-<tr>
-<td>Unbound</td>
-<td><a href="https://o0.pages.dev/Xtra/unbound.conf">dl</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/unbound.conf">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/unbound.conf">dl</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/unbound.conf">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/unbound.conf">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_unbound.conf">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/unbound.conf">view</a></td>
-</tr>
-<tr>
-<td>Windows</td>
-<td><a href="https://o0.pages.dev/Xtra/hosts.win">dl</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/hosts.win">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/hosts.win">dl</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/hosts.win">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.win">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.win">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/hosts.win">dl</a></td>
-</tr>
-<tr>
-<td>Little Snitch</td>
-<td><a href="https://o0.pages.dev/Xtra/snitch.rules">dl</a></td>
-<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/snitch.rules">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/Xtra/snitch.rules">dl</a></td>
-<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/snitch.rules">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/snitch.rules">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_snitch.rules">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/snitch.rules">dl</a></td>
-</tr>
-</tbody>
-</table>
-<br>
 <br>
 
 **Quickstart Guide**<br>
@@ -575,11 +453,6 @@ updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries;
 <td><a href="https://max.rethinkdns.com/1:AAIAgA==">https://max.rethinkdns.com/1:AAIAgA==</a></td>
 <td>1-aababaa.max.rethinkdns.com</td>
 </tr>
-<tr>
-<td>1Hosts (Xtra)</td>
-<td><a href="https://max.rethinkdns.com/1:IAAQAA==">https://max.rethinkdns.com/1:IAAQAA==</a></td>
-<td>1-eaabaaa.max.rethinkdns.com</td>
-</tr>
 </tbody>
 </table>
 <br>
@@ -601,10 +474,6 @@ updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT suppor
 <tr>
 <td>1Hosts (Pro)</td>
 <td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
-</tr>
-<tr>
-<td>1Hosts (Xtra)</td>
-<td><a href="https://blitz.ahadns.com/1:6">https://blitz.ahadns.com/1:6</a></td>
 </tr>
 </tbody>
 </table>
