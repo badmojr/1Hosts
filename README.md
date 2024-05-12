@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Launched:&message=5%20years%20ago&color=yellowgreen&style=plastic%22"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Launched:&message=6%20years%20ago&color=yellowgreen&style=plastic%22"></a>
     <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
     <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
     <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
@@ -422,7 +422,7 @@ updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited quer
 <br>
 
 <strong><em>nextDNS: </em></strong>
-updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
+updates every 30 minutes; customizable; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
 Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
 
 <br>
@@ -452,28 +452,6 @@ updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries;
 <td>1Hosts (Pro)</td>
 <td><a href="https://max.rethinkdns.com/1:AAIAgA==">https://max.rethinkdns.com/1:AAIAgA==</a></td>
 <td>1-aababaa.max.rethinkdns.com</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-<a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
-updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>DNS-over-HTTPS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1Hosts (Lite)</td>
-<td><a href="https://blitz.ahadns.com/1:4">https://blitz.ahadns.com/1:4</a></td>
-</tr>
-<tr>
-<td>1Hosts (Pro)</td>
-<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
 </tr>
 </tbody>
 </table>
@@ -520,4 +498,3 @@ _Help us create a better experience <3!_
 <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
 &nbsp;
 <a href="https://jointherealworld.com/a/7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">
-
