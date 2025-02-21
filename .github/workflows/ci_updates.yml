@@ -13,16 +13,13 @@ jobs:
       - name: Prep submit_here
         run: |
           (
-          export LC_ALL=C
-          umask 022
-
           prints() { sed -e '$a\' "$@"; }
-          baseDir="./submit_here"
+          baseDir="./-data/lists"
           edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
 
           for file in "${edit_files[@]}"; do
           baseFile="$baseDir/$file"
-          tempFile="$baseDir/click_me_to_edit/$file"
+          tempFile="./submit_here/$file"
 
           if [[ ! -f "$tempFile" ]]; then
           touch "$tempFile"
@@ -43,14 +40,6 @@ jobs:
           branch: master
           message: merge! submit_here
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Initiate update
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.ci_PAT }}
-          repository: ${{ secrets.target_repo }}
-          event-type: Update
-          client-payload: '{"success": true}'
 
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
