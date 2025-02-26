@@ -41,6 +41,14 @@ jobs:
           message: merge! submit_here
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Initiate update
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.ci_PAT }}
+          repository: ${{ secrets.target_repo }}
+          event-type: Update
+          client-payload: '{"success": true}'
+
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
         with:
