@@ -217,7 +217,7 @@
 - Still need more? Go for **Xtra**.<br><br>
  
  
-**Free DNS Options:**<br>
+**Free DNS Options**<br>
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 <table>
