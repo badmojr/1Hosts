@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Launched:&message=7%20years%20ago&color=yellowgreen&style=plastic%22"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Experience:&message=7%20years&color=yellowgreen&style=plastic%22"></a>
     <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
     <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_Hh79f&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
     <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
@@ -7,106 +7,8 @@
 
 # ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
-<h3 align="center"><id="mini"><strong><ins>1Hosts (mini)</ins></strong></h3>
-    <strong><i>variant 1</i></strong>: <i>lenient; unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.</i>
-<table align="center">
-<thead>
-<tr>
-<th>Client</th>
-<th>mirror 1</th>
-<th>mirror 2</th>
-<th>mirror 3</th>
-<th>mirror 4</th>
-<th>mirror 5</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AdAway</td>
-<td><a href="https://o0.pages.dev/mini/hosts.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/hosts.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.txt">view</a></td>
-</tr>
-<tr>
-<td>Pi-hole . OpenSnitch</td>
-<td><a href="https://o0.pages.dev/mini/domains.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/domains.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/domains.txt">view</a></td>
-</tr>
-<tr>
-<td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td>
-<td><a href="https://o0.pages.dev/mini/domains.wildcards">dl</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/domains.wildcards">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.wildcards">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/domains.wildcards">dl</a></td>
-</tr>
-<tr>
-<td>uBlock Origin . AdGuardHome</td>
-<td><a href="https://o0.pages.dev/mini/adblock.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/adblock.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_adblock.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/adblock.txt">view</a></td>
-</tr>
-<tr>
-<td>DNSCloak</td>
-<td><a href="https://o0.pages.dev/mini/wildcards.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/wildcards.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/wildcards.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_wildcards.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/wildcards.txt">view</a></td>
-</tr>
-<tr>
-<td>dnsmasq</td>
-<td><a href="https://o0.pages.dev/mini/dnsmasq.conf">dl</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/dnsmasq.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/dnsmasq.conf">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_dnsmasq.conf">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/dnsmasq.conf">view</a></td>
-</tr>
-<tr>
-<td>Knot . Bind9 . PowerDNS</td>
-<td><a href="https://o0.pages.dev/mini/rpz.txt">view</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/rpz.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/rpz.txt">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_rpz.txt">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/rpz.txt">view</a></td>
-</tr>
-<tr>
-<td>Unbound</td>
-<td><a href="https://o0.pages.dev/mini/unbound.conf">dl</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/unbound.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/unbound.conf">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_unbound.conf">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/unbound.conf">view</a></td>
-</tr>
-<tr>
-<td>Windows</td>
-<td><a href="https://o0.pages.dev/mini/hosts.win">dl</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/hosts.win">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.win">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/hosts.win">dl</a></td>
-</tr>
-<tr>
-<td>Little Snitch</td>
-<td><a href="https://o0.pages.dev/mini/snitch.rules">dl</a></td>
-<td><a href="https://badmojr.github.io/1Hosts/mini/snitch.rules">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/snitch.rules">view</a></td>
-<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_snitch.rules">dl</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/mini/snitch.rules">dl</a></td>
-</tr>
-</tbody>
-</table>
-<br>
-
 <h3 align="center"><id="Lite"><strong><ins>1Hosts (Lite)</ins></strong></h3>
-    <strong><i>variant 2</i></strong>: <i>balanced; set & forget, doesn't hamper user experience (UX), recommended.</i>
+    <strong><i>variant 1</i></strong>: <i>balanced; set & forget, doesn't hamper user experience (UX), recommended.</i>
 <table align="center">
 <thead>
 <tr>
@@ -204,7 +106,7 @@
 <br>
 
 <h3 align="center"><id="Pro"><strong><ins>1Hosts (Pro)</ins></strong></h3>
-    <strong><i>variant 3</i></strong>:  <i>strict; has some minimal breakages, prioritizes privacy & safety (adblocking) over UX e.g blocks <code>graph.facebook.com</code>.</i>
+    <strong><i>variant 2</i></strong>:  <i>strict; has some minimal breakages, prioritizes privacy & safety (adblocking) over UX e.g blocks <code>graph.facebook.com</code>.</i>
 <table align="center">
 <thead>
 <tr>
@@ -306,19 +208,16 @@
 ----------------
 
 <p>
-   To ensure the best user experience, 1Hosts has 4 versions each with varying levels of protection.<br>
-   Our Lite version is designed not to impact UX, whereas the Pro and Xtra versions cater to users with advanced blocking needs.
+   1Hosts comes in 3 flavors, each with a different level of protection.<br>
+   The Lite version ensures a smooth UX, while Pro and Xtra target users with advanced blocking requirements.
 </p>
 
-Start with ***Lite*** first.<br>
-If you decide that ***Lite*** isn't for you, then move upwards or downwards the chain.<br>
-
-- If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
-- If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
-- ***Pro*** still not enough? **Xtra** is the way to go.<br><br>
+- Start with **Lite**—a solid all-around foundation.<br>
+- If **Lite** isn’t blocking enough, step up to **Pro**.<br>
+- Still need more? Go for **Xtra**.<br><br>
  
  
-**Use these free DNS resolvers to start using 1Hosts right away:**<br>
+**Free DNS Options:**<br>
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 <table>
@@ -368,11 +267,6 @@ updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries;
 </thead>
 <tbody>
 <tr>
-<td>1Hosts (mini)</td>
-<td><a href="https://max.rethinkdns.com/1:AAQBAA==">https://max.rethinkdns.com/1:AAQBAA==</a></td>
-<td>1-aacacaa.max.rethinkdns.com</td>
-</tr>
-<tr>
 <td>1Hosts (Lite)</td>
 <td><a href="https://max.rethinkdns.com/1:AAQCAA==">https://max.rethinkdns.com/1:AAQCAA==</a></td>
 <td>1-aacaeaa.max.rethinkdns.com</td>
@@ -384,36 +278,40 @@ updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries;
 </tr>
 </tbody>
 </table>
+<br>
+
+<p><strong>Compatible Software Suite</strong> <br>
+Android:
+<a href="https://adaway.org/">AdAway</a> &nbsp;
+<a href="https://blokada.org/">Blokada</a> &nbsp;
+<a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a> &nbsp;
+<a href="https://rethinkfirewall.com/">RethinkDNS + Firewall</a> &nbsp;
+<a href="https://invizible.net/en/">InviZible Pro</a> &nbsp;
+<br>iOS:
+<a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a> &nbsp;
+<br>PC:
+<a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a> &nbsp;
+<a href="https://adguard.com/en/adguard-home/overview.html?aid=31921">AdGuardHome</a> &nbsp;
+<a href="https://www.dnscrypt.org/">dnscrypt-proxy</a> &nbsp;
+<br>Others:
+<a href="https://pi-hole.net/">Pi-hole</a> &nbsp;
+<a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a> &nbsp;
+<a href="https://knot-resolver.cz/">Knot</a> &nbsp;
+<a href="https://www.isc.org/bind/">Bind9</a> &nbsp;
+<a href="https://www.powerdns.com/recursor.html">PowerDNS</a> &nbsp;
+<a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a> &nbsp;
+<a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a> &nbsp;
+</p>
 
 <br>
 <br>
 <p align="center"><strong>Credits & ©:</strong> <br>
-  <a href="./-data/lists/assets.txt">Dear list maintainers, thank you!</a> <br></p><br>
-  
-<p align="center"><strong>softwares:</strong> <br>
-<a href="https://adaway.org/">AdAway</a> <br>
-<a href="https://pi-hole.net/">Pi-hole</a> <br>
-<a href="https://blokada.org/">Blokada</a> <br>
-<a href="https://www.dnscrypt.org/">dnscrypt-proxy</a> <br>
-<a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a> <br>
-<a href="https://rethinkfirewall.com/">RethinkDNS + Firewall</a> <br>
-<a href="https://invizible.net/en/">InviZible Pro</a> <br>
-<a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a> <br>
-<a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a> <br>
-<a href="https://adguard.com/en/adguard-home/overview.html?aid=31921">AdGuardHome</a> <br>
-<a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a> <br>
-<a href="https://knot-resolver.cz/">Knot</a> <br>
-<a href="https://www.isc.org/bind/">Bind9</a> <br>
-<a href="https://www.powerdns.com/recursor.html">PowerDNS</a> <br>
-<a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a> <br>
-<a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a> <br>
-</p>
+  <a href="./-data/lists/assets.txt">To the curators whose diligence underpins this endeavor, thank you!</a> <br></p><br>
 
 <p align="center"><strong>users. fans. mentions.</strong> <br>
 <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
 <a href="https://docs.controld.com/docs/free-dns">docs.controld.com/docs/free-dns</a> <br>
-<a href="https://socialgrep.com/search?query=1hosts">comments: 1Hosts</a> <br>
 </p>
 
 ----------------
