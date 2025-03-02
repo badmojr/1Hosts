@@ -19,7 +19,6 @@ Type `x` in between `[ ]` and make sure there isn't any space between brackets.
 example: Type like this - `[x]` 
 ------------------------------>
 **Lists in use:**
-- [ ] mini
 - [ ] Lite
 - [ ] Pro
 - [ ] Xtra
