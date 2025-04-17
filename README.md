@@ -1,10 +1,11 @@
+
+# ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
+
 <p align="center">
     <a href="#"><img src="https://img.shields.io/static/v1?label=Experience:&message=7%20years&color=yellowgreen&style=plastic%22"></a>
     <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
     <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
-
-# ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
 <p>
    1Hosts offers 3 blocklist variants tailored to different needs:<br>
