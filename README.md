@@ -211,7 +211,7 @@
 <br>
 
 <h3 align="center"><id="Xtra"><strong><ins>1Hosts (Xtra)</ins></strong></h3>
-    <strong><i>variant 3</i></strong>: <i>Aggressive - for tech-savvy users requiring maximum blocking, even if it breaks a few things.</i>
+    <strong><i>variant 3</i></strong>: <i>Aggressive - for tech-savvy users requiring maximum blocking, even if it breaks a few things (occasionally).</i>
 <br>
     Available in all formats at <a href="https://github.com/badmojr/1Hosts/releases">releases</a>.
 
