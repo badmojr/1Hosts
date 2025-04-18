@@ -15,7 +15,8 @@
 - If **Lite** isn’t blocking enough, try **Pro**.<br><br>
 
 <h3 align="center"><id="Lite"><strong><ins>1Hosts (Lite)</ins></strong></h3>
-    <strong><i>variant 1</i></strong>: <i>Balanced - set & forget, prioritizes smooth UX, recommended for most users.</i>
+<details><summary><strong><i>variant 1</i></strong>: <i>Balanced - set & forget, prioritizes smooth UX, recommended for most users.</i></summary>
+
 <table align="center">
 <thead>
 <tr>
@@ -110,10 +111,11 @@
 </tr>
 </tbody>
 </table>
+</details>
 <br>
 
 <h3 align="center"><id="Pro"><strong><ins>1Hosts (Pro)</ins></strong></h3>
-    <strong><i>variant 2</i></strong>:  <i>Moderately strict - may introduce sporadic minor breakages, favors privacy (e.g, blocks <code>graph.facebook.com</code>).</i>
+<details><summary><strong><i>variant 2</i></strong>:  <i>Moderately strict - may introduce sporadic minor breakages, favors privacy (e.g, blocks <code>graph.facebook.com</code>).</i></summary>
 <table align="center">
 <thead>
 <tr>
@@ -208,6 +210,7 @@
 </tr>
 </tbody>
 </table>
+</details>
 <br>
 
 <h3 align="center"><id="Xtra"><strong><ins>1Hosts (Xtra)</ins></strong></h3>
