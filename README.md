@@ -1,8 +1,8 @@
+# [1Hosts](https://github.com/badmojr/1Hosts)
 
-# ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
+***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Experience:&message=7%20years&color=yellowgreen&style=plastic%22"></a>
     <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
     <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
@@ -10,9 +10,6 @@
 <p>
    1Hosts offers 3 blocklist variants tailored to different needs:<br>
 </p>
-
-- Start with **Lite**—a solid all-around foundation.<br>
-- If **Lite** isn’t blocking enough, try **Pro**.<br><br>
 
 <h3 align="center"><id="Lite"><strong><ins>1Hosts (Lite)</ins></strong></h3>
 <details><summary><strong><i>variant 1</i></strong>: <i>Balanced - set & forget, prioritizes smooth UX, recommended for most users.</i></summary>
@@ -224,8 +221,10 @@
 **Usage Notes**<br>
 ----------------
 
+- **Tip**: Start with Lite. Use Pro for more blocking, Xtra if you’re tech-savvy and can troubleshoot.
+
 Add the list URL to your adblock client’s settings or use DNS options below.<br>
- 
+
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 <table>
@@ -288,14 +287,18 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 </table>
 <br><br>
 
-<p><strong>Compatible Software Suite</strong> <br>
-<strong>Android:</strong> <a href="https://adaway.org/">AdAway</a>, <a href="https://blokada.org/">Blokada</a>, <a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a>, <a href="https://rethinkfirewall.com/">RethinkDNS</a>, <a href="https://invizible.net/en/">InviZible Pro</a><br>
-<strong>iOS:</strong> <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a><br>
-<strong>PC:</strong> <a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a>, <a href="https://adguard.com/en/adguard-home-overview.html?aid=31921">AdGuardHome</a>, <a href="https://www.dnscrypt.org/">dnscrypt-proxy</a><br>
-<strong>Others:</strong> <a href="https://pi-hole.net/">Pi-hole</a>, <a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a>, <a href="https://knot-resolver.cz/">Knot</a>, <a href="https://www.isc.org/bind/">Bind9</a>, <a href="https://www.powerdns.com/recursor.html">PowerDNS</a>, <a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a>, <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a>
-</p>
+ **Compatible Software Suite**<br>
+- **Android**: [AdAway](https://adaway.org/), [Blokada](https://blokada.org/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [RethinkDNS](https://rethinkfirewall.com/), [InviZible Pro](https://invizible.net/en/)
+- **iOS**: [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+- **PC**: [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuardHome](https://adguard.com/en/adguard-home-overview.html?aid=31921), [dnscrypt-proxy](https://www.dnscrypt.org/)
+- **Others**: [Pi-hole](https://pi-hole.net/), [OpenSnitch](https://github.com/evilsocket/opensnitch/wiki), [Knot](https://knot-resolver.cz/), [Bind9](https://www.isc.org/bind/), [PowerDNS](https://www.powerdns.com/recursor.html), [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html), [Unbound](https://nlnetlabs.nl/projects/unbound/about/), [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+
 <br>
-<br>
+
+**Why 1Hosts?**<br>
+----------------
+
+Efficient, compact, and actively maintained (since: Dec 2, 2017). Smaller in size compared to alternatives, yet blocks more for many users. Xtra may need tweaking for best results.
 
 ⠀
 ----------------
@@ -312,7 +315,7 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 
 _Help us create a better experience <3!_  
 - Star us on GitHub.
-- [Contribute](https://github.com/badmojr/1Hosts/issues) domains or fixes.
+- **Report issues**: If a domain is incorrectly blocked, report it on our [GitHub Issues](https://github.com/badmojr/1Hosts/issues).
 - Share with others.
 
 <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">&nbsp;
