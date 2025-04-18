@@ -23,16 +23,25 @@
          <br>
          <h1 id="start"><strong><em>Safeguard your device(s) against pesky ads, trackers, and malware.</em></strong><br></h1>
 
+	    <p>1Hosts offers 3 blocklist variants tailored to different needs:</p>
+	    <ul>
+	        <li>Start with <strong>Lite</strong>—a solid all-around foundation.</li>
+	        <li>If <strong>Lite</strong> isn’t blocking enough, try <strong>Pro</strong>.</li>
+	    </ul>
+	    <br>
+    	
          <div class="tabset">
             <input type="radio" name="tabset" id="tab1" aria-controls="lite" checked>
             <label for="tab1">Lite</label>
             <input type="radio" name="tabset" id="tab2" aria-controls="pro">
             <label for="tab2">Pro</label>
+            <input type="radio" name="tabset" id="tab3" aria-controls="xtra">
+            <label for="tab3">Xtra</label>
             <div class="tab-panels">
 
                <section id="lite" class="tab-panel">
                   <h3 align="center"><id="Lite"><strong><ins>1Hosts (Lite)</ins></strong></h3>
-                     <strong><i>variant 1</i></strong>: <i>balanced; set & forget, recommended.</i>
+                     <strong><i>variant 1</i></strong>: <i>Balanced - set & forget, prioritizes smooth UX, recommended for most users.</i>
                   <p>
                   <table align="center">
                      </p>
@@ -60,7 +69,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.txt">view</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>Pi-hole . OpenSnitch</td></p>
+                     <p><td>Pi-hole / OpenSnitch</td></p>
                      <p><td><a href="https://o0.pages.dev/Lite/domains.txt">view</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Lite/domains.txt">view</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt">view</a></td></p>
@@ -68,7 +77,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.txt">view</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td></p>
+                     <p><td>dnscrypt-proxy / personalDNSfilter / InviZible Pro</td></p>
                      <p><td><a href="https://o0.pages.dev/Lite/domains.wildcards">dl</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Lite/domains.wildcards">dl</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards">view</a></td></p>
@@ -76,7 +85,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.wildcards">dl</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>uBlock Origin . AdGuardHome</td></p>
+                     <p><td>uBlock Origin / AdGuardHome</td></p>
                      <p><td><a href="https://o0.pages.dev/Lite/adblock.txt">view</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Lite/adblock.txt">view</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt">view</a></td></p>
@@ -100,7 +109,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/dnsmasq.conf">view</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>Knot . Bind9 . PowerDNS</td></p>
+                     <p><td>Knot / Bind9 / PowerDNS</td></p>
                      <p><td><a href="https://o0.pages.dev/Lite/rpz.txt">view</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Lite/rpz.txt">view</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/rpz.txt">view</a></td></p>
@@ -137,7 +146,7 @@
                </section>
                <section id="pro" class="tab-panel">
                   <h3 align="center"><id="Pro"><strong><ins>1Hosts (Pro)</ins></strong></h3>
-                     <strong><i>variant 2</i></strong>:  <i>Somewhat strict; may introduce some sporadic minor breakages, favors privacy & adblocking over a flawless UX, e.g, blocks <code>graph.facebook.com</code>.</i>
+                     <strong><i>variant 2</i></strong>: <i>Moderately strict - may introduce sporadic minor breakages, favors privacy (e.g, blocks <code>graph.facebook.com</code>).</i>
                   <p>
                   <table align="center">
                      </p>
@@ -173,7 +182,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.txt">view</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>dnscrypt-proxy . personalDNSfilter . InviZible Pro</td></p>
+                     <p><td>dnscrypt-proxy / personalDNSfilter / InviZible Pro</td></p>
                      <p><td><a href="https://o0.pages.dev/Pro/domains.wildcards">dl</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Pro/domains.wildcards">dl</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards">view</a></td></p>
@@ -181,7 +190,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.wildcards">dl</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>uBlock Origin . AdGuardHome</td></p>
+                     <p><td>uBlock Origin / AdGuardHome</td></p>
                      <p><td><a href="https://o0.pages.dev/Pro/adblock.txt">view</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Pro/adblock.txt">view</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt">view</a></td></p>
@@ -205,7 +214,7 @@
                      <p><td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/dnsmasq.conf">view</a></td>
                      </tr></p>
                      <p><tr></p>
-                     <p><td>Knot . Bind9 . PowerDNS</td></p>
+                     <p><td>Knot / Bind9 / PowerDNS</td></p>
                      <p><td><a href="https://o0.pages.dev/Pro/rpz.txt">view</a></td></p>
                      <p><td><a href="https://badmojr.github.io/1Hosts/Pro/rpz.txt">view</a></td></p>
                      <p><td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/rpz.txt">view</a></td></p>
@@ -240,20 +249,15 @@
                   </table>
                   <br></p>
                </section>
+               <section id="xtra" class="tab-panel">
+                  <h3 align="center"><id="Xtra"><strong><ins>1Hosts (Xtra)</ins></strong></h3>
+                     <strong><i>variant 3</i></strong>: <i>Aggressive - for tech-savvy users requiring maximum blocking, even if it breaks a few things (occasionally).</i>
+                  <p>Available in all formats at <a href="https://github.com/badmojr/1Hosts/releases">releases</a>.
+                  <br></p>
+               </section>
             </div>
-            <h2 id="quickstart"><strong>Quickstart Guide</strong></h2>
-            <p>
-               1Hosts comes in 3 flavors, each with a different level of protection.<br>
-               Our Lite version ensures a smooth UX, while Pro and Xtra target users with advanced blocking requirements.
-            </p>
-
-            <ul>
-               <li>Start with <strong>Lite</strong>—a solid all-around foundation.</li>
-               <li>If <strong>Lite</strong> isn’t blocking enough, step up to <strong>Pro</strong>.</li>
-               <li>Still need more? Go for <strong>Xtra</strong>.</li>
-            </ul>
-            <br>
-            <strong>Free DNS Options:</strong><br>
+            <h2 id="quickstart"><strong>Usage Notes</strong></h2>
+            <p>Add the list URL to your adblock client’s settings or use DNS options below.</p>
             <a href="https://controld.com/"><strong><em>ControlD</em></strong></a><br>
             updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
             <table>
@@ -285,11 +289,11 @@
             </table>
             <br>
             <strong><em>nextDNS</em></strong><br>
-            updates every 30 minutes; customizable; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
+            updates every 30 minutes; customizable; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free); sign up required.<br>
             Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
             <br><br>
             <a href="https://rethinkdns.com"><strong><em>RethinkDNS</em></strong></a><br>
-            updates weekly; supports subdomain/wildcard & CNAME blocking; unlimited queries; open-source.<br>
+            updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited queries; open-source.<br>
             <table>
                <thead>
                   <tr>
@@ -313,52 +317,36 @@
             </table>
             <br>
             
-            <p><strong>Compatible Software Suite</strong>
-             <br>Android:
-             <a href="https://adaway.org/">AdAway</a><strong> . </strong>
-             <a href="https://blokada.org/">Blokada</a><strong> . </strong>
-             <a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a><strong> . </strong>
-             <a href="https://rethinkfirewall.com/">RethinkDNS + Firewall</a><strong> . </strong>
-             <a href="https://invizible.net/en/">InviZible Pro</a>  
-             <br>iOS:
-             <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a>  
-             <br>PC:
-             <a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a><strong> . </strong>
-             <a href="https://adguard.com/en/adguard-home/overview.html?aid=31921">AdGuardHome</a><strong> . </strong>
-             <a href="https://www.dnscrypt.org/">dnscrypt-proxy</a>  
-             <br>Others:
-             <a href="https://pi-hole.net/">Pi-hole</a><strong> . </strong>
-             <a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a><strong> . </strong>
-             <a href="https://knot-resolver.cz/">Knot</a><strong> . </strong>
-             <a href="https://www.isc.org/bind/">Bind9</a><strong> . </strong>
-             <a href="https://www.powerdns.com/recursor.html">PowerDNS</a><strong> . </strong>
-             <a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a><strong> . </strong>
-             <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a>
-             </p>
-             <br>
+            <p><strong>Compatible Software Suite</strong><br>
+		    <strong>Android:</strong> <a href="https://adaway.org/">AdAway</a>, <a href="https://blokada.org/">Blokada</a>, <a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a>, <a href="https://rethinkfirewall.com/">RethinkDNS</a>, <a href="https://invizible.net/en/">InviZible Pro</a><br>
+		    <strong>iOS:</strong> <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a><br>
+		    <strong>PC:</strong> <a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a>, <a href="https://adguard.com/en/adguard-home-overview.html?aid=31921">AdGuardHome</a>, <a href="https://www.dnscrypt.org/">dnscrypt-proxy</a><br>
+		    <strong>Others:</strong> <a href="https://pi-hole.net/">Pi-hole</a>, <a href="https://github.com/evilsocket/opensnitch/wiki">OpenSnitch</a>, <a href="https://knot-resolver.cz/">Knot</a>, <a href="https://www.isc.org/bind/">Bind9</a>, <a href="https://www.powerdns.com/recursor.html">PowerDNS</a>, <a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a>, <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a>
+		    </p>
+		    <br><br>
             
             <p align="center"><strong>Credits & ©:</strong> <br>
                <a href="./-data/lists/assets.txt">To the curators whose diligence underpins this endeavor, thank you!</a> <br>
             </p>
-            <br>
 
-            <p align="center"><strong>users. fans. mentions.</strong> <br>
-               <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
-               <a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
-               <a href="https://docs.controld.com/docs/free-dns">docs.controld.com/docs/free-dns</a> <br>
+            <p align="center"><strong>mentions</strong> <br>
+			    <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a><br>
+			    <a href="https://github.com/yokoffing/NextDNS-Config">Config NextDNS</a><br>
+			    <a href="https://controld.com/free-dns?freeResolverType=x-1hosts-lite&helpPane=platform">ControlD Setup</a><br>
             </p>
             
             <div align="center">
                 <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
                <a href="https://github.com/badmojr/1Hosts/issues"><img src="https://img.shields.io/github/issues/badmojr/1Hosts??label=Issues&color=red&logo=github&style=plastic" alt="GitHub issues"></a>
-               <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_dh7DGs&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
             </div>
       </section>
 
       <footer>
          <div>
          <i>Help us create a better experience <3.</i><br>
-         <strong>Support, donate or share.</strong><br>
+         - Star us on GitHub.<br>
+         - <a href="https://github.com/badmojr/1Hosts/issues">Contribute</a> domains or fixes.<br>
+         - Share with others.<br>
          <code>
            <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
            <a href="https://jointherealworld.com"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">    
