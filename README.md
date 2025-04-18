@@ -7,6 +7,7 @@
     <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
 
+<br>
 <p>
    1Hosts offers 3 blocklist variants tailored to different needs:<br>
 </p>
