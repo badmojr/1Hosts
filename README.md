@@ -299,7 +299,9 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 **Why 1Hosts?**<br>
 ----------------
 
-Efficient, compact, and actively maintained (since: Dec 2, 2017). Smaller in size compared to alternatives, yet blocks more for many users. Xtra may need tweaking for best results.
+Highly effective, compact, and actively maintained (since: Dec 2, 2017).
+Smaller in size compared to alternatives, yet blocks more for many users.
+Xtra may need tweaking for best results.
 
 ⠀
 ----------------
