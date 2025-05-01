@@ -113,7 +113,7 @@
 <br>
 
 <h3 align="center"><id="Pro"><strong><ins>1Hosts (Pro)</ins></strong></h3>
-<details><summary><strong><i>variant 2</i></strong>:  <i>Moderately strict - may introduce sporadic minor breaks, favors privacy (e.g, blocks <code>graph.facebook.com</code>).</i></summary>
+<details><summary><strong><i>variant 2</i></strong>:  <i>Moderately strict - may introduce sporadic minor breaks, privacy-focused (e.g, blocks <code>graph.facebook.com</code>).</i></summary>
 <table align="center">
 <thead>
 <tr>
