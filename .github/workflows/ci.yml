@@ -15,7 +15,7 @@ jobs:
           (
           prints() { sed -e '$a\' "$@"; }
           baseDir="./-data/lists"
-          edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
+          edit_files=(exclude_for_all.txt exclude_for_Lite_only.txt include_for_Xtra_only.txt include_for_all.txt)
 
           for file in "${edit_files[@]}"; do
           baseFile="$baseDir/$file"
