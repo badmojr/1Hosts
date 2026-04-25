@@ -44,7 +44,7 @@ jobs:
       - name: Initiate update
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ SECRETS_MY_PAT }}
+          token: ${{ secrets.MY_PAT }}
           repository: ${{ secrets.target_repo }}
           event-type: update
           client-payload: '{"success": true}'
