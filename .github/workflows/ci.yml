@@ -45,9 +45,10 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.MY_PAT }}
-          repository: ${{ secrets.target_repo }}
+          repository: octocat/hello-world
           event-type: update
           client-payload: '{"success": true}'
+
 
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
