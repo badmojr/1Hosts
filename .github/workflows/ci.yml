@@ -16,11 +16,9 @@ jobs:
           prints() { sed -e '$a\' "$@"; }
           baseDir="./-data/lists"
           edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
-
           for file in "${edit_files[@]}"; do
           baseFile="$baseDir/$file"
           tempFile="./submit_here/$file"
-
           if [[ ! -f "$tempFile" ]]; then
           touch "$tempFile"
           else
@@ -45,10 +43,9 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.MY_PAT }}
-          repository: octocat/hello-world
+          repository: ${{ secrets.target_repo }}
           event-type: update
           client-payload: '{"success": true}'
-
 
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
