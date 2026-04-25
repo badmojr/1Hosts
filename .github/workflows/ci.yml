@@ -3,7 +3,11 @@ name: ci
   workflow_dispatch:
   schedule:
     - cron: 02 7 * * *
+          
 
+permissions:
+  contents: write
+  
 jobs:
   init:
     runs-on: ubuntu-latest
