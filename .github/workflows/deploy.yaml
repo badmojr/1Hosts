@@ -3,7 +3,7 @@ name: Deploy
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Release filters"]
+    workflows: ["Release"]
     types: [completed]
 
 concurrency:
