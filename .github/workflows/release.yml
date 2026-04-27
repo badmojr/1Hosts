@@ -22,7 +22,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
           fetch-depth: 0
-
+          
       - name: Prep release
         id: purge_urls
         run: |
@@ -30,6 +30,7 @@ jobs:
 
           EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
           INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
+
 
           listFiles() { find "$1" -type f -print; }
 
@@ -41,6 +42,14 @@ jobs:
 
           L_DIR="${GITHUB_WORKSPACE}/-data/lists"
 
+          normalize_stream() {
+            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
+            | sed '/^[[:space:]]*$/d' \
+            | sed '/^[[:space:]]*#/d' \
+            | tr '[:upper:]' '[:lower:]' \
+            | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::'
+          }
+
           gather() {
             local names_csv="$1"; local out="$2"
             : > "$out"
@@ -50,25 +59,23 @@ jobs:
               [ -z "$n" ] && continue
               find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null \
                 | while IFS= read -r -d '' f; do
-                    sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$f" \
-                      | sed '/^[[:space:]]*$/d' \
-                      | sed '/^[[:space:]]*#/d' >> "$out"
+                    cat "$f" | normalize_stream >> "$out"
                   done || true
             done
             sort -u "$out" -o "$out" || true
           }
 
           excludes_tmp="$(mktemp)"; includes_tmp="$(mktemp)"
+          : > "$excludes_tmp"; : > "$includes_tmp"
           if [ -d "$L_DIR" ]; then
             gather "$EXCLUDE_NAMES" "$excludes_tmp"
             gather "$INCLUDE_NAMES" "$includes_tmp"
-          else
-            : > "$excludes_tmp"; : > "$includes_tmp"
           fi
 
           urls=""
           while read -r file; do
             basefile="$(basename "$file")"
+            # skip configured include/exclude files if present in tmp
             for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
             for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
 
@@ -76,21 +83,31 @@ jobs:
             newname="1hosts-$clean_file"
             clean_path=$(echo "$file" | sed 's:\./::g')
 
-            if [ -s "$excludes_tmp" ]; then
-              grep -Fvxf "$excludes_tmp" "$file" > "../release/$newname" || true
-            else
-              cp "$file" "../release/$newname"
-            fi
+            # normalize original file into tmp (preserve original ordering)
+            orig_norm="$(mktemp)"
+            normalize_stream < "$file" > "$orig_norm" || true
 
-            if [ -s "$includes_tmp" ]; then
+            # remove any normalized exclude lines
+            if [ -s "$excludes_tmp" ]; then
+              grep -Fvxf "$excludes_tmp" "$orig_norm" > "../release/$newname" || true
+            else
+              cp "$orig_norm" "../release/$newname"
+            fi
+            rm -f "$orig_norm"
+
+            # append normalized includes (dedupe preserving order)
+            if [ -s "$includes_tmp" ] && [ -f "../release/$newname" ]; then
               merged="$(mktemp)"
               cat "../release/$newname" "$includes_tmp" > "$merged" || true
               awk '!/^[[:space:]]*($|#)/ { if (!seen[$0]++) print $0 }' "$merged" > "../release/$newname" || true
               rm -f "$merged"
-            else
-              awk '!/^[[:space:]]*($|#)/ { print $0 }' "../release/$newname" > "${newname}.tmp" && mv "${newname}.tmp" "../release/$newname" || true
             fi
 
+            # restore output to original-ish form: (no protocol/www/trailing slash, lowercased)
+            # if you prefer to re-add "https://" prefix, uncomment the sed line below
+            # sed -E 's~^(.*)$~https://\1~' "../release/$newname" > "${newname}.tmp" && mv "${newname}.tmp" "../release/$newname" || true
+
+            # drop files empty after processing
             if ! grep -q '[^[:space:]#]' "../release/$newname"; then
               rm -f "../release/$newname"
               continue
