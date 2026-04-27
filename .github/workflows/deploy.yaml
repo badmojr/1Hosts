@@ -1,0 +1,93 @@
+name: Deploy 
+
+on:
+  workflow_run:
+    workflows: ["Release"]  
+    types: [completed]
+
+concurrency:
+  group: deploy-filters
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    env:
+      GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}    
+      GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}      
+      CODEBERG_REPO: ${{ secrets.CODEBERG_REPO }}     
+      CODEBERG_PAT: ${{ secrets.CODEBERG_PAT }}        
+      JSDELIVERRIDE_TAG: ${{ github.event.workflow_run.head_sha }}  
+      - name: Checkout source at released commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+          fetch-depth: 0
+
+      - name: Verify built artifact exists
+        run: |
+          if [ ! -e dist ] && [ ! -e build ]; then
+            echo "No dist/build folder found. If your release stores artifacts elsewhere, adjust this workflow."
+            exit 1
+          fi
+
+      - name: Prepare output folder
+        run: |
+          rm -rf out
+          mkdir out
+          # copy either dist or build to out (adjust to your repo)
+          if [ -d dist ]; then cp -r dist/* out/; else cp -r build/* out/; fi
+          ls -la out
+
+      # --- Push to GitHub Pages (gh-pages branch of a target GitHub repo) ---
+      - name: Publish to GitHub Pages (gh-pages)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd out
+          git init
+          git checkout -b gh-pages
+          git remote add target https://x-access-token:${GH_TARGET_PAT}@github.com/${GH_TARGET_REPO}.git
+          git add --all
+          git commit -m "Publish filter list: ${GITHUB_SHA}" || echo "No changes to commit"
+          git push --force target gh-pages
+        env:
+          GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
+          GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
+
+      # --- Push to Codeberg (push same files to a branch on Codeberg) ---
+      - name: Publish to Codeberg
+        run: |
+          cd out
+          git init
+          git checkout -b main || git checkout -b master
+          # Codeberg requires HTTPS with token in URL; CODEBERG_PAT should be a personal token
+          git remote add codeberg https://x-access-token:${CODEBERG_PAT}@codeberg.org/${CODEBERG_REPO}
+          git add --all
+          git commit -m "Publish filter list: ${GITHUB_SHA}" || echo "No changes to commit"
+          git push --force codeberg HEAD:main
+        env:
+          CODEBERG_PAT: ${{ secrets.CODEBERG_PAT }}
+          CODEBERG_REPO: ${{ secrets.CODEBERG_REPO }}
+
+      # --- Tag / release step to make files available to jsDelivr (jsDelivr serves from GitHub tags/branches) ---
+      - name: Create temporary tag for jsDelivr
+        if: ${{ secrets.GH_TARGET_REPO != '' }}
+        run: |
+          # Create a lightweight tag on the target GitHub repo so jsDelivr can serve by tag
+          # This uses the same GH_TARGET_PAT and targets the GH_TARGET_REPO (must be a GitHub repo)
+          curl -s -X POST \
+            -H "Authorization: token ${GH_TARGET_PAT}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${GH_TARGET_REPO}/git/refs \
+            -d "$(jq -n --arg ref "refs/tags/filters-${GITHUB_RUN_ID}" --arg sha "${JSDELIVERRIDE_TAG}" '{ref:$ref, sha:$sha}')" \
+          || echo "Tag creation may have failed (it may already exist)."
+        env:
+          GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
+          GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
+          JSDELIVERRIDE_TAG: ${{ env.JSDELIVERRIDE_TAG }}
+        shell: bash
+
+      - name: Success marker
+        run: echo "Deploy finished"
