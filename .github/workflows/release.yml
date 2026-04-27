@@ -6,14 +6,11 @@ on:
     branches:
       - master
     paths:
-     - 'Lite/**'
-     - 'Xtra/**'
-          
+      - 'Lite/**'
+      - 'Xtra/**'
 
 permissions:
   contents: write
-
-  
 
 jobs:
   create_release:
@@ -21,39 +18,106 @@ jobs:
 
     steps:
       - name: Clone Repo
-        uses: "actions/checkout@v4"
+        uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.ref }}
+          fetch-depth: 0
 
       - name: Prep release
         id: purge_urls
         run: |
+          set -euo pipefail
+
+          # configure which filenames (basenames) in -data/lists are excludes or includes
+          EXCLUDE_NAMES="${EXCLUDE_NAMES:-badlist.txt,blockers}"
+          INCLUDE_NAMES="${INCLUDE_NAMES:-whitelist.txt,adds}"
+
           listFiles() { find "$1" -type f -print; }
+
           base="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
           versions="master latest"
-          urls=""
+
           rm -rf release tmp && mkdir -p release tmp
           cp -rf Lite Xtra tmp && cd tmp
+
+          L_DIR="${GITHUB_WORKSPACE}/-data/lists"
+
+          gather() {
+            local names_csv="$1"; local out="$2"
+            : > "$out"
+            IFS=',' read -ra NAMES <<< "$names_csv"
+            for n in "${NAMES[@]}"; do
+              n="$(echo "$n" | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')"
+              [ -z "$n" ] && continue
+              find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null \
+                | while IFS= read -r -d '' f; do
+                    sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$f" \
+                      | sed '/^[[:space:]]*$/d' \
+                      | sed '/^[[:space:]]*#/d' >> "$out"
+                  done || true
+            done
+            sort -u "$out" -o "$out" || true
+          }
+
+          excludes_tmp="$(mktemp)"; includes_tmp="$(mktemp)"
+          if [ -d "$L_DIR" ]; then
+            gather "$EXCLUDE_NAMES" "$excludes_tmp"
+            gather "$INCLUDE_NAMES" "$includes_tmp"
+          else
+            : > "$excludes_tmp"; : > "$includes_tmp"
+          fi
+
+          urls=""
           while read -r file; do
+            basefile="$(basename "$file")"
+            # skip any files that match the specified include/exclude basenames
+            for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
+            for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
+
             clean_file=$(echo "$file" | sed 's:\./::g; s:/:_:g')
             newname="1hosts-$clean_file"
             clean_path=$(echo "$file" | sed 's:\./::g')
-            cp "$file" "../release/$newname"
+
+            if [ -s "$excludes_tmp" ]; then
+              grep -Fvxf "$excludes_tmp" "$file" > "../release/$newname" || true
+            else
+              cp "$file" "../release/$newname"
+            fi
+
+            if [ -s "$includes_tmp" ]; then
+              merged="$(mktemp)"
+              cat "../release/$newname" "$includes_tmp" > "$merged" || true
+              awk '!/^[[:space:]]*($|#)/ { if (!seen[$0]++) print $0 }' "$merged" > "../release/$newname" || true
+              rm -f "$merged"
+            else
+              awk '!/^[[:space:]]*($|#)/ { print $0 }' "../release/$newname" > "${newname}.tmp" && mv "${newname}.tmp" "../release/$newname" || true
+            fi
+
+            if ! grep -q '[^[:space:]#]' "../release/$newname"; then
+              rm -f "../release/$newname"
+              continue
+            fi
+
             for v in $versions; do
               urls+="${base}@${v}/${clean_path},"
             done
           done < <(listFiles .)
+
           cd .. && rm -rf tmp
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
         shell: bash
+        env:
+          EXCLUDE_NAMES: "badlist.txt,blockers"
+          INCLUDE_NAMES: "whitelist.txt,adds"
 
       - name: Purge jsDelivr Cache
+        if: steps.purge_urls.outputs.urls != ''
         uses: egad13/purge-jsdelivr-cache@v1.1.0
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
 
       - name: Publish Release
-        uses: "marvinpinto/action-automatic-releases@v1.2.1"
+        uses: marvinpinto/action-automatic-releases@v1.2.1
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
