@@ -12,19 +12,19 @@ concurrency:
 
 jobs:
   deploy:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
     runs-on: ubuntu-latest
     env:
       GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
       GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
       CODEBERG_REPO: ${{ secrets.CODEBERG_REPO }}
       CODEBERG_PAT: ${{ secrets.CODEBERG_PAT }}
-      JSDELIVERRIDE_TAG: ${{ github.event.workflow_run.head_sha }}
+      JSDELIVERRIDE_TAG: ${{ github.event.workflow_run.head_sha || github.sha }}
     steps:
       - name: Checkout source at released commit
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.workflow_run.head_sha }}
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
           fetch-depth: 0
 
       - name: Verify built artifact exists
@@ -74,11 +74,13 @@ jobs:
           GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
           JSDELIVERRIDE_TAG: ${{ env.JSDELIVERRIDE_TAG }}
         run: |
+          # Use provided tag SHA when available; fall back to current run SHA
+          TAG_SHA="${JSDELIVERRIDE_TAG:-${GITHUB_SHA}}"
           curl -s -X POST \
             -H "Authorization: token ${GH_TARGET_PAT}" \
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/${GH_TARGET_REPO}/git/refs \
-            -d "$(jq -n --arg ref "refs/tags/filters-${GITHUB_RUN_ID}" --arg sha "${JSDELIVERRIDE_TAG}" '{ref:$ref, sha:$sha}')" \
+            -d "$(jq -n --arg ref "refs/tags/filters-${GITHUB_RUN_ID}" --arg sha "${TAG_SHA}" '{ref:$ref, sha:$sha}')" \
           || echo "Tag creation may have failed or already exists."
 
       - name: Success marker
