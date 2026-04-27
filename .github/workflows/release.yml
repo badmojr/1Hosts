@@ -28,9 +28,8 @@ jobs:
         run: |
           set -euo pipefail
 
-          # configure which filenames (basenames) in -data/lists are excludes or includes
-          EXCLUDE_NAMES="${EXCLUDE_NAMES:-badlist.txt,blockers}"
-          INCLUDE_NAMES="${INCLUDE_NAMES:-whitelist.txt,adds}"
+          EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
+          INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
 
           listFiles() { find "$1" -type f -print; }
 
@@ -70,7 +69,6 @@ jobs:
           urls=""
           while read -r file; do
             basefile="$(basename "$file")"
-            # skip any files that match the specified include/exclude basenames
             for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
             for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
 
@@ -107,8 +105,8 @@ jobs:
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
         shell: bash
         env:
-          EXCLUDE_NAMES: "badlist.txt,blockers"
-          INCLUDE_NAMES: "whitelist.txt,adds"
+          EXCLUDE_NAMES: "exclude_for_all.txt,exclude_for_mini_Lite_only.txt"
+          INCLUDE_NAMES: "include_for_Pro_Xtra_only.txt,include_for_all.txt"
 
       - name: Purge jsDelivr Cache
         if: steps.purge_urls.outputs.urls != ''
