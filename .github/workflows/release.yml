@@ -46,6 +46,9 @@ jobs:
             sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
             | sed '/^[[:space:]]*$/d' \
             | sed '/^[[:space:]]*#/d' \
+            | sed -E 's/^(\|\|?)+//; s/^\|+//' \
+            | sed -E 's/(\^|\\\*|\/\*)$//g' \
+            | sed -E 's/\*//g' \
             | tr '[:upper:]' '[:lower:]' \
             | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::'
           }
