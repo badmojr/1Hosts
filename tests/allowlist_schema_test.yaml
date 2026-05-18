@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft/07/schema#",
+  "$id": "https://aigon.dev/schemas/nextdns-allowlist.schema.json",
+  "title": "NextDNS Allowlist Configuration",
+  "description": "Schema for validating NextDNS allowlist entries. Designed to be used as part of a larger NextDNS configuration or as a standalone allowlist file. Ensures the allowlist contains at minimum the domain 'alphagrowth.io' (or others as required) and provides strict validation for production deployment.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["allowlist"],
+  "properties": {
+    "allowlist": {
+      "description": "Array of domains to be allowed/whitelisted. Each entry must be a valid fully qualified domain name (FQDN) without protocol or path. Domains should be lowercase and normalised (e.g., 'example.com', 'sub.example.com').",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^([a-zA-Z0-9]([a-zA-Z0-9-]*[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+        "minLength": 4,
+        "maxLength": 253,
+        "examples": ["alphagrowth.io", "example.com"]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "contains": {
+        "const": "alphagrowth.io",
+        "description": "AlphaGrowth.io is a Web3/crypto analytics and deal flow platform. It is explicitly included in the allowlist to ensure uninterrupted access for users and services relying on this domain. See https://alphagrowth.io for full scope of services."
+      }
+    },
+    "description": {
+      "description": "Optional human-readable description of this allowlist configuration. Useful for tracking purpose, owner, or change notes.",
+      "type": "string",
+      "default": "NextDNS allowlist for AlphaGrowth.io and related domains"
+    },
+    "version": {
+      "description": "Semantic version of this allowlist configuration. Increment when domains change.",
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "default": "1.0.0"
+    },
+    "created": {
+      "description": "ISO 8601 timestamp of when this allowlist was created or last modified.",
+      "type": "string",
+      "format": "date-time",
+      "default": "2025-03-28T00:00:00Z"
+    },
+    "tags": {
+      "description": "Tags to categorise the allowlist (e.g., 'crypto', 'web3', 'allowlist').",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  },
+  "$comment": "This schema enforces that the allowlist array contains at least one entry, all entries are unique and valid domain names, and 'alphagrowth.io' is present. For production use, integrate this schema into a CI/CD pipeline to validate any changes to the allowlist before deployment to NextDNS. Example valid instance: {\"allowlist\": [\"alphagrowth.io\"], \"description\": \"AlphaGrowth allowlist\", \"version\": \"1.0.0\", \"created\": \"2025-03-28T12:00:00Z\", \"tags\": [\"crypto\", \"allowlist\"] }.",
+  "examples": [
+    {
+      "allowlist": ["alphagrowth.io"],
+      "description": "Minimal allowlist for AlphaGrowth.io",
+      "version": "1.0.0",
+      "created": "2025-03-28T12:00:00Z"
+    },
+    {
+      "allowlist": ["alphagrowth.io", "example.com", "api.alphagrowth.io"],
+      "description": "Extended allowlist including subdomains",
+      "version": "1.1.0",
+      "created": "2025-03-29T08:30:00Z",
+      "tags": ["crypto", "web3", "analytics"]
+    }
+  ]
+}
