@@ -1,0 +1,107 @@
+# =====================================================================
+# test_dots.yml
+# Production-grade test configuration for validating dots.yml
+# Schema version: 2.1  |  Compliant with JSON Schema draft-07
+# =====================================================================
+# This file defines expected structure, content, and validation rules
+# for 'dots.yml' used in NextDNS blocklist management.
+# It ensures correctness, completeness, security, and data quality.
+
+# ---------- Metadata ----------
+# Version of this test configuration schema
+test_schema_version: "2.1"
+
+# URI of the JSON Schema that validates this YAML configuration itself.
+# NOTE: This URL (https://aigon.dev/schemas/test_dots_v2.json) may be internal.
+# If inaccessible, the test runner should fall back to a bundled schema or skip validation.
+$schema: "https://aigon.dev/schemas/test_dots_v2.json"
+
+# ---------- Test Suite Definition ----------
+test:
+  # Name of the file under test
+  file: "dots.yml"
+
+  # ---------- Basic YAML Validity ----------
+  # The file must be valid YAML. This is checked by parsing the YAML.
+  # If the YAML parser throws an error, the test fails.
+  valid_yaml: true
+
+  # ---------- Duplicate Detection ----------
+  # If the blocklist contains duplicate values, this test will flag them.
+  # - Behavior: case-sensitive comparison (e.g., "Example.com" and "example.com" are NOT duplicates)
+  # - What is detected: exact string duplicates in flat lists; duplicate `domain` values in object lists.
+  # - What is NOT detected: variations due to Unicode normalization, trailing dots, or leading/trailing whitespace (these are caught by `validate_domain_format`).
+  detect_duplicates: true
+
+  # ---------- Domain Requirements ----------
+  # Domains that are REQUIRED to appear in the blocklist.
+  # The test fails if any required domain is missing.
+  required_domains:
+    - alphagrowth.io
+
+  # ---------- Strict Domain Allowlist ----------
+  # For maximum security, ONLY these domains are allowed in the blocklist.
+  # This prevents any unintended domains from being blocked.
+  # If the blocklist contains other domains, the test fails.
+  exact_domains:
+    - alphagrowth.io
+
+  # ---------- Blocklist Action Verification ----------
+  # The blocklist is expected to use a specific action (e.g., 'deny').
+  # - For flat lists, the default action is assumed (e.g., deny for NextDNS).
+  # - For object lists, each item must include an `action` field matching this value.
+  expected_blocklist_action: "deny"
+
+  # Structure of the blocklist:
+  #   "flat_list"      - simple array of domain strings (default action applied)
+  #   "object_list"    - array of objects with at least `domain` key, optionally `action`
+  blocklist_structure: "flat_list"
+
+  # ---------- Top-Level Key Validation ----------
+  # Allowed top-level keys in dots.yml.
+  # Prevents structural drift and accidental keys.
+  allowed_top_level_keys:
+    - blocklist
+    - version
+    - metadata
+    - schema
+    - test
+
+  # ---------- Additional Structural Checks ----------
+  # If blocklist_structure is "object_list", require an 'action' key per item.
+  # For flat_list, this key is ignored (set to null to avoid confusion).
+  require_action_key_in_items: null
+
+  # Expected item count in the blocklist (range for sanity check).
+  # Since exact_domains is set, count must be exactly 1.
+  expected_item_count:
+    min: 1
+    max: 1
+
+  # ---------- Domain Format Validation ----------
+  # If enabled, reject entries that are not valid domain names.
+  # Rules enforced:
+  # - Must comply with RFC 1035 (labels: alphanumeric + hyphen, max 63 chars, total max 253 chars)
+  # - No IP addresses (IPv4 or IPv6)
+  # - No wildcard prefixes (e.g., "*.example.com") – treat as invalid
+  # - No localhost or internal TLDs (e.g., ".local", ".internal")
+  # - Must contain at least one dot
+  validate_domain_format: true
+
+  # ---------- Schema Validation of dots.yml (Optional) ----------
+  # If you maintain a JSON Schema for dots.yml, link it here.
+  # The test runner can validate the entire YAML structure against this schema.
+  schema: "https://example.com/dots_schema.json"
+
+  # ---------- Performance Hints ----------
+  # If the file is large (e.g., >100K entries), enable streaming parser.
+  large_file: false
+
+  # ---------- Logging Level for Test Output ----------
+  # 'debug'  - prints detailed internal steps
+  # 'info'   - standard messages
+  # 'warn'   - only warnings and errors
+  # 'error'  - only errors
+  log_level: "info"
+
+# ---------- End of test configuration ----------
